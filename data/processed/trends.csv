@@ -1,0 +1,2510 @@
+country,indicator,slope,r_squared,direction,latest_value,latest_year
+Afghanistan,life_expectancy,0.4501,0.8104,improving,65.0,2015
+Afghanistan,adult_mortality,1.4956,0.0096,improving,263.0,2015
+Afghanistan,alcohol,-0.0002,0.0268,declining,0.01,2015
+Afghanistan,hepatitis_b,0.0809,0.0445,improving,65.0,2015
+Afghanistan,bmi,0.4657,0.9984,improving,19.1,2015
+Afghanistan,polio,1.5382,0.1177,improving,6.0,2015
+Afghanistan,total_expenditure,0.0137,0.0095,improving,8.16,2015
+Afghanistan,diphtheria,2.9868,0.5747,improving,65.0,2015
+Afghanistan,gdp_per_capita,0.0357,0.09,improving,0.02,2015
+Afghanistan,population,619023.2015,0.0546,improving,33736494.0,2015
+Afghanistan,thinness_1_19_years,0.5407,0.2062,improving,17.2,2015
+Afghanistan,income_composition_of_resources,0.0103,0.9744,improving,0.479,2015
+Afghanistan,schooling,0.3247,0.9611,improving,10.1,2015
+Albania,life_expectancy,0.371,0.925,improving,77.8,2015
+Albania,adult_mortality,4.5338,0.3029,improving,74.0,2015
+Albania,alcohol,0.0652,0.2235,improving,4.6,2015
+Albania,hepatitis_b,0.1882,0.6024,improving,99.0,2015
+Albania,bmi,1.0687,0.1723,improving,58.0,2015
+Albania,polio,0.1353,0.5297,improving,99.0,2015
+Albania,total_expenditure,-0.0407,0.4496,declining,6.0,2015
+Albania,diphtheria,0.1397,0.6067,improving,99.0,2015
+Albania,gdp_per_capita,14.6864,0.0368,improving,136.95,2015
+Albania,population,8310.4618,0.0012,improving,28873.0,2015
+Albania,thinness_1_19_years,-0.0643,0.9858,declining,1.2,2015
+Albania,income_composition_of_resources,0.0077,0.9887,improving,0.762,2015
+Albania,schooling,0.2903,0.9172,improving,14.2,2015
+Algeria,life_expectancy,0.321,0.9689,improving,75.6,2015
+Algeria,adult_mortality,-5.4309,0.2924,declining,19.0,2015
+Algeria,alcohol,0.0086,0.0715,improving,0.45,2015
+Algeria,hepatitis_b,0.7676,0.0158,improving,95.0,2015
+Algeria,bmi,1.0743,0.1696,improving,59.5,2015
+Algeria,polio,0.7,0.715,improving,95.0,2015
+Algeria,total_expenditure,0.2018,0.5276,improving,3.84,2015
+Algeria,diphtheria,0.7059,0.7066,improving,95.0,2015
+Algeria,gdp_per_capita,-0.1862,0.001,declining,0.1,2015
+Algeria,population,2214943.4397,0.3728,improving,39871528.0,2015
+Algeria,thinness_1_19_years,-0.0354,0.7774,declining,6.0,2015
+Algeria,income_composition_of_resources,0.0074,0.9921,improving,0.743,2015
+Algeria,schooling,0.2797,0.9752,improving,14.4,2015
+Angola,life_expectancy,0.5307,0.7923,improving,52.4,2015
+Angola,adult_mortality,10.7221,0.2102,improving,335.0,2015
+Angola,alcohol,0.4306,0.8258,improving,6.35,2015
+Angola,hepatitis_b,-0.2265,0.0577,declining,64.0,2015
+Angola,bmi,0.3966,0.1511,improving,23.3,2015
+Angola,polio,3.1529,0.2734,improving,7.0,2015
+Angola,total_expenditure,-0.0399,0.0805,declining,3.84,2015
+Angola,diphtheria,3.6603,0.4142,improving,64.0,2015
+Angola,gdp_per_capita,0.2595,0.0804,improving,1.33,2015
+Angola,population,-339481.4691,0.0285,declining,2785935.0,2015
+Angola,thinness_1_19_years,0.6204,0.598,improving,8.3,2015
+Angola,income_composition_of_resources,0.0107,0.9931,improving,0.531,2015
+Angola,schooling,0.4775,0.9873,improving,11.4,2015
+Antigua and Barbuda,life_expectancy,0.1878,0.9976,improving,76.4,2015
+Antigua and Barbuda,adult_mortality,-4.9235,0.2693,declining,13.0,2015
+Antigua and Barbuda,alcohol,0.0664,0.3165,improving,7.84,2015
+Antigua and Barbuda,hepatitis_b,0.0544,0.0749,improving,99.0,2015
+Antigua and Barbuda,bmi,1.4724,0.2673,improving,47.7,2015
+Antigua and Barbuda,polio,-0.1985,0.0803,declining,86.0,2015
+Antigua and Barbuda,total_expenditure,0.0821,0.5162,improving,4.53,2015
+Antigua and Barbuda,diphtheria,0.1426,0.3559,improving,99.0,2015
+Antigua and Barbuda,gdp_per_capita,0.1957,0.0899,improving,9.57,2015
+Antigua and Barbuda,population,0.0,,declining,1417430.0,2015
+Antigua and Barbuda,thinness_1_19_years,-0.0256,0.8905,declining,3.3,2015
+Antigua and Barbuda,income_composition_of_resources,0.0691,0.7073,improving,0.784,2015
+Antigua and Barbuda,schooling,1.2263,0.6803,improving,13.9,2015
+Argentina,life_expectancy,0.1625,0.9532,improving,76.3,2015
+Argentina,adult_mortality,-2.8706,0.0845,declining,116.0,2015
+Argentina,alcohol,0.0385,0.3903,improving,7.93,2015
+Argentina,hepatitis_b,0.9559,0.0463,improving,94.0,2015
+Argentina,bmi,0.0307,0.0001,improving,62.8,2015
+Argentina,polio,0.4235,0.3116,improving,93.0,2015
+Argentina,total_expenditure,-0.2448,0.7221,declining,6.68,2015
+Argentina,diphtheria,0.3176,0.1253,improving,94.0,2015
+Argentina,gdp_per_capita,0.0673,0.006,improving,0.31,2015
+Argentina,population,2288492.7294,0.3147,improving,43417765.0,2015
+Argentina,thinness_1_19_years,-0.0165,0.8385,declining,1.0,2015
+Argentina,income_composition_of_resources,0.0045,0.9488,improving,0.826,2015
+Argentina,schooling,0.1237,0.8269,improving,17.3,2015
+Armenia,life_expectancy,0.1659,0.9337,improving,74.8,2015
+Armenia,adult_mortality,-3.6147,0.1733,declining,118.0,2015
+Armenia,alcohol,0.0713,0.4676,improving,3.91,2015
+Armenia,hepatitis_b,1.5456,0.4325,improving,94.0,2015
+Armenia,bmi,0.2449,0.0056,improving,54.9,2015
+Armenia,polio,0.1735,0.0015,improving,96.0,2015
+Armenia,total_expenditure,-0.1176,0.5935,declining,4.56,2015
+Armenia,diphtheria,0.7265,0.027,improving,94.0,2015
+Armenia,gdp_per_capita,-1.3594,0.0057,declining,1.27,2015
+Armenia,population,76194.1,0.0756,improving,291695.0,2015
+Armenia,thinness_1_19_years,0.0,0.0,declining,2.1,2015
+Armenia,income_composition_of_resources,0.0076,0.9374,improving,0.741,2015
+Armenia,schooling,0.1524,0.8398,improving,12.7,2015
+Australia,life_expectancy,0.1268,0.1531,improving,82.8,2015
+Australia,adult_mortality,-2.1485,0.403,declining,59.0,2015
+Australia,alcohol,0.0127,0.0296,improving,10.17,2015
+Australia,hepatitis_b,-0.2544,0.6124,declining,93.0,2015
+Australia,bmi,1.8097,0.1975,improving,66.6,2015
+Australia,polio,1.8559,0.1815,improving,93.0,2015
+Australia,total_expenditure,0.0695,0.5608,improving,8.78,2015
+Australia,diphtheria,1.8235,0.1747,improving,93.0,2015
+Australia,gdp_per_capita,-25.7629,0.1067,declining,2.38,2015
+Australia,population,1242449.3706,0.4081,improving,23789338.0,2015
+Australia,thinness_1_19_years,-0.0081,0.6471,declining,0.6,2015
+Australia,income_composition_of_resources,0.0028,0.9907,improving,0.937,2015
+Australia,schooling,-0.0256,0.0468,declining,20.4,2015
+Austria,life_expectancy,0.4266,0.427,improving,81.5,2015
+Austria,adult_mortality,-1.4235,0.0511,declining,65.0,2015
+Austria,alcohol,-0.0409,0.2429,declining,12.26,2015
+Austria,hepatitis_b,2.7603,0.5665,improving,93.0,2015
+Austria,bmi,2.35,0.4398,improving,57.6,2015
+Austria,polio,1.1471,0.7334,improving,93.0,2015
+Austria,total_expenditure,0.5993,0.3785,improving,1.6,2015
+Austria,diphtheria,0.8912,0.6942,improving,93.0,2015
+Austria,gdp_per_capita,-0.9892,0.0908,declining,5.06,2015
+Austria,population,394990.8676,0.3131,improving,8633169.0,2015
+Austria,thinness_1_19_years,0.0093,0.5367,improving,1.9,2015
+Austria,income_composition_of_resources,0.0043,0.9686,improving,0.892,2015
+Austria,schooling,0.0406,0.2002,improving,15.9,2015
+Azerbaijan,life_expectancy,0.4472,0.5134,improving,72.7,2015
+Azerbaijan,adult_mortality,-0.4809,0.0019,declining,118.0,2015
+Azerbaijan,alcohol,0.0397,0.0716,improving,0.73,2015
+Azerbaijan,hepatitis_b,3.7691,0.3393,improving,96.0,2015
+Azerbaijan,bmi,-0.0449,0.0004,declining,52.5,2015
+Azerbaijan,polio,3.0044,0.2709,improving,98.0,2015
+Azerbaijan,total_expenditure,0.0036,0.0002,improving,5.37,2015
+Azerbaijan,diphtheria,1.3632,0.8342,improving,96.0,2015
+Azerbaijan,gdp_per_capita,-1.627,0.103,declining,0.01,2015
+Azerbaijan,population,399238.6294,0.2841,improving,9649341.0,2015
+Azerbaijan,thinness_1_19_years,-0.0253,0.7769,declining,2.8,2015
+Azerbaijan,income_composition_of_resources,0.0088,0.9656,improving,0.758,2015
+Azerbaijan,schooling,0.1409,0.9144,improving,12.7,2015
+Bahamas,life_expectancy,0.1959,0.9333,improving,76.1,2015
+Bahamas,adult_mortality,-2.3338,0.0428,declining,147.0,2015
+Bahamas,alcohol,-0.1509,0.6518,declining,10.15,2015
+Bahamas,hepatitis_b,1.5985,0.0779,improving,95.0,2015
+Bahamas,bmi,0.3449,0.0079,improving,64.5,2015
+Bahamas,polio,0.2853,0.3294,improving,95.0,2015
+Bahamas,total_expenditure,0.183,0.7675,improving,7.3,2015
+Bahamas,diphtheria,0.0794,0.0252,improving,95.0,2015
+Bahamas,gdp_per_capita,0.0,,declining,0.87,2015
+Bahamas,population,0.0,,declining,1417430.0,2015
+Bahamas,thinness_1_19_years,-0.0129,0.7118,declining,2.5,2015
+Bahamas,income_composition_of_resources,0.0179,0.1878,improving,0.79,2015
+Bahamas,schooling,0.0418,0.8353,improving,12.6,2015
+Bahrain,life_expectancy,0.1597,0.9934,improving,76.9,2015
+Bahrain,adult_mortality,-2.1794,0.1258,declining,69.0,2015
+Bahrain,alcohol,-0.0291,0.5244,declining,1.99,2015
+Bahrain,hepatitis_b,0.05,0.1097,improving,98.0,2015
+Bahrain,bmi,-0.3022,0.0065,declining,63.6,2015
+Bahrain,polio,0.0588,0.1176,improving,98.0,2015
+Bahrain,total_expenditure,0.0529,0.2514,improving,3.79,2015
+Bahrain,diphtheria,0.0632,0.1521,improving,98.0,2015
+Bahrain,gdp_per_capita,0.2563,0.0365,improving,16.01,2015
+Bahrain,population,0.0,,declining,1417430.0,2015
+Bahrain,thinness_1_19_years,-0.0049,0.1154,declining,6.2,2015
+Bahrain,income_composition_of_resources,0.0019,0.8488,improving,0.823,2015
+Bahrain,schooling,0.0874,0.8322,improving,14.5,2015
+Bangladesh,life_expectancy,0.5421,0.7217,improving,71.8,2015
+Bangladesh,adult_mortality,-4.0647,0.2832,declining,129.0,2015
+Bangladesh,alcohol,0.0,,declining,0.01,2015
+Bangladesh,hepatitis_b,2.5618,0.1532,improving,97.0,2015
+Bangladesh,bmi,0.9009,0.7656,improving,18.3,2015
+Bangladesh,polio,1.9647,0.1888,improving,97.0,2015
+Bangladesh,total_expenditure,0.0517,0.4033,improving,2.8,2015
+Bangladesh,diphtheria,0.8559,0.5726,improving,97.0,2015
+Bangladesh,gdp_per_capita,-0.0382,0.0558,declining,0.08,2015
+Bangladesh,population,1394523.3765,0.0112,improving,1612886.0,2015
+Bangladesh,thinness_1_19_years,1.2559,0.577,improving,17.9,2015
+Bangladesh,income_composition_of_resources,0.0078,0.9955,improving,0.575,2015
+Bangladesh,schooling,0.194,0.9511,improving,10.2,2015
+Barbados,life_expectancy,0.1525,0.9959,improving,75.5,2015
+Barbados,adult_mortality,-8.5147,0.5874,declining,98.0,2015
+Barbados,alcohol,0.093,0.733,improving,8.41,2015
+Barbados,hepatitis_b,1.9,0.2247,improving,97.0,2015
+Barbados,bmi,0.4303,0.0327,improving,54.5,2015
+Barbados,polio,0.8074,0.0188,improving,97.0,2015
+Barbados,total_expenditure,0.1239,0.5629,improving,5.82,2015
+Barbados,diphtheria,0.2809,0.1123,improving,97.0,2015
+Barbados,gdp_per_capita,0.2309,0.0808,improving,10.98,2015
+Barbados,population,0.0,,declining,1417430.0,2015
+Barbados,thinness_1_19_years,-0.0346,0.884,declining,3.8,2015
+Barbados,income_composition_of_resources,0.0036,0.9832,improving,0.794,2015
+Barbados,schooling,0.1128,0.7711,improving,15.3,2015
+Belarus,life_expectancy,0.3857,0.855,improving,72.3,2015
+Belarus,adult_mortality,-7.2765,0.3771,declining,196.0,2015
+Belarus,alcohol,0.2768,0.5057,improving,13.94,2015
+Belarus,hepatitis_b,2.6103,0.2628,improving,99.0,2015
+Belarus,bmi,-0.1899,0.0048,declining,62.3,2015
+Belarus,polio,0.6735,0.0173,improving,99.0,2015
+Belarus,total_expenditure,-0.0522,0.1686,declining,6.44,2015
+Belarus,diphtheria,1.1485,0.0552,improving,99.0,2015
+Belarus,gdp_per_capita,-0.0103,0.0008,declining,0.63,2015
+Belarus,population,203767.7368,0.0503,improving,9489616.0,2015
+Belarus,thinness_1_19_years,-0.0526,0.9447,declining,1.9,2015
+Belarus,income_composition_of_resources,0.0096,0.966,improving,0.798,2015
+Belarus,schooling,0.1838,0.928,improving,15.6,2015
+Belgium,life_expectancy,0.5484,0.6312,improving,81.1,2015
+Belgium,adult_mortality,1.3309,0.0385,improving,74.0,2015
+Belgium,alcohol,-0.021,0.0149,declining,11.01,2015
+Belgium,hepatitis_b,6.2324,0.6827,improving,98.0,2015
+Belgium,bmi,1.0822,0.0545,improving,63.7,2015
+Belgium,polio,0.2353,0.6972,improving,99.0,2015
+Belgium,total_expenditure,-0.513,0.4233,declining,8.29,2015
+Belgium,diphtheria,0.3221,0.8119,improving,99.0,2015
+Belgium,gdp_per_capita,3.6492,0.0174,improving,0.39,2015
+Belgium,population,535634.925,0.3732,improving,11274196.0,2015
+Belgium,thinness_1_19_years,0.015,0.7846,improving,1.0,2015
+Belgium,income_composition_of_resources,0.0015,0.5503,improving,0.895,2015
+Belgium,schooling,-0.1653,0.4174,declining,16.6,2015
+Belize,life_expectancy,0.1396,0.8263,improving,71.0,2015
+Belize,adult_mortality,1.6853,0.0141,improving,175.0,2015
+Belize,alcohol,0.1195,0.5346,improving,6.56,2015
+Belize,hepatitis_b,0.3441,0.1014,improving,94.0,2015
+Belize,bmi,-0.3932,0.0133,declining,5.9,2015
+Belize,polio,0.0941,0.0538,improving,94.0,2015
+Belize,total_expenditure,0.1076,0.5585,improving,4.76,2015
+Belize,diphtheria,0.1426,0.0819,improving,94.0,2015
+Belize,gdp_per_capita,-3.0893,0.0526,declining,13.5,2015
+Belize,population,12072.0471,0.1513,improving,359288.0,2015
+Belize,thinness_1_19_years,-0.0207,0.815,declining,3.5,2015
+Belize,income_composition_of_resources,0.0022,0.8537,improving,0.706,2015
+Belize,schooling,0.0613,0.5659,improving,12.8,2015
+Benin,life_expectancy,0.346,0.9787,improving,60.0,2015
+Benin,adult_mortality,-2.8794,0.7632,declining,249.0,2015
+Benin,alcohol,-0.0611,0.333,declining,1.19,2015
+Benin,hepatitis_b,0.8735,0.0237,improving,82.0,2015
+Benin,bmi,0.8074,0.2911,improving,25.7,2015
+Benin,polio,-1.2397,0.0636,declining,78.0,2015
+Benin,total_expenditure,0.02,0.1156,improving,4.59,2015
+Benin,diphtheria,-0.1515,0.0009,declining,82.0,2015
+Benin,gdp_per_capita,0.3596,0.0053,improving,0.5,2015
+Benin,population,-243910.075,0.0913,declining,1575952.0,2015
+Benin,thinness_1_19_years,-0.1871,0.9981,declining,6.9,2015
+Benin,income_composition_of_resources,0.0056,0.9772,improving,0.481,2015
+Benin,schooling,0.28,0.9743,improving,10.7,2015
+Bhutan,life_expectancy,0.5688,0.9744,improving,69.8,2015
+Bhutan,adult_mortality,-0.9794,0.006,declining,211.0,2015
+Bhutan,alcohol,-0.0242,0.1963,declining,0.21,2015
+Bhutan,hepatitis_b,0.4912,0.2996,improving,99.0,2015
+Bhutan,bmi,0.5766,0.2702,improving,24.5,2015
+Bhutan,polio,1.1882,0.0683,improving,98.0,2015
+Bhutan,total_expenditure,-0.1521,0.3761,declining,5.27,2015
+Bhutan,diphtheria,0.5941,0.5563,improving,99.0,2015
+Bhutan,gdp_per_capita,6.3137,0.0028,improving,3.32,2015
+Bhutan,population,31580.0368,0.2101,improving,787386.0,2015
+Bhutan,thinness_1_19_years,-0.2475,0.9973,declining,15.4,2015
+Bhutan,income_composition_of_resources,0.0478,0.653,improving,0.604,2015
+Bhutan,schooling,0.3888,0.9842,improving,12.5,2015
+Bolivia (Plurinational State of),life_expectancy,0.7813,0.906,improving,77.0,2015
+Bolivia (Plurinational State of),adult_mortality,-3.2235,0.0386,declining,186.0,2015
+Bolivia (Plurinational State of),alcohol,0.1216,0.7449,improving,3.47,2015
+Bolivia (Plurinational State of),hepatitis_b,2.4941,0.3122,improving,99.0,2015
+Bolivia (Plurinational State of),bmi,0.064,0.0008,improving,52.6,2015
+Bolivia (Plurinational State of),polio,1.1485,0.0667,improving,99.0,2015
+Bolivia (Plurinational State of),total_expenditure,-0.0042,0.0018,declining,5.56,2015
+Bolivia (Plurinational State of),diphtheria,1.5941,0.8608,improving,99.0,2015
+Bolivia (Plurinational State of),gdp_per_capita,0.0,,declining,0.87,2015
+Bolivia (Plurinational State of),population,0.0,,declining,1417430.0,2015
+Bolivia (Plurinational State of),thinness_1_19_years,-0.0215,0.8708,declining,1.2,2015
+Bolivia (Plurinational State of),income_composition_of_resources,0.0045,0.9822,improving,0.671,2015
+Bolivia (Plurinational State of),schooling,-0.0132,0.0368,declining,13.8,2015
+Bosnia and Herzegovina,life_expectancy,0.1801,0.9292,improving,77.4,2015
+Bosnia and Herzegovina,adult_mortality,1.025,0.012,improving,88.0,2015
+Bosnia and Herzegovina,alcohol,0.0376,0.1561,improving,4.54,2015
+Bosnia and Herzegovina,hepatitis_b,0.45,0.0053,improving,82.0,2015
+Bosnia and Herzegovina,bmi,0.8726,0.1225,improving,55.8,2015
+Bosnia and Herzegovina,polio,-1.3632,0.0558,declining,74.0,2015
+Bosnia and Herzegovina,total_expenditure,0.1432,0.5563,improving,8.58,2015
+Bosnia and Herzegovina,diphtheria,0.8765,0.023,improving,82.0,2015
+Bosnia and Herzegovina,gdp_per_capita,4.2462,0.1554,improving,1.29,2015
+Bosnia and Herzegovina,population,-47076.9985,0.0154,declining,3535961.0,2015
+Bosnia and Herzegovina,thinness_1_19_years,-0.0625,0.9879,declining,2.3,2015
+Bosnia and Herzegovina,income_composition_of_resources,0.0649,0.7339,improving,0.747,2015
+Bosnia and Herzegovina,schooling,0.4441,0.3952,improving,14.2,2015
+Botswana,life_expectancy,1.5006,0.9512,improving,65.7,2015
+Botswana,adult_mortality,-37.7029,0.8117,declining,256.0,2015
+Botswana,alcohol,-0.2776,0.3054,declining,5.51,2015
+Botswana,hepatitis_b,1.6721,0.1423,improving,95.0,2015
+Botswana,bmi,1.0375,0.3808,improving,37.9,2015
+Botswana,polio,-0.0574,0.4588,declining,96.0,2015
+Botswana,total_expenditure,0.0301,0.0612,improving,5.56,2015
+Botswana,diphtheria,-0.1456,0.8541,declining,95.0,2015
+Botswana,gdp_per_capita,0.2027,0.0062,improving,28.5,2015
+Botswana,population,-25702.5765,0.0194,declining,229197.0,2015
+Botswana,thinness_1_19_years,-0.1179,0.0265,declining,6.4,2015
+Botswana,income_composition_of_resources,0.0113,0.966,improving,0.698,2015
+Botswana,schooling,0.0662,0.9439,improving,12.6,2015
+Brazil,life_expectancy,0.1943,0.5011,improving,75.0,2015
+Brazil,adult_mortality,-1.0721,0.0183,declining,142.0,2015
+Brazil,alcohol,0.027,0.3549,improving,7.21,2015
+Brazil,hepatitis_b,0.1926,0.1569,improving,96.0,2015
+Brazil,bmi,0.7659,0.0952,improving,56.1,2015
+Brazil,polio,-0.1779,0.5022,declining,98.0,2015
+Brazil,total_expenditure,0.0959,0.5995,improving,8.27,2015
+Brazil,diphtheria,-0.225,0.3517,declining,96.0,2015
+Brazil,gdp_per_capita,0.7379,0.0881,improving,3.37,2015
+Brazil,population,-4792370.3765,0.0616,declining,2596218.0,2015
+Brazil,thinness_1_19_years,-0.0494,0.9882,declining,2.7,2015
+Brazil,income_composition_of_resources,0.0045,0.9286,improving,0.754,2015
+Brazil,schooling,0.0268,0.0537,improving,15.2,2015
+Brunei Darussalam,life_expectancy,0.2153,0.8304,improving,77.7,2015
+Brunei Darussalam,adult_mortality,0.7485,0.011,improving,78.0,2015
+Brunei Darussalam,alcohol,-0.0028,0.0016,declining,0.25,2015
+Brunei Darussalam,hepatitis_b,-0.1147,0.0937,declining,99.0,2015
+Brunei Darussalam,bmi,0.6013,0.0666,improving,41.2,2015
+Brunei Darussalam,polio,0.1412,0.0721,improving,99.0,2015
+Brunei Darussalam,total_expenditure,-0.0762,0.4564,declining,2.65,2015
+Brunei Darussalam,diphtheria,0.2779,0.2615,improving,99.0,2015
+Brunei Darussalam,gdp_per_capita,0.617,0.0651,improving,2.8,2015
+Brunei Darussalam,population,0.0,,declining,1417430.0,2015
+Brunei Darussalam,thinness_1_19_years,-0.0818,0.9798,declining,5.7,2015
+Brunei Darussalam,income_composition_of_resources,0.0032,0.9744,improving,0.864,2015
+Brunei Darussalam,schooling,0.1066,0.8495,improving,14.9,2015
+Bulgaria,life_expectancy,0.2188,0.9831,improving,74.5,2015
+Bulgaria,adult_mortality,0.0206,0.0,improving,137.0,2015
+Bulgaria,alcohol,0.0808,0.4278,improving,10.89,2015
+Bulgaria,hepatitis_b,0.1088,0.061,improving,92.0,2015
+Bulgaria,bmi,0.9026,0.0517,improving,65.7,2015
+Bulgaria,polio,-0.1971,0.1913,declining,91.0,2015
+Bulgaria,total_expenditure,0.0252,0.0449,improving,7.23,2015
+Bulgaria,diphtheria,-0.1588,0.1383,declining,91.0,2015
+Bulgaria,gdp_per_capita,-0.4804,0.0232,declining,0.97,2015
+Bulgaria,population,272483.8103,0.1501,improving,7177991.0,2015
+Bulgaria,thinness_1_19_years,-0.0416,0.9585,declining,1.9,2015
+Bulgaria,income_composition_of_resources,0.0055,0.9818,improving,0.792,2015
+Bulgaria,schooling,0.1394,0.9591,improving,15.0,2015
+Burkina Faso,life_expectancy,0.5837,0.8256,improving,59.9,2015
+Burkina Faso,adult_mortality,-14.0382,0.3416,declining,26.0,2015
+Burkina Faso,alcohol,-0.0681,0.0781,declining,4.55,2015
+Burkina Faso,hepatitis_b,-1.0574,0.0598,declining,91.0,2015
+Burkina Faso,bmi,0.4832,0.9954,improving,19.4,2015
+Burkina Faso,polio,-0.4882,0.0051,declining,91.0,2015
+Burkina Faso,total_expenditure,0.0086,0.0025,improving,5.91,2015
+Burkina Faso,diphtheria,1.1721,0.0616,improving,91.0,2015
+Burkina Faso,gdp_per_capita,0.0215,0.0083,improving,0.34,2015
+Burkina Faso,population,167746.225,0.0135,improving,1811624.0,2015
+Burkina Faso,thinness_1_19_years,0.0849,0.0116,improving,8.0,2015
+Burkina Faso,income_composition_of_resources,0.0346,0.7913,improving,0.399,2015
+Burkina Faso,schooling,0.3328,0.9758,improving,7.7,2015
+Burundi,life_expectancy,0.4644,0.6134,improving,59.6,2015
+Burundi,adult_mortality,-14.1926,0.2622,declining,288.0,2015
+Burundi,alcohol,-0.365,0.6268,declining,4.5,2015
+Burundi,hepatitis_b,0.2412,0.0904,improving,94.0,2015
+Burundi,bmi,0.3962,0.9817,improving,18.7,2015
+Burundi,polio,1.8941,0.8426,improving,94.0,2015
+Burundi,total_expenditure,0.1933,0.1486,improving,7.54,2015
+Burundi,diphtheria,2.7912,0.3779,improving,94.0,2015
+Burundi,gdp_per_capita,-0.396,0.1302,declining,0.28,2015
+Burundi,population,-441926.9662,0.3478,declining,119927.0,2015
+Burundi,thinness_1_19_years,-0.1119,0.9802,declining,7.3,2015
+Burundi,income_composition_of_resources,0.0112,0.9415,improving,0.406,2015
+Burundi,schooling,0.5125,0.9559,improving,10.6,2015
+Côte d'Ivoire,life_expectancy,0.4118,0.8052,improving,53.3,2015
+Côte d'Ivoire,adult_mortality,-12.225,0.326,declining,397.0,2015
+Côte d'Ivoire,alcohol,-0.0632,0.1444,declining,3.12,2015
+Côte d'Ivoire,hepatitis_b,1.2221,0.0527,improving,83.0,2015
+Côte d'Ivoire,bmi,1.1085,0.4685,improving,28.0,2015
+Côte d'Ivoire,polio,2.7632,0.2902,improving,81.0,2015
+Côte d'Ivoire,total_expenditure,0.0763,0.3262,improving,5.87,2015
+Côte d'Ivoire,diphtheria,-0.0103,0.0,declining,83.0,2015
+Côte d'Ivoire,gdp_per_capita,0.0,,declining,0.87,2015
+Côte d'Ivoire,population,0.0,,declining,1417430.0,2015
+Côte d'Ivoire,thinness_1_19_years,-0.1747,0.9981,declining,5.5,2015
+Côte d'Ivoire,income_composition_of_resources,0.0,,declining,0.631,2015
+Côte d'Ivoire,schooling,0.0,,declining,11.7,2015
+Cabo Verde,life_expectancy,0.0472,0.0236,improving,73.3,2015
+Cabo Verde,adult_mortality,-3.0721,0.1203,declining,114.0,2015
+Cabo Verde,alcohol,-0.1625,0.1881,declining,4.16,2015
+Cabo Verde,hepatitis_b,1.1162,0.0302,improving,96.0,2015
+Cabo Verde,bmi,0.1315,0.01,improving,31.3,2015
+Cabo Verde,polio,1.1235,0.0328,improving,93.0,2015
+Cabo Verde,total_expenditure,-0.0425,0.2315,declining,4.81,2015
+Cabo Verde,diphtheria,2.7353,0.1399,improving,93.0,2015
+Cabo Verde,gdp_per_capita,10.6886,0.0924,improving,5.54,2015
+Cabo Verde,population,12047.3029,0.0592,improving,532913.0,2015
+Cabo Verde,thinness_1_19_years,-0.2029,0.9947,declining,6.6,2015
+Cabo Verde,income_composition_of_resources,0.0189,0.338,improving,0.646,2015
+Cabo Verde,schooling,0.1929,0.9239,improving,13.5,2015
+Cambodia,life_expectancy,0.7193,0.9311,improving,68.7,2015
+Cambodia,adult_mortality,-9.0971,0.312,declining,174.0,2015
+Cambodia,alcohol,-0.0601,0.1302,declining,1.71,2015
+Cambodia,hepatitis_b,0.3059,0.0053,improving,89.0,2015
+Cambodia,bmi,0.4988,0.9867,improving,19.6,2015
+Cambodia,polio,1.9309,0.1806,improving,87.0,2015
+Cambodia,total_expenditure,-0.0037,0.0006,declining,5.87,2015
+Cambodia,diphtheria,3.3985,0.3393,improving,89.0,2015
+Cambodia,gdp_per_capita,0.2619,0.0104,improving,0.07,2015
+Cambodia,population,-44477.5368,0.001,declining,15517635.0,2015
+Cambodia,thinness_1_19_years,-0.4284,0.3993,declining,1.9,2015
+Cambodia,income_composition_of_resources,0.0107,0.9733,improving,0.558,2015
+Cambodia,schooling,0.2221,0.7845,improving,10.9,2015
+Cameroon,life_expectancy,0.4234,0.9864,improving,57.3,2015
+Cameroon,adult_mortality,9.6647,0.0852,improving,357.0,2015
+Cameroon,alcohol,-0.175,0.1478,declining,4.71,2015
+Cameroon,hepatitis_b,-0.1515,0.0014,declining,84.0,2015
+Cameroon,bmi,0.9401,0.5538,improving,29.0,2015
+Cameroon,polio,0.9559,0.055,improving,83.0,2015
+Cameroon,total_expenditure,-0.0225,0.0588,declining,4.73,2015
+Cameroon,diphtheria,1.8074,0.1145,improving,84.0,2015
+Cameroon,gdp_per_capita,0.1625,0.0023,improving,0.05,2015
+Cameroon,population,9806.8338,0.0,improving,22834522.0,2015
+Cameroon,thinness_1_19_years,-0.1421,0.9915,declining,5.6,2015
+Cameroon,income_composition_of_resources,0.0051,0.9514,improving,0.514,2015
+Cameroon,schooling,0.2375,0.9034,improving,10.4,2015
+Canada,life_expectancy,0.1826,0.1507,improving,82.2,2015
+Canada,adult_mortality,-0.2471,0.0026,declining,64.0,2015
+Canada,alcohol,0.0468,0.6009,improving,8.2,2015
+Canada,hepatitis_b,2.6397,0.4263,improving,55.0,2015
+Canada,bmi,1.8709,0.2079,improving,67.0,2015
+Canada,polio,0.3309,0.0059,improving,91.0,2015
+Canada,total_expenditure,-0.432,0.2714,declining,9.37,2015
+Canada,diphtheria,0.0926,0.0352,improving,91.0,2015
+Canada,gdp_per_capita,-69.6541,0.5821,declining,12.08,2015
+Canada,population,1555705.925,0.2172,improving,3584861.0,2015
+Canada,thinness_1_19_years,0.0022,0.1765,improving,0.6,2015
+Canada,income_composition_of_resources,0.0034,0.9799,improving,0.919,2015
+Canada,schooling,0.0159,0.3729,improving,16.3,2015
+Central African Republic,life_expectancy,0.6244,0.7177,improving,52.5,2015
+Central African Republic,adult_mortality,27.0279,0.4279,improving,397.0,2015
+Central African Republic,alcohol,-0.0693,0.286,declining,1.5,2015
+Central African Republic,hepatitis_b,-0.425,0.1127,declining,47.0,2015
+Central African Republic,bmi,0.09,0.0051,improving,22.7,2015
+Central African Republic,polio,0.7574,0.0959,improving,47.0,2015
+Central African Republic,total_expenditure,-0.0216,0.1611,declining,4.1,2015
+Central African Republic,diphtheria,0.5515,0.0446,improving,47.0,2015
+Central African Republic,gdp_per_capita,0.1143,0.0216,improving,7.66,2015
+Central African Republic,population,96722.2706,0.0489,improving,45461.0,2015
+Central African Republic,thinness_1_19_years,0.4828,0.4289,improving,8.2,2015
+Central African Republic,income_composition_of_resources,0.0037,0.7858,improving,0.347,2015
+Central African Republic,schooling,0.1421,0.9834,improving,7.1,2015
+Chad,life_expectancy,0.4094,0.5818,improving,53.1,2015
+Chad,adult_mortality,27.2088,0.5529,improving,356.0,2015
+Chad,alcohol,0.0085,0.0734,improving,0.42,2015
+Chad,hepatitis_b,-0.1309,0.004,declining,46.0,2015
+Chad,bmi,0.3472,0.9967,improving,19.1,2015
+Chad,polio,1.5059,0.189,improving,52.0,2015
+Chad,total_expenditure,-0.2722,0.5989,declining,3.42,2015
+Chad,diphtheria,0.7074,0.0826,improving,46.0,2015
+Chad,gdp_per_capita,-0.2211,0.0116,declining,5.2,2015
+Chad,population,426747.4926,0.1412,improving,149413.0,2015
+Chad,thinness_1_19_years,0.1257,0.0219,improving,8.5,2015
+Chad,income_composition_of_resources,0.0144,0.5463,improving,0.394,2015
+Chad,schooling,0.1874,0.9595,improving,7.3,2015
+Chile,life_expectancy,0.3835,0.7756,improving,85.0,2015
+Chile,adult_mortality,5.0559,0.4087,improving,82.0,2015
+Chile,alcohol,0.0788,0.3937,improving,7.2,2015
+Chile,hepatitis_b,-2.4294,0.1579,declining,97.0,2015
+Chile,bmi,0.2476,0.0077,improving,63.8,2015
+Chile,polio,-2.4941,0.1656,declining,96.0,2015
+Chile,total_expenditure,0.0607,0.3919,improving,6.93,2015
+Chile,diphtheria,-1.1603,0.0667,declining,96.0,2015
+Chile,gdp_per_capita,0.1143,0.0533,improving,0.77,2015
+Chile,population,67996.3868,0.004,improving,17762681.0,2015
+Chile,thinness_1_19_years,-0.0185,0.849,declining,0.8,2015
+Chile,income_composition_of_resources,0.0059,0.9926,improving,0.845,2015
+Chile,schooling,0.175,0.9677,improving,16.3,2015
+China,life_expectancy,0.2721,0.9658,improving,76.1,2015
+China,adult_mortality,3.6941,0.2255,improving,85.0,2015
+China,alcohol,0.2128,0.6789,improving,3.88,2015
+China,hepatitis_b,4.8632,0.5709,improving,99.0,2015
+China,bmi,0.4234,0.0421,improving,32.9,2015
+China,polio,1.1456,0.8302,improving,99.0,2015
+China,total_expenditure,0.0524,0.3498,improving,4.79,2015
+China,diphtheria,1.1838,0.8672,improving,99.0,2015
+China,gdp_per_capita,-14.3994,0.0975,declining,6.34,2015
+China,population,-19377.0779,0.0356,declining,137122.0,2015
+China,thinness_1_19_years,-0.1532,0.9933,declining,3.6,2015
+China,income_composition_of_resources,0.0103,0.9936,improving,0.734,2015
+China,schooling,0.2835,0.9673,improving,13.5,2015
+Colombia,life_expectancy,0.2218,0.9578,improving,74.8,2015
+Colombia,adult_mortality,-1.0971,0.0091,declining,143.0,2015
+Colombia,alcohol,-0.0054,0.0451,declining,4.41,2015
+Colombia,hepatitis_b,0.4324,0.0054,improving,91.0,2015
+Colombia,bmi,1.0763,0.1747,improving,57.9,2015
+Colombia,polio,-1.1882,0.0765,declining,91.0,2015
+Colombia,total_expenditure,0.0884,0.5911,improving,6.25,2015
+Colombia,diphtheria,0.3485,0.0035,improving,91.0,2015
+Colombia,gdp_per_capita,-0.1921,0.2744,declining,0.01,2015
+Colombia,population,1385980.2824,0.1067,improving,48228697.0,2015
+Colombia,thinness_1_19_years,-0.0344,0.9586,declining,2.1,2015
+Colombia,income_composition_of_resources,0.0053,0.9678,improving,0.724,2015
+Colombia,schooling,0.1775,0.8887,improving,13.6,2015
+Comoros,life_expectancy,0.2754,0.4789,improving,63.5,2015
+Comoros,adult_mortality,-7.3074,0.3361,declining,227.0,2015
+Comoros,alcohol,-0.0077,0.1757,declining,0.12,2015
+Comoros,hepatitis_b,1.4515,0.2187,improving,91.0,2015
+Comoros,bmi,0.4675,0.1138,improving,24.2,2015
+Comoros,polio,4.5221,0.4814,improving,92.0,2015
+Comoros,total_expenditure,0.223,0.662,improving,4.57,2015
+Comoros,diphtheria,4.5691,0.514,improving,91.0,2015
+Comoros,gdp_per_capita,1.9257,0.1086,improving,0.94,2015
+Comoros,population,-1861.8603,0.0013,declining,777424.0,2015
+Comoros,thinness_1_19_years,-0.0785,0.9937,declining,6.7,2015
+Comoros,income_composition_of_resources,0.0401,0.7104,improving,0.498,2015
+Comoros,schooling,0.1881,0.9623,improving,11.1,2015
+Congo,life_expectancy,0.9925,0.8265,improving,64.7,2015
+Congo,adult_mortality,-8.9,0.2021,declining,267.0,2015
+Congo,alcohol,-0.084,0.1129,declining,2.45,2015
+Congo,hepatitis_b,-2.425,0.2156,declining,8.0,2015
+Congo,bmi,1.0697,0.4529,improving,27.4,2015
+Congo,polio,0.6221,0.0118,improving,8.0,2015
+Congo,total_expenditure,0.1363,0.3522,improving,2.54,2015
+Congo,diphtheria,1.0735,0.0304,improving,8.0,2015
+Congo,gdp_per_capita,0.0,,declining,0.87,2015
+Congo,population,0.0,,declining,1417430.0,2015
+Congo,thinness_1_19_years,-0.1376,0.9976,declining,7.5,2015
+Congo,income_composition_of_resources,0.0075,0.9587,improving,0.59,2015
+Congo,schooling,0.1188,0.7599,improving,11.1,2015
+Cook Islands,life_expectancy,,,declining,69.0,2013
+Cook Islands,adult_mortality,,,declining,163.0,2013
+Cook Islands,alcohol,,,declining,0.01,2013
+Cook Islands,hepatitis_b,,,declining,98.0,2013
+Cook Islands,bmi,,,declining,82.8,2013
+Cook Islands,polio,,,declining,98.0,2013
+Cook Islands,total_expenditure,,,declining,3.58,2013
+Cook Islands,diphtheria,,,declining,98.0,2013
+Cook Islands,gdp_per_capita,,,declining,0.87,2013
+Cook Islands,population,,,declining,1417430.0,2013
+Cook Islands,thinness_1_19_years,,,declining,0.1,2013
+Cook Islands,income_composition_of_resources,,,declining,0.631,2013
+Cook Islands,schooling,,,declining,11.7,2013
+Costa Rica,life_expectancy,0.131,0.7691,improving,79.6,2015
+Costa Rica,adult_mortality,3.6235,0.1678,improving,95.0,2015
+Costa Rica,alcohol,-0.0541,0.5231,declining,4.09,2015
+Costa Rica,hepatitis_b,2.2515,0.149,improving,92.0,2015
+Costa Rica,bmi,0.1532,0.002,improving,6.5,2015
+Costa Rica,polio,1.2132,0.0247,improving,92.0,2015
+Costa Rica,total_expenditure,0.1468,0.5977,improving,8.45,2015
+Costa Rica,diphtheria,0.7735,0.0176,improving,92.0,2015
+Costa Rica,gdp_per_capita,2.4451,0.0576,improving,2.35,2015
+Costa Rica,population,-73906.5221,0.0283,declining,487852.0,2015
+Costa Rica,thinness_1_19_years,-0.0453,0.9458,declining,1.7,2015
+Costa Rica,income_composition_of_resources,0.0048,0.995,improving,0.775,2015
+Costa Rica,schooling,0.1697,0.9974,improving,14.2,2015
+Croatia,life_expectancy,0.2357,0.9618,improving,78.0,2015
+Croatia,adult_mortality,-5.3029,0.3181,declining,95.0,2015
+Croatia,alcohol,-0.082,0.3652,declining,12.21,2015
+Croatia,hepatitis_b,-0.1044,0.2326,declining,94.0,2015
+Croatia,bmi,-0.0257,0.0,declining,63.7,2015
+Croatia,polio,0.0559,0.0885,improving,94.0,2015
+Croatia,total_expenditure,0.0865,0.4234,improving,7.66,2015
+Croatia,diphtheria,0.0912,0.1592,improving,94.0,2015
+Croatia,gdp_per_capita,-432.0389,0.0942,declining,273.34,2015
+Croatia,population,246583.3471,0.3911,improving,42364.0,2015
+Croatia,thinness_1_19_years,-0.0413,0.9687,declining,1.5,2015
+Croatia,income_composition_of_resources,0.0055,0.9684,improving,0.823,2015
+Croatia,schooling,0.1997,0.9458,improving,15.3,2015
+Cuba,life_expectancy,0.1474,0.8862,improving,79.1,2015
+Cuba,adult_mortality,2.6868,0.0845,improving,92.0,2015
+Cuba,alcohol,0.0043,0.0182,improving,4.16,2015
+Cuba,hepatitis_b,-0.0588,0.0119,declining,99.0,2015
+Cuba,bmi,0.6182,0.0291,improving,61.4,2015
+Cuba,polio,0.0485,0.2329,improving,99.0,2015
+Cuba,total_expenditure,0.0875,0.0147,improving,6.5,2015
+Cuba,diphtheria,0.6426,0.1921,improving,99.0,2015
+Cuba,gdp_per_capita,-0.0491,0.0236,declining,0.54,2015
+Cuba,population,0.0,,declining,1417430.0,2015
+Cuba,thinness_1_19_years,-0.009,0.3447,declining,3.5,2015
+Cuba,income_composition_of_resources,0.0076,0.8322,improving,0.773,2015
+Cuba,schooling,0.2187,0.3049,improving,13.9,2015
+Cyprus,life_expectancy,0.3256,0.6812,improving,85.0,2015
+Cyprus,adult_mortality,-0.0559,0.0002,declining,52.0,2015
+Cyprus,alcohol,-0.2374,0.1516,declining,10.8,2015
+Cyprus,hepatitis_b,0.7,0.834,improving,97.0,2015
+Cyprus,bmi,-0.6941,0.0679,declining,6.3,2015
+Cyprus,polio,0.0941,0.251,improving,97.0,2015
+Cyprus,total_expenditure,0.1069,0.7057,improving,6.83,2015
+Cyprus,diphtheria,0.0941,0.251,improving,97.0,2015
+Cyprus,gdp_per_capita,-221.2431,0.0408,declining,20.3,2015
+Cyprus,population,-15314.9235,0.0257,declining,116985.0,2015
+Cyprus,thinness_1_19_years,0.0022,0.1765,improving,1.0,2015
+Cyprus,income_composition_of_resources,0.0039,0.8926,improving,0.854,2015
+Cyprus,schooling,0.1175,0.7517,improving,14.3,2015
+Czechia,life_expectancy,0.2766,0.9909,improving,78.8,2015
+Czechia,adult_mortality,-2.3221,0.0538,declining,86.0,2015
+Czechia,alcohol,-0.0455,0.41,declining,13.19,2015
+Czechia,hepatitis_b,0.2735,0.1353,improving,97.0,2015
+Czechia,bmi,1.7403,0.1845,improving,66.1,2015
+Czechia,polio,0.1324,0.2978,improving,97.0,2015
+Czechia,total_expenditure,0.0647,0.4615,improving,6.93,2015
+Czechia,diphtheria,0.0147,0.0075,improving,97.0,2015
+Czechia,gdp_per_capita,0.0,,declining,11.61,2015
+Czechia,population,0.0,,declining,1167660.0,2015
+Czechia,thinness_1_19_years,-0.0346,0.9457,declining,1.8,2015
+Czechia,income_composition_of_resources,0.0,,declining,0.862,2015
+Czechia,schooling,0.0,,declining,15.8,2015
+Democratic People's Republic of Korea,life_expectancy,0.4487,0.7436,improving,76.0,2015
+Democratic People's Republic of Korea,adult_mortality,-2.5926,0.8642,declining,139.0,2015
+Democratic People's Republic of Korea,alcohol,-0.043,0.0603,declining,3.16,2015
+Democratic People's Republic of Korea,hepatitis_b,0.9324,0.0699,improving,96.0,2015
+Democratic People's Republic of Korea,bmi,0.0365,0.0004,improving,32.9,2015
+Democratic People's Republic of Korea,polio,0.1647,0.2635,improving,99.0,2015
+Democratic People's Republic of Korea,total_expenditure,0.0,,declining,5.39,2015
+Democratic People's Republic of Korea,diphtheria,2.6618,0.8169,improving,96.0,2015
+Democratic People's Republic of Korea,gdp_per_capita,0.0,,declining,0.87,2015
+Democratic People's Republic of Korea,population,0.0,,declining,1417430.0,2015
+Democratic People's Republic of Korea,thinness_1_19_years,-0.0785,0.9902,declining,4.9,2015
+Democratic People's Republic of Korea,income_composition_of_resources,0.0,,declining,0.631,2015
+Democratic People's Republic of Korea,schooling,0.0,,declining,11.7,2015
+Democratic Republic of the Congo,life_expectancy,0.5885,0.9942,improving,59.8,2015
+Democratic Republic of the Congo,adult_mortality,1.0824,0.003,improving,258.0,2015
+Democratic Republic of the Congo,alcohol,-0.0835,0.2863,declining,1.81,2015
+Democratic Republic of the Congo,hepatitis_b,-1.3324,0.0566,declining,81.0,2015
+Democratic Republic of the Congo,bmi,-0.0841,0.0051,declining,21.6,2015
+Democratic Republic of the Congo,polio,4.5941,0.6122,improving,78.0,2015
+Democratic Republic of the Congo,total_expenditure,0.1285,0.4304,improving,3.53,2015
+Democratic Republic of the Congo,diphtheria,3.1618,0.233,improving,81.0,2015
+Democratic Republic of the Congo,gdp_per_capita,0.0,,declining,0.87,2015
+Democratic Republic of the Congo,population,0.0,,declining,1417430.0,2015
+Democratic Republic of the Congo,thinness_1_19_years,-0.5304,0.2797,declining,9.5,2015
+Democratic Republic of the Congo,income_composition_of_resources,0.0,,declining,0.631,2015
+Democratic Republic of the Congo,schooling,0.0,,declining,11.7,2015
+Denmark,life_expectancy,0.4678,0.7631,improving,86.0,2015
+Denmark,adult_mortality,4.0221,0.3364,improving,71.0,2015
+Denmark,alcohol,-0.1322,0.6602,declining,10.99,2015
+Denmark,hepatitis_b,0.0,,declining,95.0,2015
+Denmark,bmi,0.4321,0.9897,improving,58.8,2015
+Denmark,polio,-0.9118,0.0415,declining,93.0,2015
+Denmark,total_expenditure,-0.2618,0.1072,declining,9.51,2015
+Denmark,diphtheria,-0.9118,0.0415,declining,93.0,2015
+Denmark,gdp_per_capita,0.8483,0.0108,improving,0.94,2015
+Denmark,population,63332.5647,0.0185,improving,5683483.0,2015
+Denmark,thinness_1_19_years,-0.0135,0.803,declining,1.1,2015
+Denmark,income_composition_of_resources,0.0042,0.9153,improving,0.923,2015
+Denmark,schooling,0.184,0.7143,improving,19.2,2015
+Djibouti,life_expectancy,0.474,0.5416,improving,63.5,2015
+Djibouti,adult_mortality,-4.9779,0.1161,declining,241.0,2015
+Djibouti,alcohol,-0.0597,0.6863,declining,0.53,2015
+Djibouti,hepatitis_b,-0.0118,0.0,declining,84.0,2015
+Djibouti,bmi,0.7962,0.1098,improving,35.0,2015
+Djibouti,polio,2.3265,0.6281,improving,84.0,2015
+Djibouti,total_expenditure,0.0988,0.0588,improving,7.5,2015
+Djibouti,diphtheria,2.25,0.6287,improving,84.0,2015
+Djibouti,gdp_per_capita,-0.0868,0.0051,declining,2.01,2015
+Djibouti,population,21943.4132,0.0906,improving,927414.0,2015
+Djibouti,thinness_1_19_years,-0.0543,0.8787,declining,5.6,2015
+Djibouti,income_composition_of_resources,0.0081,0.9888,improving,0.47,2015
+Djibouti,schooling,0.2644,0.9782,improving,6.3,2015
+Dominica,life_expectancy,,,declining,69.0,2013
+Dominica,adult_mortality,,,declining,163.0,2013
+Dominica,alcohol,,,declining,0.01,2013
+Dominica,hepatitis_b,,,declining,96.0,2013
+Dominica,bmi,,,declining,58.4,2013
+Dominica,polio,,,declining,96.0,2013
+Dominica,total_expenditure,,,declining,5.58,2013
+Dominica,diphtheria,,,declining,96.0,2013
+Dominica,gdp_per_capita,,,declining,0.51,2013
+Dominica,population,,,declining,1417430.0,2013
+Dominica,thinness_1_19_years,,,declining,2.7,2013
+Dominica,income_composition_of_resources,,,declining,0.721,2013
+Dominica,schooling,,,declining,12.7,2013
+Dominican Republic,life_expectancy,0.1757,0.3794,improving,73.9,2015
+Dominican Republic,adult_mortality,-0.8059,0.0038,declining,152.0,2015
+Dominican Republic,alcohol,-0.0195,0.0863,declining,6.05,2015
+Dominican Republic,hepatitis_b,-1.3559,0.0487,declining,81.0,2015
+Dominican Republic,bmi,1.1293,0.1859,improving,58.9,2015
+Dominican Republic,polio,-0.2735,0.0045,declining,87.0,2015
+Dominican Republic,total_expenditure,-0.0994,0.5551,declining,4.34,2015
+Dominican Republic,diphtheria,0.6368,0.4122,improving,85.0,2015
+Dominican Republic,gdp_per_capita,6.1666,0.069,improving,4.23,2015
+Dominican Republic,population,-453784.2074,0.2462,declining,1528394.0,2015
+Dominican Republic,thinness_1_19_years,-0.036,0.8928,declining,3.3,2015
+Dominican Republic,income_composition_of_resources,0.0046,0.9869,improving,0.718,2015
+Dominican Republic,schooling,0.0719,0.9881,improving,13.2,2015
+Ecuador,life_expectancy,0.1962,0.9407,improving,76.2,2015
+Ecuador,adult_mortality,-2.7471,0.1437,declining,118.0,2015
+Ecuador,alcohol,-0.0002,0.0,declining,3.82,2015
+Ecuador,hepatitis_b,0.8338,0.0288,improving,78.0,2015
+Ecuador,bmi,0.1747,0.003,improving,54.2,2015
+Ecuador,polio,2.05,0.1255,improving,84.0,2015
+Ecuador,total_expenditure,0.1959,0.509,improving,5.9,2015
+Ecuador,diphtheria,-0.3456,0.1127,declining,78.0,2015
+Ecuador,gdp_per_capita,-2.4752,0.0884,declining,0.04,2015
+Ecuador,population,431947.6809,0.0893,improving,16144368.0,2015
+Ecuador,thinness_1_19_years,-0.0257,0.9215,declining,1.2,2015
+Ecuador,income_composition_of_resources,0.0046,0.9691,improving,0.739,2015
+Ecuador,schooling,0.0985,0.9124,improving,14.0,2015
+Egypt,life_expectancy,0.6741,0.7062,improving,79.0,2015
+Egypt,adult_mortality,-1.1265,0.7007,declining,159.0,2015
+Egypt,alcohol,0.0061,0.7137,improving,0.21,2015
+Egypt,hepatitis_b,-0.2956,0.6009,declining,93.0,2015
+Egypt,bmi,0.6541,0.033,improving,61.1,2015
+Egypt,polio,-0.2956,0.6009,declining,93.0,2015
+Egypt,total_expenditure,-0.02,0.0853,declining,5.4,2015
+Egypt,diphtheria,-0.2956,0.6009,declining,93.0,2015
+Egypt,gdp_per_capita,0.0,,declining,0.87,2015
+Egypt,population,0.0,,declining,1417430.0,2015
+Egypt,thinness_1_19_years,-0.0509,0.9673,declining,2.8,2015
+Egypt,income_composition_of_resources,0.0058,0.992,improving,0.688,2015
+Egypt,schooling,0.1457,0.9591,improving,13.1,2015
+El Salvador,life_expectancy,0.2372,0.4348,improving,73.5,2015
+El Salvador,adult_mortality,2.0662,0.0155,improving,178.0,2015
+El Salvador,alcohol,-0.0341,0.5257,declining,2.77,2015
+El Salvador,hepatitis_b,1.1191,0.0615,improving,91.0,2015
+El Salvador,bmi,0.9709,0.0843,improving,56.1,2015
+El Salvador,polio,0.0029,0.0,improving,92.0,2015
+El Salvador,total_expenditure,-0.0891,0.5004,declining,6.91,2015
+El Salvador,diphtheria,0.8132,0.0329,improving,91.0,2015
+El Salvador,gdp_per_capita,-3.9804,0.0385,declining,0.65,2015
+El Salvador,population,201240.6706,0.1069,improving,6312478.0,2015
+El Salvador,thinness_1_19_years,-0.0363,0.9557,declining,1.6,2015
+El Salvador,income_composition_of_resources,0.0047,0.9458,improving,0.678,2015
+El Salvador,schooling,0.119,0.7713,improving,13.2,2015
+Equatorial Guinea,life_expectancy,0.3532,0.9903,improving,58.2,2015
+Equatorial Guinea,adult_mortality,-13.7941,0.2876,declining,32.0,2015
+Equatorial Guinea,alcohol,0.1765,0.0855,improving,7.19,2015
+Equatorial Guinea,hepatitis_b,0.0206,0.0015,improving,16.0,2015
+Equatorial Guinea,bmi,0.6425,0.1524,improving,24.5,2015
+Equatorial Guinea,polio,-1.7971,0.185,declining,17.0,2015
+Equatorial Guinea,total_expenditure,0.1164,0.3098,improving,2.5,2015
+Equatorial Guinea,diphtheria,-1.4926,0.22,declining,16.0,2015
+Equatorial Guinea,gdp_per_capita,5.0319,0.1125,improving,1.15,2015
+Equatorial Guinea,population,1965.5368,0.0006,improving,1175389.0,2015
+Equatorial Guinea,thinness_1_19_years,0.5684,0.5354,improving,8.4,2015
+Equatorial Guinea,income_composition_of_resources,0.0156,0.2635,improving,0.582,2015
+Equatorial Guinea,schooling,0.2641,0.3108,improving,9.2,2015
+Eritrea,life_expectancy,0.7747,0.5744,improving,64.7,2015
+Eritrea,adult_mortality,-9.9765,0.1976,declining,255.0,2015
+Eritrea,alcohol,-0.0428,0.3246,declining,0.62,2015
+Eritrea,hepatitis_b,-0.3294,0.0055,declining,95.0,2015
+Eritrea,bmi,0.4031,0.9833,improving,18.6,2015
+Eritrea,polio,-0.2632,0.0035,declining,95.0,2015
+Eritrea,total_expenditure,-0.054,0.3702,declining,3.3,2015
+Eritrea,diphtheria,1.1853,0.0382,improving,95.0,2015
+Eritrea,gdp_per_capita,0.0456,0.0049,improving,0.14,2015
+Eritrea,population,-77514.6971,0.053,declining,1981886.0,2015
+Eritrea,thinness_1_19_years,0.2546,0.1929,improving,8.4,2015
+Eritrea,income_composition_of_resources,0.0364,0.7206,improving,0.418,2015
+Eritrea,schooling,0.0485,0.3216,improving,5.0,2015
+Estonia,life_expectancy,0.1981,0.1633,improving,77.6,2015
+Estonia,adult_mortality,-7.5015,0.9654,declining,119.0,2015
+Estonia,alcohol,-0.2501,0.0248,declining,11.64,2015
+Estonia,hepatitis_b,0.7647,0.0293,improving,91.0,2015
+Estonia,bmi,0.3966,0.9922,improving,59.9,2015
+Estonia,polio,-0.0676,0.1197,declining,93.0,2015
+Estonia,total_expenditure,0.1,0.4369,improving,5.28,2015
+Estonia,diphtheria,-0.0441,0.0563,declining,93.0,2015
+Estonia,gdp_per_capita,-8.0596,0.0143,declining,13.49,2015
+Estonia,population,24476.7926,0.0324,improving,131547.0,2015
+Estonia,thinness_1_19_years,-0.0382,0.872,declining,1.9,2015
+Estonia,income_composition_of_resources,0.006,0.9558,improving,0.863,2015
+Estonia,schooling,0.1141,0.8265,improving,16.5,2015
+Ethiopia,life_expectancy,0.9871,0.8414,improving,64.8,2015
+Ethiopia,adult_mortality,-11.6044,0.3985,declining,225.0,2015
+Ethiopia,alcohol,0.0261,0.0831,improving,1.06,2015
+Ethiopia,hepatitis_b,0.6059,0.1339,improving,77.0,2015
+Ethiopia,bmi,0.3547,0.9971,improving,17.6,2015
+Ethiopia,polio,-0.9471,0.0387,declining,75.0,2015
+Ethiopia,total_expenditure,0.083,0.2328,improving,4.64,2015
+Ethiopia,diphtheria,4.3926,0.6822,improving,77.0,2015
+Ethiopia,gdp_per_capita,-0.0362,0.0005,declining,0.06,2015
+Ethiopia,population,1328951.45,0.024,improving,9987333.0,2015
+Ethiopia,thinness_1_19_years,-0.8269,0.6972,declining,1.4,2015
+Ethiopia,income_composition_of_resources,0.0181,0.6567,improving,0.441,2015
+Ethiopia,schooling,0.3297,0.9208,improving,8.4,2015
+Fiji,life_expectancy,0.15,0.9938,improving,69.9,2015
+Fiji,adult_mortality,-2.1588,0.0115,declining,188.0,2015
+Fiji,alcohol,-0.1064,0.3176,declining,1.93,2015
+Fiji,hepatitis_b,0.0412,0.3294,improving,99.0,2015
+Fiji,bmi,1.0862,0.0841,improving,62.7,2015
+Fiji,polio,0.4941,0.7428,improving,99.0,2015
+Fiji,total_expenditure,0.0623,0.5533,improving,3.84,2015
+Fiji,diphtheria,2.3691,0.258,improving,99.0,2015
+Fiji,gdp_per_capita,1.1159,0.0889,improving,5.52,2015
+Fiji,population,-24234.1853,0.1172,declining,892149.0,2015
+Fiji,thinness_1_19_years,-0.0216,0.839,declining,4.0,2015
+Fiji,income_composition_of_resources,0.0031,0.9446,improving,0.734,2015
+Fiji,schooling,0.1563,0.9839,improving,15.3,2015
+Finland,life_expectancy,0.5621,0.6363,improving,81.1,2015
+Finland,adult_mortality,3.6088,0.2272,improving,76.0,2015
+Finland,alcohol,0.0132,0.0126,improving,9.72,2015
+Finland,hepatitis_b,0.0,,declining,89.0,2015
+Finland,bmi,-0.5188,0.0188,declining,62.1,2015
+Finland,polio,0.2221,0.5896,improving,97.0,2015
+Finland,total_expenditure,0.1329,0.7075,improving,8.43,2015
+Finland,diphtheria,0.0029,0.0003,improving,97.0,2015
+Finland,gdp_per_capita,-19.5882,0.3223,declining,0.77,2015
+Finland,population,409344.0956,0.6046,improving,5479531.0,2015
+Finland,thinness_1_19_years,0.0,,declining,0.9,2015
+Finland,income_composition_of_resources,0.0025,0.9278,improving,0.893,2015
+Finland,schooling,-0.0684,0.4893,declining,17.0,2015
+France,life_expectancy,0.1925,0.0837,improving,82.4,2015
+France,adult_mortality,3.4324,0.2836,improving,78.0,2015
+France,alcohol,-0.1679,0.7778,declining,12.2,2015
+France,hepatitis_b,4.4471,0.9403,improving,86.0,2015
+France,bmi,-0.4287,0.0129,declining,62.5,2015
+France,polio,0.0735,0.1671,improving,98.0,2015
+France,total_expenditure,0.546,0.2877,improving,9.77,2015
+France,diphtheria,0.1132,0.4878,improving,98.0,2015
+France,gdp_per_capita,0.3318,0.0101,improving,5.48,2015
+France,population,-726933.7647,0.0143,declining,6662468.0,2015
+France,thinness_1_19_years,-0.0035,0.1412,declining,0.7,2015
+France,income_composition_of_resources,0.0033,0.9725,improving,0.894,2015
+France,schooling,0.0547,0.7166,improving,16.3,2015
+Gabon,life_expectancy,0.3622,0.651,improving,66.0,2015
+Gabon,adult_mortality,5.0309,0.0444,improving,229.0,2015
+Gabon,alcohol,-0.1312,0.0797,declining,8.64,2015
+Gabon,hepatitis_b,-2.2044,0.1692,declining,8.0,2015
+Gabon,bmi,1.0204,0.2278,improving,36.3,2015
+Gabon,polio,1.9206,0.1978,improving,79.0,2015
+Gabon,total_expenditure,0.0243,0.1115,improving,3.22,2015
+Gabon,diphtheria,0.1059,0.0004,improving,8.0,2015
+Gabon,gdp_per_capita,4.1086,0.0222,improving,38.25,2015
+Gabon,population,21915.0044,0.0208,improving,193175.0,2015
+Gabon,thinness_1_19_years,-0.1319,0.9886,declining,6.1,2015
+Gabon,income_composition_of_resources,0.0038,0.8995,improving,0.694,2015
+Gabon,schooling,0.0232,0.9294,improving,12.6,2015
+Gambia,life_expectancy,0.5979,0.7029,improving,61.1,2015
+Gambia,adult_mortality,8.9118,0.2158,improving,262.0,2015
+Gambia,alcohol,-0.0838,0.1228,declining,2.47,2015
+Gambia,hepatitis_b,0.3971,0.6721,improving,97.0,2015
+Gambia,bmi,0.9462,0.3616,improving,27.3,2015
+Gambia,polio,0.9118,0.783,improving,96.0,2015
+Gambia,total_expenditure,0.213,0.8353,improving,5.75,2015
+Gambia,diphtheria,2.5647,0.3114,improving,97.0,2015
+Gambia,gdp_per_capita,0.0,,declining,0.87,2015
+Gambia,population,0.0,,declining,1417430.0,2015
+Gambia,thinness_1_19_years,0.1747,0.099,improving,7.3,2015
+Gambia,income_composition_of_resources,0.005,0.9686,improving,0.45,2015
+Gambia,schooling,0.1662,0.8799,improving,8.9,2015
+Georgia,life_expectancy,0.1631,0.6754,improving,74.4,2015
+Georgia,adult_mortality,-1.5662,0.0343,declining,129.0,2015
+Georgia,alcohol,0.3004,0.5248,improving,6.13,2015
+Georgia,hepatitis_b,2.9794,0.6062,improving,94.0,2015
+Georgia,bmi,0.611,0.0616,improving,56.2,2015
+Georgia,polio,0.8779,0.041,improving,91.0,2015
+Georgia,total_expenditure,-0.0724,0.0198,declining,8.39,2015
+Georgia,diphtheria,2.5735,0.3385,improving,94.0,2015
+Georgia,gdp_per_capita,137.2744,0.0013,improving,101.28,2015
+Georgia,population,-865.8441,0.0679,declining,37171.0,2015
+Georgia,thinness_1_19_years,-0.0259,0.6327,declining,2.7,2015
+Georgia,income_composition_of_resources,0.0216,0.314,improving,0.768,2015
+Georgia,schooling,0.1615,0.9646,improving,13.9,2015
+Germany,life_expectancy,0.5688,0.6423,improving,81.0,2015
+Germany,adult_mortality,-0.8588,0.025,declining,68.0,2015
+Germany,alcohol,-0.102,0.7792,declining,11.5,2015
+Germany,hepatitis_b,1.775,0.0999,improving,88.0,2015
+Germany,bmi,-0.7904,0.0445,declining,62.3,2015
+Germany,polio,-0.1368,0.4405,declining,94.0,2015
+Germany,total_expenditure,0.4881,0.2792,improving,1.52,2015
+Germany,diphtheria,1.9235,0.1799,improving,95.0,2015
+Germany,gdp_per_capita,1.3565,0.0951,improving,0.5,2015
+Germany,population,-3278896.875,0.154,declining,81686611.0,2015
+Germany,thinness_1_19_years,-0.0057,0.4588,declining,1.1,2015
+Germany,income_composition_of_resources,0.0047,0.972,improving,0.924,2015
+Germany,schooling,0.06,0.9871,improving,17.1,2015
+Ghana,life_expectancy,0.4609,0.4482,improving,62.4,2015
+Ghana,adult_mortality,17.6838,0.5181,improving,249.0,2015
+Ghana,alcohol,-0.0714,0.2773,declining,1.53,2015
+Ghana,hepatitis_b,2.2279,0.0816,improving,88.0,2015
+Ghana,bmi,1.2429,0.5529,improving,28.6,2015
+Ghana,polio,2.8809,0.2394,improving,88.0,2015
+Ghana,total_expenditure,0.0896,0.3165,improving,4.63,2015
+Ghana,diphtheria,1.3294,0.0368,improving,88.0,2015
+Ghana,gdp_per_capita,-0.0064,0.0028,declining,0.05,2015
+Ghana,population,934961.4647,0.1508,improving,27582821.0,2015
+Ghana,thinness_1_19_years,-0.2024,0.9973,declining,6.2,2015
+Ghana,income_composition_of_resources,0.0074,0.9762,improving,0.575,2015
+Ghana,schooling,0.3182,0.9342,improving,11.4,2015
+Greece,life_expectancy,0.5066,0.6437,improving,81.0,2015
+Greece,adult_mortality,-0.6176,0.0271,declining,72.0,2015
+Greece,alcohol,-0.0608,0.1374,declining,9.0,2015
+Greece,hepatitis_b,2.0603,0.2091,improving,96.0,2015
+Greece,bmi,1.0143,0.1154,improving,66.5,2015
+Greece,polio,2.2015,0.2228,improving,99.0,2015
+Greece,total_expenditure,0.0757,0.3655,improving,9.24,2015
+Greece,diphtheria,0.6206,0.7536,improving,99.0,2015
+Greece,gdp_per_capita,-12.3977,0.0627,declining,1.03,2015
+Greece,population,95495.3632,0.0287,improving,182883.0,2015
+Greece,thinness_1_19_years,-0.0041,0.3294,declining,0.8,2015
+Greece,income_composition_of_resources,0.0045,0.8334,improving,0.865,2015
+Greece,schooling,0.2109,0.9154,improving,17.2,2015
+Grenada,life_expectancy,-0.131,0.0935,declining,73.6,2015
+Grenada,adult_mortality,-4.35,0.2724,declining,142.0,2015
+Grenada,alcohol,-0.1137,0.5069,declining,8.8,2015
+Grenada,hepatitis_b,0.0309,0.0013,improving,92.0,2015
+Grenada,bmi,0.9674,0.2085,improving,48.4,2015
+Grenada,polio,-0.1265,0.0124,declining,99.0,2015
+Grenada,total_expenditure,-0.0235,0.0417,declining,6.15,2015
+Grenada,diphtheria,0.0412,0.0023,improving,92.0,2015
+Grenada,gdp_per_capita,0.1884,0.2642,improving,6.5,2015
+Grenada,population,0.0,,declining,1417430.0,2015
+Grenada,thinness_1_19_years,-0.0296,0.7729,declining,3.8,2015
+Grenada,income_composition_of_resources,0.0604,0.6486,improving,0.751,2015
+Grenada,schooling,0.124,0.9249,improving,15.8,2015
+Guatemala,life_expectancy,0.3213,0.2141,improving,71.9,2015
+Guatemala,adult_mortality,7.1897,0.1543,improving,186.0,2015
+Guatemala,alcohol,-0.0374,0.6923,declining,2.35,2015
+Guatemala,hepatitis_b,-0.4588,0.1193,declining,74.0,2015
+Guatemala,bmi,0.484,0.0267,improving,5.6,2015
+Guatemala,polio,0.3721,0.0031,improving,9.0,2015
+Guatemala,total_expenditure,-0.0029,0.0008,declining,6.71,2015
+Guatemala,diphtheria,0.0662,0.002,improving,74.0,2015
+Guatemala,gdp_per_capita,-0.2437,0.0251,declining,0.24,2015
+Guatemala,population,697828.4118,0.2248,improving,16252429.0,2015
+Guatemala,thinness_1_19_years,-0.0253,0.9159,declining,1.2,2015
+Guatemala,income_composition_of_resources,0.006,0.9765,improving,0.637,2015
+Guatemala,schooling,0.1712,0.9075,improving,10.7,2015
+Guinea,life_expectancy,0.4865,0.9534,improving,59.0,2015
+Guinea,adult_mortality,-6.6941,0.0775,declining,284.0,2015
+Guinea,alcohol,-0.0095,0.2691,declining,0.18,2015
+Guinea,hepatitis_b,0.0956,0.0176,improving,54.0,2015
+Guinea,bmi,0.2343,0.0325,improving,23.3,2015
+Guinea,polio,-0.3485,0.0129,declining,42.0,2015
+Guinea,total_expenditure,0.1294,0.4758,improving,3.76,2015
+Guinea,diphtheria,1.8235,0.1629,improving,54.0,2015
+Guinea,gdp_per_capita,0.154,0.2323,improving,0.43,2015
+Guinea,population,-98194.2603,0.0098,declining,1291533.0,2015
+Guinea,thinness_1_19_years,0.1669,0.0908,improving,7.3,2015
+Guinea,income_composition_of_resources,0.0069,0.9791,improving,0.414,2015
+Guinea,schooling,0.2894,0.9032,improving,8.8,2015
+Guinea-Bissau,life_expectancy,0.4763,0.9936,improving,58.9,2015
+Guinea-Bissau,adult_mortality,23.9191,0.7508,improving,275.0,2015
+Guinea-Bissau,alcohol,-0.115,0.2156,declining,2.58,2015
+Guinea-Bissau,hepatitis_b,-0.3882,0.0088,declining,87.0,2015
+Guinea-Bissau,bmi,0.8037,0.2821,improving,26.3,2015
+Guinea-Bissau,polio,2.3265,0.9365,improving,87.0,2015
+Guinea-Bissau,total_expenditure,0.0453,0.1868,improving,5.84,2015
+Guinea-Bissau,diphtheria,3.1088,0.3233,improving,87.0,2015
+Guinea-Bissau,gdp_per_capita,0.052,0.027,improving,3.36,2015
+Guinea-Bissau,population,25176.3956,0.031,improving,177526.0,2015
+Guinea-Bissau,thinness_1_19_years,0.16,0.0839,improving,7.1,2015
+Guinea-Bissau,income_composition_of_resources,0.0368,0.7401,improving,0.421,2015
+Guinea-Bissau,schooling,0.1871,0.8827,improving,9.2,2015
+Guyana,life_expectancy,0.0621,0.5243,improving,66.2,2015
+Guyana,adult_mortality,-3.8956,0.0673,declining,215.0,2015
+Guyana,alcohol,0.0304,0.1572,improving,7.52,2015
+Guyana,hepatitis_b,1.6265,0.1303,improving,95.0,2015
+Guyana,bmi,0.7196,0.0708,improving,46.7,2015
+Guyana,polio,2.1853,0.2353,improving,92.0,2015
+Guyana,total_expenditure,0.0149,0.0087,improving,5.85,2015
+Guyana,diphtheria,1.7368,0.149,improving,95.0,2015
+Guyana,gdp_per_capita,5.9159,0.0617,improving,5.38,2015
+Guyana,population,-4157.6882,0.0033,declining,768514.0,2015
+Guyana,thinness_1_19_years,-0.029,0.9375,declining,5.5,2015
+Guyana,income_composition_of_resources,0.0021,0.901,improving,0.638,2015
+Guyana,schooling,-0.0668,0.483,declining,10.3,2015
+Haiti,life_expectancy,0.1104,0.0064,improving,63.5,2015
+Haiti,adult_mortality,18.8309,0.2524,improving,24.0,2015
+Haiti,alcohol,-0.1194,0.1401,declining,5.85,2015
+Haiti,hepatitis_b,-0.6029,0.0579,declining,6.0,2015
+Haiti,bmi,1.1382,0.2628,improving,49.9,2015
+Haiti,polio,2.0926,0.2604,improving,56.0,2015
+Haiti,total_expenditure,0.1146,0.08,improving,5.7,2015
+Haiti,diphtheria,0.6294,0.0176,improving,6.0,2015
+Haiti,gdp_per_capita,0.0801,0.0227,improving,4.76,2015
+Haiti,population,-410816.7015,0.206,declining,171161.0,2015
+Haiti,thinness_1_19_years,-0.0634,0.9623,declining,3.9,2015
+Haiti,income_composition_of_resources,0.0034,0.9831,improving,0.49,2015
+Haiti,schooling,0.09,0.9766,improving,9.1,2015
+Honduras,life_expectancy,0.2419,0.9914,improving,74.6,2015
+Honduras,adult_mortality,-3.6882,0.1234,declining,147.0,2015
+Honduras,alcohol,0.0137,0.1506,improving,3.1,2015
+Honduras,hepatitis_b,0.3074,0.4528,improving,97.0,2015
+Honduras,bmi,0.5319,0.0324,improving,51.0,2015
+Honduras,polio,0.2941,0.2541,improving,97.0,2015
+Honduras,total_expenditure,0.1396,0.6604,improving,8.29,2015
+Honduras,diphtheria,0.2147,0.3282,improving,97.0,2015
+Honduras,gdp_per_capita,0.198,0.0329,improving,2.59,2015
+Honduras,population,-33574.7574,0.0022,declining,896829.0,2015
+Honduras,thinness_1_19_years,-0.0465,0.9661,declining,2.1,2015
+Honduras,income_composition_of_resources,0.005,0.983,improving,0.623,2015
+Honduras,schooling,0.1235,0.8537,improving,11.2,2015
+Hungary,life_expectancy,0.2709,0.9896,improving,75.8,2015
+Hungary,adult_mortality,-3.7544,0.1082,declining,134.0,2015
+Hungary,alcohol,-0.3598,0.2892,declining,12.22,2015
+Hungary,hepatitis_b,0.0,,declining,95.0,2015
+Hungary,bmi,0.5078,0.031,improving,64.8,2015
+Hungary,polio,0.0162,0.0949,improving,99.0,2015
+Hungary,total_expenditure,-0.0182,0.0383,declining,7.6,2015
+Hungary,diphtheria,0.0,,declining,99.0,2015
+Hungary,gdp_per_capita,75.0097,0.018,improving,12.56,2015
+Hungary,population,298723.1559,0.1882,improving,984328.0,2015
+Hungary,thinness_1_19_years,-0.0449,0.9711,declining,1.6,2015
+Hungary,income_composition_of_resources,0.0047,0.9574,improving,0.834,2015
+Hungary,schooling,0.0913,0.7533,improving,15.6,2015
+Iceland,life_expectancy,-0.024,0.0026,declining,82.7,2015
+Iceland,adult_mortality,-2.0559,0.1831,declining,49.0,2015
+Iceland,alcohol,0.1104,0.2778,improving,7.31,2015
+Iceland,hepatitis_b,0.0,,declining,95.0,2015
+Iceland,bmi,-1.4682,0.1589,declining,61.0,2015
+Iceland,polio,-1.9265,0.1784,declining,92.0,2015
+Iceland,total_expenditure,0.0487,0.0155,improving,8.86,2015
+Iceland,diphtheria,-1.9265,0.1784,declining,92.0,2015
+Iceland,gdp_per_capita,-12.8601,0.0118,declining,169.58,2015
+Iceland,population,-2532.0529,0.0073,declining,33815.0,2015
+Iceland,thinness_1_19_years,-0.001,0.0092,declining,1.0,2015
+Iceland,income_composition_of_resources,0.0044,0.9681,improving,0.919,2015
+Iceland,schooling,0.1366,0.9041,improving,19.0,2015
+India,life_expectancy,0.3919,0.9992,improving,68.3,2015
+India,adult_mortality,-5.2456,0.0778,declining,181.0,2015
+India,alcohol,0.147,0.6769,improving,1.59,2015
+India,hepatitis_b,2.9618,0.2906,improving,87.0,2015
+India,bmi,0.4854,0.9962,improving,18.7,2015
+India,polio,2.1471,0.9665,improving,86.0,2015
+India,total_expenditure,0.0103,0.1531,improving,4.33,2015
+India,diphtheria,2.0574,0.2616,improving,87.0,2015
+India,gdp_per_capita,0.0194,0.101,improving,1.16,2015
+India,population,-48308.7603,0.0,declining,1395398.0,2015
+India,thinness_1_19_years,-0.0556,0.9381,declining,26.7,2015
+India,income_composition_of_resources,0.0088,0.997,improving,0.615,2015
+India,schooling,0.2496,0.9829,improving,11.6,2015
+Indonesia,life_expectancy,0.2016,0.8366,improving,69.1,2015
+Indonesia,adult_mortality,0.5426,0.002,improving,176.0,2015
+Indonesia,alcohol,0.0021,0.5529,improving,0.06,2015
+Indonesia,hepatitis_b,1.5868,0.7231,improving,78.0,2015
+Indonesia,bmi,0.8293,0.4296,improving,27.4,2015
+Indonesia,polio,-0.3809,0.0031,declining,8.0,2015
+Indonesia,total_expenditure,0.0476,0.5454,improving,2.79,2015
+Indonesia,diphtheria,1.7265,0.2096,improving,78.0,2015
+Indonesia,gdp_per_capita,-0.0112,0.1767,declining,0.01,2015
+Indonesia,population,13009728.3603,0.2891,improving,258162113.0,2015
+Indonesia,thinness_1_19_years,-0.5601,0.5017,declining,1.4,2015
+Indonesia,income_composition_of_resources,0.006,0.9938,improving,0.686,2015
+Indonesia,schooling,0.1788,0.9263,improving,12.9,2015
+Iran (Islamic Republic of),life_expectancy,0.1237,0.1041,improving,75.5,2015
+Iran (Islamic Republic of),adult_mortality,-3.0294,0.107,declining,83.0,2015
+Iran (Islamic Republic of),alcohol,0.0004,0.0539,improving,0.01,2015
+Iran (Islamic Republic of),hepatitis_b,0.1588,0.175,improving,98.0,2015
+Iran (Islamic Republic of),bmi,1.0663,0.1655,improving,59.7,2015
+Iran (Islamic Republic of),polio,0.0794,0.0794,improving,98.0,2015
+Iran (Islamic Republic of),total_expenditure,0.1432,0.5105,improving,6.28,2015
+Iran (Islamic Republic of),diphtheria,0.0529,0.0438,improving,98.0,2015
+Iran (Islamic Republic of),gdp_per_capita,0.0,,declining,0.87,2015
+Iran (Islamic Republic of),population,0.0,,declining,1417430.0,2015
+Iran (Islamic Republic of),thinness_1_19_years,0.0528,0.5593,improving,8.5,2015
+Iran (Islamic Republic of),income_composition_of_resources,0.0082,0.9824,improving,0.774,2015
+Iran (Islamic Republic of),schooling,0.2387,0.7823,improving,14.8,2015
+Iraq,life_expectancy,0.1649,0.0391,improving,68.9,2015
+Iraq,adult_mortality,2.6882,0.0278,improving,182.0,2015
+Iraq,alcohol,-0.0075,0.1644,declining,0.17,2015
+Iraq,hepatitis_b,-0.0382,0.0009,declining,56.0,2015
+Iraq,bmi,2.2366,0.388,improving,59.1,2015
+Iraq,polio,-1.8324,0.0896,declining,63.0,2015
+Iraq,total_expenditure,0.0455,0.0689,improving,4.245,2015
+Iraq,diphtheria,0.8294,0.0535,improving,58.0,2015
+Iraq,gdp_per_capita,3.5814,0.1315,improving,0.14,2015
+Iraq,population,107191.6397,0.0013,improving,36115649.0,2015
+Iraq,thinness_1_19_years,-0.02,0.85,declining,5.3,2015
+Iraq,income_composition_of_resources,0.0039,0.8963,improving,0.649,2015
+Iraq,schooling,0.1028,0.6337,improving,10.1,2015
+Ireland,life_expectancy,0.4574,0.594,improving,81.4,2015
+Ireland,adult_mortality,-2.4632,0.3609,declining,64.0,2015
+Ireland,alcohol,-0.2056,0.6351,declining,13.24,2015
+Ireland,hepatitis_b,-0.3603,0.0196,declining,95.0,2015
+Ireland,bmi,0.0453,0.0003,improving,62.8,2015
+Ireland,polio,1.4588,0.1091,improving,95.0,2015
+Ireland,total_expenditure,0.1127,0.4069,improving,7.57,2015
+Ireland,diphtheria,1.4588,0.1091,improving,95.0,2015
+Ireland,gdp_per_capita,-11.0656,0.0447,declining,1.42,2015
+Ireland,population,148301.125,0.1808,improving,4676835.0,2015
+Ireland,thinness_1_19_years,0.0,,declining,0.3,2015
+Ireland,income_composition_of_resources,0.0041,0.7973,improving,0.92,2015
+Ireland,schooling,0.1728,0.956,improving,18.6,2015
+Israel,life_expectancy,0.2132,0.4252,improving,82.5,2015
+Israel,adult_mortality,-2.95,0.4246,declining,58.0,2015
+Israel,alcohol,0.0191,0.3136,improving,2.53,2015
+Israel,hepatitis_b,-0.0485,0.0446,declining,96.0,2015
+Israel,bmi,1.4068,0.1229,improving,64.9,2015
+Israel,polio,0.1735,0.4095,improving,95.0,2015
+Israel,total_expenditure,0.0211,0.2662,improving,7.44,2015
+Israel,diphtheria,1.5294,0.1162,improving,95.0,2015
+Israel,gdp_per_capita,-528.9567,0.0717,declining,4263.14,2015
+Israel,population,2440.6853,0.1209,improving,8381.0,2015
+Israel,thinness_1_19_years,0.0093,0.7412,improving,1.2,2015
+Israel,income_composition_of_resources,0.0033,0.9818,improving,0.898,2015
+Israel,schooling,0.0412,0.4814,improving,16.0,2015
+Italy,life_expectancy,0.0738,0.0173,improving,82.7,2015
+Italy,adult_mortality,-2.9868,0.3316,declining,56.0,2015
+Italy,alcohol,-0.1655,0.6886,declining,8.37,2015
+Italy,hepatitis_b,0.0059,0.0008,improving,93.0,2015
+Italy,bmi,0.3297,0.0135,improving,63.6,2015
+Italy,polio,-0.1441,0.4484,declining,93.0,2015
+Italy,total_expenditure,0.089,0.7118,improving,8.82,2015
+Italy,diphtheria,0.2588,0.2503,improving,93.0,2015
+Italy,gdp_per_capita,-5.2549,0.0679,declining,0.52,2015
+Italy,population,578324.5485,0.0094,improving,673582.0,2015
+Italy,thinness_1_19_years,0.0041,0.3294,improving,0.6,2015
+Italy,income_composition_of_resources,0.0038,0.9495,improving,0.881,2015
+Italy,schooling,0.111,0.826,improving,16.3,2015
+Jamaica,life_expectancy,0.244,0.9935,improving,76.2,2015
+Jamaica,adult_mortality,-2.4941,0.1038,declining,125.0,2015
+Jamaica,alcohol,0.0026,0.0072,improving,3.63,2015
+Jamaica,hepatitis_b,0.3015,0.0033,improving,91.0,2015
+Jamaica,bmi,0.5082,0.0454,improving,54.2,2015
+Jamaica,polio,-0.9324,0.0414,declining,91.0,2015
+Jamaica,total_expenditure,0.0323,0.1124,improving,5.21,2015
+Jamaica,diphtheria,-0.7544,0.0276,declining,91.0,2015
+Jamaica,gdp_per_capita,0.8134,0.0109,improving,1.73,2015
+Jamaica,population,-87856.5676,0.1043,declining,2871934.0,2015
+Jamaica,thinness_1_19_years,-0.0146,0.8541,declining,1.8,2015
+Jamaica,income_composition_of_resources,0.0035,0.9159,improving,0.729,2015
+Jamaica,schooling,0.1176,0.7273,improving,12.8,2015
+Japan,life_expectancy,0.1559,0.9349,improving,83.7,2015
+Japan,adult_mortality,0.65,0.0231,improving,55.0,2015
+Japan,alcohol,-0.1881,0.2192,declining,7.49,2015
+Japan,hepatitis_b,0.0,,declining,95.0,2015
+Japan,bmi,0.4734,0.9982,improving,29.0,2015
+Japan,polio,0.5853,0.3466,improving,99.0,2015
+Japan,total_expenditure,-0.3627,0.2971,declining,8.0,2015
+Japan,diphtheria,0.2294,0.1185,improving,96.0,2015
+Japan,gdp_per_capita,-19.9995,0.0002,declining,271.15,2015
+Japan,population,-1411.8309,0.0155,declining,127141.0,2015
+Japan,thinness_1_19_years,0.0282,0.9111,improving,2.1,2015
+Japan,income_composition_of_resources,0.0031,0.9807,improving,0.902,2015
+Japan,schooling,0.0524,0.9607,improving,15.3,2015
+Jordan,life_expectancy,0.1618,0.991,improving,74.1,2015
+Jordan,adult_mortality,-1.2309,0.0435,declining,112.0,2015
+Jordan,alcohol,-0.007,0.2192,declining,0.54,2015
+Jordan,hepatitis_b,0.2647,0.5956,improving,99.0,2015
+Jordan,bmi,0.4538,0.0136,improving,65.6,2015
+Jordan,polio,0.2441,0.6003,improving,99.0,2015
+Jordan,total_expenditure,-0.1314,0.63,declining,8.8,2015
+Jordan,diphtheria,0.2706,0.389,improving,99.0,2015
+Jordan,gdp_per_capita,-0.5708,0.1151,declining,0.54,2015
+Jordan,population,-4983.1279,0.0001,declining,915932.0,2015
+Jordan,thinness_1_19_years,-0.0041,0.0744,declining,4.0,2015
+Jordan,income_composition_of_resources,0.0024,0.7365,improving,0.741,2015
+Jordan,schooling,0.0074,0.0095,improving,13.1,2015
+Kazakhstan,life_expectancy,0.5006,0.914,improving,72.0,2015
+Kazakhstan,adult_mortality,-13.3779,0.54,declining,198.0,2015
+Kazakhstan,alcohol,0.0336,0.104,improving,6.63,2015
+Kazakhstan,hepatitis_b,0.0338,0.0056,improving,98.0,2015
+Kazakhstan,bmi,0.0072,0.0,improving,53.1,2015
+Kazakhstan,polio,0.0794,0.0429,improving,98.0,2015
+Kazakhstan,total_expenditure,0.0428,0.2245,improving,4.13,2015
+Kazakhstan,diphtheria,0.2574,0.0816,improving,98.0,2015
+Kazakhstan,gdp_per_capita,1.5156,0.0029,improving,0.01,2015
+Kazakhstan,population,185444.3926,0.0123,improving,17544126.0,2015
+Kazakhstan,thinness_1_19_years,-0.0182,0.5724,declining,2.4,2015
+Kazakhstan,income_composition_of_resources,0.0074,0.9463,improving,0.793,2015
+Kazakhstan,schooling,0.1888,0.8389,improving,15.0,2015
+Kenya,life_expectancy,0.9304,0.9409,improving,63.4,2015
+Kenya,adult_mortality,-15.3603,0.9428,declining,249.0,2015
+Kenya,alcohol,-0.0158,0.0277,declining,1.73,2015
+Kenya,hepatitis_b,0.7118,0.0155,improving,89.0,2015
+Kenya,bmi,-0.0212,0.0003,declining,22.0,2015
+Kenya,polio,2.7221,0.1665,improving,83.0,2015
+Kenya,total_expenditure,0.0535,0.2049,improving,4.54,2015
+Kenya,diphtheria,2.1941,0.1095,improving,89.0,2015
+Kenya,gdp_per_capita,-0.0491,0.0026,declining,0.03,2015
+Kenya,population,2078627.4735,0.2423,improving,47236259.0,2015
+Kenya,thinness_1_19_years,-0.0912,0.9883,declining,7.8,2015
+Kenya,income_composition_of_resources,0.008,0.9771,improving,0.55,2015
+Kenya,schooling,0.2301,0.9016,improving,11.1,2015
+Kiribati,life_expectancy,0.1268,0.9653,improving,66.3,2015
+Kiribati,adult_mortality,-14.7544,0.5069,declining,198.0,2015
+Kiribati,alcohol,-0.0265,0.3005,declining,0.49,2015
+Kiribati,hepatitis_b,2.8485,0.2358,improving,82.0,2015
+Kiribati,bmi,1.4699,0.1745,improving,77.6,2015
+Kiribati,polio,0.3647,0.0039,improving,8.0,2015
+Kiribati,total_expenditure,-0.4849,0.2259,declining,1.93,2015
+Kiribati,diphtheria,3.225,0.3069,improving,78.0,2015
+Kiribati,gdp_per_capita,11.2384,0.0745,improving,126.65,2015
+Kiribati,population,-4125.3221,0.2671,declining,11247.0,2015
+Kiribati,thinness_1_19_years,-0.0093,0.7412,declining,0.1,2015
+Kiribati,income_composition_of_resources,0.0519,0.7199,improving,0.586,2015
+Kiribati,schooling,0.0693,0.2818,improving,11.9,2015
+Kuwait,life_expectancy,0.1028,0.9764,improving,74.7,2015
+Kuwait,adult_mortality,-0.3824,0.008,declining,81.0,2015
+Kuwait,alcohol,0.0001,0.0008,improving,0.01,2015
+Kuwait,hepatitis_b,0.0691,0.0402,improving,99.0,2015
+Kuwait,bmi,-1.7496,0.1662,declining,71.4,2015
+Kuwait,polio,0.0044,0.0002,improving,99.0,2015
+Kuwait,total_expenditure,-0.0183,0.0234,declining,2.62,2015
+Kuwait,diphtheria,-0.0647,0.089,declining,99.0,2015
+Kuwait,gdp_per_capita,1.8596,0.4728,improving,20.44,2015
+Kuwait,population,0.0,,declining,1417430.0,2015
+Kuwait,thinness_1_19_years,0.0187,0.8214,improving,3.5,2015
+Kuwait,income_composition_of_resources,0.0006,0.4935,improving,0.799,2015
+Kuwait,schooling,-0.0794,0.7685,declining,13.3,2015
+Kyrgyzstan,life_expectancy,0.5622,0.5682,improving,71.1,2015
+Kyrgyzstan,adult_mortality,-9.8721,0.3519,declining,166.0,2015
+Kyrgyzstan,alcohol,-0.1416,0.3182,declining,2.62,2015
+Kyrgyzstan,hepatitis_b,2.1926,0.1621,improving,97.0,2015
+Kyrgyzstan,bmi,0.1744,0.0045,improving,44.9,2015
+Kyrgyzstan,polio,-0.3059,0.249,declining,97.0,2015
+Kyrgyzstan,total_expenditure,0.1251,0.6266,improving,6.48,2015
+Kyrgyzstan,diphtheria,-0.175,0.1797,declining,97.0,2015
+Kyrgyzstan,gdp_per_capita,0.0,,declining,0.87,2015
+Kyrgyzstan,population,0.0,,declining,1417430.0,2015
+Kyrgyzstan,thinness_1_19_years,-0.0231,0.6988,declining,3.3,2015
+Kyrgyzstan,income_composition_of_resources,0.0046,0.9787,improving,0.662,2015
+Kyrgyzstan,schooling,0.0562,0.4883,improving,13.0,2015
+Lao People's Democratic Republic,life_expectancy,0.4722,0.8611,improving,65.7,2015
+Lao People's Democratic Republic,adult_mortality,-9.9397,0.2837,declining,194.0,2015
+Lao People's Democratic Republic,alcohol,-0.1484,0.132,declining,3.68,2015
+Lao People's Democratic Republic,hepatitis_b,2.8397,0.2798,improving,89.0,2015
+Lao People's Democratic Republic,bmi,-0.0112,0.0001,declining,21.7,2015
+Lao People's Democratic Republic,polio,3.0338,0.3213,improving,89.0,2015
+Lao People's Democratic Republic,total_expenditure,-0.1539,0.5107,declining,3.77,2015
+Lao People's Democratic Republic,diphtheria,3.1235,0.4777,improving,89.0,2015
+Lao People's Democratic Republic,gdp_per_capita,0.0,,declining,0.87,2015
+Lao People's Democratic Republic,population,0.0,,declining,1417430.0,2015
+Lao People's Democratic Republic,thinness_1_19_years,0.6756,0.6366,improving,8.8,2015
+Lao People's Democratic Republic,income_composition_of_resources,0.0084,0.9958,improving,0.582,2015
+Lao People's Democratic Republic,schooling,0.1975,0.9857,improving,10.8,2015
+Latvia,life_expectancy,0.1113,0.0525,improving,74.6,2015
+Latvia,adult_mortality,-2.1897,0.0202,declining,153.0,2015
+Latvia,alcohol,0.0159,0.0007,improving,9.85,2015
+Latvia,hepatitis_b,-1.4985,0.1099,declining,94.0,2015
+Latvia,bmi,-1.5199,0.1694,declining,61.2,2015
+Latvia,polio,-0.4074,0.5481,declining,95.0,2015
+Latvia,total_expenditure,-0.0158,0.037,declining,6.29,2015
+Latvia,diphtheria,-0.3912,0.5309,declining,95.0,2015
+Latvia,gdp_per_capita,0.969,0.0459,improving,6.91,2015
+Latvia,population,10095.0397,0.0022,improving,1977527.0,2015
+Latvia,thinness_1_19_years,-0.044,0.9013,declining,2.2,2015
+Latvia,income_composition_of_resources,0.0066,0.7717,improving,0.828,2015
+Latvia,schooling,0.1037,0.4118,improving,16.0,2015
+Lebanon,life_expectancy,0.1538,0.8919,improving,74.9,2015
+Lebanon,adult_mortality,5.5485,0.3686,improving,98.0,2015
+Lebanon,alcohol,-0.0575,0.815,declining,1.72,2015
+Lebanon,hepatitis_b,1.7206,0.1115,improving,81.0,2015
+Lebanon,bmi,1.4868,0.1356,improving,66.1,2015
+Lebanon,polio,1.1029,0.0954,improving,75.0,2015
+Lebanon,total_expenditure,0.2218,0.1627,improving,7.19,2015
+Lebanon,diphtheria,1.7206,0.1115,improving,81.0,2015
+Lebanon,gdp_per_capita,-0.2493,0.0017,declining,0.14,2015
+Lebanon,population,-14434.7118,0.0012,declining,5851479.0,2015
+Lebanon,thinness_1_19_years,-0.0019,0.0132,declining,4.9,2015
+Lebanon,income_composition_of_resources,0.0673,0.7268,improving,0.763,2015
+Lebanon,schooling,-0.1313,0.6265,declining,13.3,2015
+Lesotho,life_expectancy,0.5063,0.5904,improving,53.7,2015
+Lesotho,adult_mortality,-13.8515,0.2032,declining,484.0,2015
+Lesotho,alcohol,-0.1307,0.3215,declining,2.67,2015
+Lesotho,hepatitis_b,2.2338,0.1049,improving,93.0,2015
+Lesotho,bmi,-0.1347,0.0053,declining,32.6,2015
+Lesotho,polio,-2.9368,0.1562,declining,9.0,2015
+Lesotho,total_expenditure,0.0517,0.0072,improving,7.13,2015
+Lesotho,diphtheria,2.725,0.2163,improving,93.0,2015
+Lesotho,gdp_per_capita,0.6481,0.0421,improving,0.08,2015
+Lesotho,population,1616.7809,0.0001,improving,2174645.0,2015
+Lesotho,thinness_1_19_years,-0.1432,0.0565,declining,5.5,2015
+Lesotho,income_composition_of_resources,0.0037,0.7566,improving,0.495,2015
+Lesotho,schooling,0.0569,0.586,improving,10.7,2015
+Liberia,life_expectancy,0.77,0.691,improving,61.4,2015
+Liberia,adult_mortality,5.9485,0.0678,improving,259.0,2015
+Liberia,alcohol,-0.2289,0.435,declining,4.03,2015
+Liberia,hepatitis_b,-1.3662,0.1074,declining,52.0,2015
+Liberia,bmi,1.5185,0.6605,improving,27.3,2015
+Liberia,polio,0.1044,0.0007,improving,52.0,2015
+Liberia,total_expenditure,0.0688,0.0059,improving,6.41,2015
+Liberia,diphtheria,0.4926,0.0068,improving,52.0,2015
+Liberia,gdp_per_capita,0.0933,0.05,improving,0.1,2015
+Liberia,population,60980.0588,0.0347,improving,4499621.0,2015
+Liberia,thinness_1_19_years,-0.1809,0.9988,declining,6.5,2015
+Liberia,income_composition_of_resources,0.0051,0.7604,improving,0.427,2015
+Liberia,schooling,-0.0163,0.0331,declining,9.9,2015
+Libya,life_expectancy,-0.0329,0.0094,declining,72.7,2015
+Libya,adult_mortality,-0.4838,0.0796,declining,138.0,2015
+Libya,alcohol,0.0,,declining,0.01,2015
+Libya,hepatitis_b,0.2338,0.2033,improving,97.0,2015
+Libya,bmi,0.2429,0.0075,improving,64.8,2015
+Libya,polio,0.1647,0.1774,improving,97.0,2015
+Libya,total_expenditure,0.023,0.0155,improving,3.5,2015
+Libya,diphtheria,0.1647,0.1774,improving,97.0,2015
+Libya,gdp_per_capita,-0.142,0.0592,declining,2.11,2015
+Libya,population,0.0,,declining,1417430.0,2015
+Libya,thinness_1_19_years,0.0079,0.1787,improving,5.8,2015
+Libya,income_composition_of_resources,-0.0005,0.0254,declining,0.719,2015
+Libya,schooling,-0.1934,0.8936,declining,13.4,2015
+Lithuania,life_expectancy,0.0837,0.0465,improving,73.6,2015
+Lithuania,adult_mortality,10.8059,0.3164,improving,165.0,2015
+Lithuania,alcohol,0.282,0.7076,improving,12.66,2015
+Lithuania,hepatitis_b,-0.1471,0.3197,declining,94.0,2015
+Lithuania,bmi,-1.311,0.086,declining,62.4,2015
+Lithuania,polio,0.7956,0.0314,improving,93.0,2015
+Lithuania,total_expenditure,0.0453,0.1533,improving,6.46,2015
+Lithuania,diphtheria,-0.1,0.1097,declining,93.0,2015
+Lithuania,gdp_per_capita,11.3205,0.2039,improving,483.28,2015
+Lithuania,population,336.5912,0.0,improving,29491.0,2015
+Lithuania,thinness_1_19_years,-0.0538,0.968,declining,2.6,2015
+Lithuania,income_composition_of_resources,0.0062,0.9325,improving,0.846,2015
+Lithuania,schooling,0.1262,0.5909,improving,16.5,2015
+Luxembourg,life_expectancy,0.4116,0.4552,improving,82.0,2015
+Luxembourg,adult_mortality,-2.8103,0.1792,declining,63.0,2015
+Luxembourg,alcohol,-0.1277,0.8055,declining,11.75,2015
+Luxembourg,hepatitis_b,0.5118,0.2435,improving,94.0,2015
+Luxembourg,bmi,-2.1409,0.245,declining,61.3,2015
+Luxembourg,polio,-0.0662,0.0481,declining,99.0,2015
+Luxembourg,total_expenditure,-0.0427,0.2149,declining,7.48,2015
+Luxembourg,diphtheria,0.0132,0.0635,improving,99.0,2015
+Luxembourg,gdp_per_capita,-235.495,0.1646,declining,21.06,2015
+Luxembourg,population,-1528.5235,0.001,declining,56964.0,2015
+Luxembourg,thinness_1_19_years,-0.0047,0.1882,declining,1.0,2015
+Luxembourg,income_composition_of_resources,0.0031,0.9118,improving,0.896,2015
+Luxembourg,schooling,0.0344,0.7222,improving,13.9,2015
+Madagascar,life_expectancy,0.3984,0.4351,improving,65.5,2015
+Madagascar,adult_mortality,-11.6162,0.4556,declining,22.0,2015
+Madagascar,alcohol,-0.0227,0.177,declining,0.87,2015
+Madagascar,hepatitis_b,-0.9868,0.0389,declining,69.0,2015
+Madagascar,bmi,-0.3016,0.0773,declining,2.5,2015
+Madagascar,polio,1.7838,0.0983,improving,71.0,2015
+Madagascar,total_expenditure,-0.1033,0.5798,declining,4.86,2015
+Madagascar,diphtheria,0.2882,0.0024,improving,69.0,2015
+Madagascar,gdp_per_capita,-0.0025,0.0236,declining,0.02,2015
+Madagascar,population,290009.1809,0.0219,improving,2423488.0,2015
+Madagascar,thinness_1_19_years,-0.1057,0.9965,declining,7.1,2015
+Madagascar,income_composition_of_resources,0.0144,0.3088,improving,0.511,2015
+Madagascar,schooling,0.1743,0.9583,improving,10.3,2015
+Malawi,life_expectancy,1.1169,0.9804,improving,58.3,2015
+Malawi,adult_mortality,-10.7838,0.066,declining,365.0,2015
+Malawi,alcohol,-0.0536,0.3063,declining,1.11,2015
+Malawi,hepatitis_b,0.5588,0.115,improving,88.0,2015
+Malawi,bmi,0.3637,0.9992,improving,19.6,2015
+Malawi,polio,0.5956,0.1798,improving,88.0,2015
+Malawi,total_expenditure,0.0898,0.0133,improving,6.7,2015
+Malawi,diphtheria,2.4794,0.2961,improving,88.0,2015
+Malawi,gdp_per_capita,0.0375,0.1082,improving,0.21,2015
+Malawi,population,-199147.0985,0.0217,declining,1757367.0,2015
+Malawi,thinness_1_19_years,-0.1093,0.989,declining,6.4,2015
+Malawi,income_composition_of_resources,0.0071,0.7857,improving,0.473,2015
+Malawi,schooling,0.0349,0.1417,improving,10.8,2015
+Malaysia,life_expectancy,0.1619,0.9949,improving,75.0,2015
+Malaysia,adult_mortality,-0.5132,0.0035,declining,123.0,2015
+Malaysia,alcohol,0.0007,0.0093,improving,0.49,2015
+Malaysia,hepatitis_b,0.1324,0.2978,improving,99.0,2015
+Malaysia,bmi,0.3651,0.027,improving,4.6,2015
+Malaysia,polio,0.1412,0.2853,improving,99.0,2015
+Malaysia,total_expenditure,0.045,0.5094,improving,3.74,2015
+Malaysia,diphtheria,0.1221,0.2309,improving,99.0,2015
+Malaysia,gdp_per_capita,0.6685,0.1416,improving,2.59,2015
+Malaysia,population,-196926.0691,0.006,declining,3723155.0,2015
+Malaysia,thinness_1_19_years,-0.1576,0.9967,declining,7.5,2015
+Malaysia,income_composition_of_resources,0.0051,0.9553,improving,0.787,2015
+Malaysia,schooling,0.0815,0.7333,improving,13.1,2015
+Maldives,life_expectancy,0.4279,0.6188,improving,78.5,2015
+Maldives,adult_mortality,-4.275,0.4308,declining,61.0,2015
+Maldives,alcohol,-0.0881,0.3419,declining,1.75,2015
+Maldives,hepatitis_b,0.0971,0.2329,improving,99.0,2015
+Maldives,bmi,0.7893,0.3939,improving,27.4,2015
+Maldives,polio,0.0824,0.1677,improving,99.0,2015
+Maldives,total_expenditure,0.3042,0.4523,improving,8.0,2015
+Maldives,diphtheria,0.0559,0.0674,improving,99.0,2015
+Maldives,gdp_per_capita,2614.6344,0.0637,improving,170.77,2015
+Maldives,population,1079.2853,0.1768,improving,49163.0,2015
+Maldives,thinness_1_19_years,-0.0828,0.992,declining,13.6,2015
+Maldives,income_composition_of_resources,0.008,0.9917,improving,0.701,2015
+Maldives,schooling,0.0497,0.4078,improving,12.7,2015
+Mali,life_expectancy,0.4771,0.8351,improving,58.2,2015
+Mali,adult_mortality,11.4265,0.2087,improving,266.0,2015
+Mali,alcohol,-0.0218,0.2252,declining,0.53,2015
+Mali,hepatitis_b,-0.2574,0.0056,declining,64.0,2015
+Mali,bmi,0.3341,0.0635,improving,23.8,2015
+Mali,polio,0.4088,0.0072,improving,66.0,2015
+Mali,total_expenditure,0.0243,0.253,improving,6.47,2015
+Mali,diphtheria,1.0088,0.2475,improving,64.0,2015
+Mali,gdp_per_capita,0.5614,0.0535,improving,0.42,2015
+Mali,population,149137.4618,0.0114,improving,1746795.0,2015
+Mali,thinness_1_19_years,0.3079,0.1786,improving,7.7,2015
+Mali,income_composition_of_resources,0.0102,0.9939,improving,0.438,2015
+Mali,schooling,0.2754,0.9721,improving,8.4,2015
+Malta,life_expectancy,0.3688,0.5324,improving,81.7,2015
+Malta,adult_mortality,-0.0618,0.0004,declining,54.0,2015
+Malta,alcohol,0.156,0.5285,improving,7.14,2015
+Malta,hepatitis_b,-1.1897,0.0806,declining,95.0,2015
+Malta,bmi,0.4928,0.9957,improving,69.6,2015
+Malta,polio,0.1632,0.0061,improving,97.0,2015
+Malta,total_expenditure,0.142,0.5561,improving,8.46,2015
+Malta,diphtheria,0.1721,0.0067,improving,97.0,2015
+Malta,gdp_per_capita,-24.5131,0.0167,declining,55.15,2015
+Malta,population,23223.0544,0.3125,improving,431874.0,2015
+Malta,thinness_1_19_years,0.0071,0.4235,improving,0.8,2015
+Malta,income_composition_of_resources,0.0044,0.9489,improving,0.853,2015
+Malta,schooling,0.0428,0.2818,improving,14.6,2015
+Marshall Islands,life_expectancy,,,declining,69.0,2013
+Marshall Islands,adult_mortality,,,declining,163.0,2013
+Marshall Islands,alcohol,,,declining,0.01,2013
+Marshall Islands,hepatitis_b,,,declining,8.0,2013
+Marshall Islands,bmi,,,declining,81.6,2013
+Marshall Islands,polio,,,declining,79.0,2013
+Marshall Islands,total_expenditure,,,declining,17.24,2013
+Marshall Islands,diphtheria,,,declining,79.0,2013
+Marshall Islands,gdp_per_capita,,,declining,2.55,2013
+Marshall Islands,population,,,declining,1417430.0,2013
+Marshall Islands,thinness_1_19_years,,,declining,0.1,2013
+Marshall Islands,income_composition_of_resources,,,declining,0.631,2013
+Marshall Islands,schooling,,,declining,0.0,2013
+Mauritania,life_expectancy,0.0315,0.0049,improving,63.1,2015
+Mauritania,adult_mortality,-9.8985,0.2554,declining,25.0,2015
+Mauritania,alcohol,-0.0006,0.2273,declining,0.01,2015
+Mauritania,hepatitis_b,-1.1324,0.0581,declining,73.0,2015
+Mauritania,bmi,-0.4647,0.0797,declining,3.8,2015
+Mauritania,polio,-1.9721,0.1616,declining,67.0,2015
+Mauritania,total_expenditure,-0.11,0.5101,declining,3.77,2015
+Mauritania,diphtheria,-0.9235,0.0258,declining,73.0,2015
+Mauritania,gdp_per_capita,0.3685,0.0429,improving,0.28,2015
+Mauritania,population,40488.6838,0.016,improving,4182341.0,2015
+Mauritania,thinness_1_19_years,0.5157,0.4835,improving,7.8,2015
+Mauritania,income_composition_of_resources,0.0048,0.977,improving,0.513,2015
+Mauritania,schooling,0.1404,0.9308,improving,8.5,2015
+Mauritius,life_expectancy,0.2353,0.9654,improving,74.6,2015
+Mauritius,adult_mortality,-2.1485,0.9147,declining,146.0,2015
+Mauritius,alcohol,-0.2582,0.6154,declining,3.24,2015
+Mauritius,hepatitis_b,0.4956,0.4339,improving,97.0,2015
+Mauritius,bmi,0.2199,0.0131,improving,33.3,2015
+Mauritius,polio,0.4882,0.4093,improving,98.0,2015
+Mauritius,total_expenditure,0.0692,0.5735,improving,4.47,2015
+Mauritius,diphtheria,0.4691,0.3752,improving,97.0,2015
+Mauritius,gdp_per_capita,-2.8444,0.0167,declining,73.28,2015
+Mauritius,population,-16630.5559,0.0181,declining,126265.0,2015
+Mauritius,thinness_1_19_years,-0.0831,0.9886,declining,6.9,2015
+Mauritius,income_composition_of_resources,0.0074,0.9988,improving,0.779,2015
+Mauritius,schooling,0.1969,0.9902,improving,15.2,2015
+Mexico,life_expectancy,0.124,0.9034,improving,76.7,2015
+Mexico,adult_mortality,-2.625,0.1052,declining,122.0,2015
+Mexico,alcohol,0.0323,0.5985,improving,5.21,2015
+Mexico,hepatitis_b,-0.8603,0.4626,declining,82.0,2015
+Mexico,bmi,-0.2172,0.0033,declining,63.5,2015
+Mexico,polio,-0.6897,0.4557,declining,87.0,2015
+Mexico,total_expenditure,0.0654,0.4636,improving,6.21,2015
+Mexico,diphtheria,-0.6735,0.4407,declining,87.0,2015
+Mexico,gdp_per_capita,0.689,0.0263,improving,0.73,2015
+Mexico,population,2446642.8338,0.0672,improving,12589949.0,2015
+Mexico,thinness_1_19_years,-0.0296,0.9449,declining,1.5,2015
+Mexico,income_composition_of_resources,0.0043,0.988,improving,0.758,2015
+Mexico,schooling,0.1109,0.9654,improving,13.3,2015
+Micronesia (Federated States of),life_expectancy,0.1841,0.9075,improving,69.4,2015
+Micronesia (Federated States of),adult_mortality,3.375,0.0924,improving,166.0,2015
+Micronesia (Federated States of),alcohol,-0.0501,0.2185,declining,1.97,2015
+Micronesia (Federated States of),hepatitis_b,0.5662,0.0104,improving,78.0,2015
+Micronesia (Federated States of),bmi,0.5247,0.9943,improving,69.4,2015
+Micronesia (Federated States of),polio,-0.55,0.2474,declining,71.0,2015
+Micronesia (Federated States of),total_expenditure,0.4615,0.4574,improving,12.11,2015
+Micronesia (Federated States of),diphtheria,-0.3324,0.0478,declining,72.0,2015
+Micronesia (Federated States of),gdp_per_capita,0.0,,declining,0.87,2015
+Micronesia (Federated States of),population,0.0,,declining,1417430.0,2015
+Micronesia (Federated States of),thinness_1_19_years,-0.0041,0.3294,declining,0.2,2015
+Micronesia (Federated States of),income_composition_of_resources,0.016,0.2357,improving,0.637,2015
+Micronesia (Federated States of),schooling,0.3509,0.348,improving,11.7,2015
+Monaco,life_expectancy,,,declining,69.0,2013
+Monaco,adult_mortality,,,declining,163.0,2013
+Monaco,alcohol,,,declining,0.01,2013
+Monaco,hepatitis_b,,,declining,99.0,2013
+Monaco,bmi,,,declining,35.2,2013
+Monaco,polio,,,declining,99.0,2013
+Monaco,total_expenditure,,,declining,4.3,2013
+Monaco,diphtheria,,,declining,99.0,2013
+Monaco,gdp_per_capita,,,declining,0.87,2013
+Monaco,population,,,declining,1417430.0,2013
+Monaco,thinness_1_19_years,,,declining,4.5,2013
+Monaco,income_composition_of_resources,,,declining,0.631,2013
+Monaco,schooling,,,declining,11.7,2013
+Mongolia,life_expectancy,0.4094,0.9534,improving,68.8,2015
+Mongolia,adult_mortality,-5.2441,0.0981,declining,222.0,2015
+Mongolia,alcohol,-0.0992,0.0709,declining,2.75,2015
+Mongolia,hepatitis_b,0.2103,0.3585,improving,99.0,2015
+Mongolia,bmi,0.704,0.0554,improving,52.7,2015
+Mongolia,polio,0.1632,0.1972,improving,99.0,2015
+Mongolia,total_expenditure,-0.0794,0.3489,declining,5.29,2015
+Mongolia,diphtheria,0.1618,0.1719,improving,99.0,2015
+Mongolia,gdp_per_capita,0.2951,0.1301,improving,1.32,2015
+Mongolia,population,-7634.1897,0.0012,declining,2976877.0,2015
+Mongolia,thinness_1_19_years,-0.0222,0.6861,declining,2.2,2015
+Mongolia,income_composition_of_resources,0.0108,0.9921,improving,0.733,2015
+Mongolia,schooling,0.4222,0.936,improving,14.8,2015
+Montenegro,life_expectancy,0.2226,0.9675,improving,76.1,2015
+Montenegro,adult_mortality,-8.5147,0.5498,declining,16.0,2015
+Montenegro,alcohol,0.1221,0.0368,improving,0.01,2015
+Montenegro,hepatitis_b,1.1926,0.0308,improving,82.0,2015
+Montenegro,bmi,-0.9265,0.064,declining,61.8,2015
+Montenegro,polio,0.3338,0.0058,improving,89.0,2015
+Montenegro,total_expenditure,-0.1231,0.4476,declining,7.25,2015
+Montenegro,diphtheria,0.3015,0.0047,improving,89.0,2015
+Montenegro,gdp_per_capita,24.3634,0.0982,improving,10.39,2015
+Montenegro,population,1582.6603,0.0006,improving,622159.0,2015
+Montenegro,thinness_1_19_years,-0.0562,0.9776,declining,1.8,2015
+Montenegro,income_composition_of_resources,0.0576,0.6179,improving,0.804,2015
+Montenegro,schooling,1.1149,0.6779,improving,15.1,2015
+Morocco,life_expectancy,0.3322,0.4969,improving,74.3,2015
+Morocco,adult_mortality,-1.0074,0.0086,declining,95.0,2015
+Morocco,alcohol,0.0014,0.0132,improving,0.54,2015
+Morocco,hepatitis_b,2.8882,0.3029,improving,99.0,2015
+Morocco,bmi,0.9769,0.145,improving,58.5,2015
+Morocco,polio,0.4221,0.6122,improving,99.0,2015
+Morocco,total_expenditure,0.0906,0.6531,improving,5.48,2015
+Morocco,diphtheria,0.375,0.5531,improving,99.0,2015
+Morocco,gdp_per_capita,-0.0129,0.0017,declining,0.82,2015
+Morocco,population,-482113.6074,0.0259,declining,3483322.0,2015
+Morocco,thinness_1_19_years,-0.0231,0.6988,declining,6.4,2015
+Morocco,income_composition_of_resources,0.0082,0.9954,improving,0.645,2015
+Morocco,schooling,0.2688,0.9782,improving,12.1,2015
+Mozambique,life_expectancy,0.4534,0.5983,improving,57.6,2015
+Mozambique,adult_mortality,-7.0618,0.0304,declining,355.0,2015
+Mozambique,alcohol,-0.0689,0.4418,declining,1.19,2015
+Mozambique,hepatitis_b,-0.425,0.0097,declining,8.0,2015
+Mozambique,bmi,0.0087,0.0,improving,22.6,2015
+Mozambique,polio,-1.0412,0.0895,declining,8.0,2015
+Mozambique,total_expenditure,-0.0124,0.0101,declining,5.91,2015
+Mozambique,diphtheria,0.4456,0.0057,improving,8.0,2015
+Mozambique,gdp_per_capita,-0.0431,0.0043,declining,1.88,2015
+Mozambique,population,-45024.4279,0.0004,declining,281691.0,2015
+Mozambique,thinness_1_19_years,-0.0387,0.9258,declining,3.6,2015
+Mozambique,income_composition_of_resources,0.0086,0.9786,improving,0.414,2015
+Mozambique,schooling,0.2718,0.8612,improving,9.1,2015
+Myanmar,life_expectancy,0.2938,0.5077,improving,66.6,2015
+Myanmar,adult_mortality,-13.8632,0.3881,declining,199.0,2015
+Myanmar,alcohol,-0.0018,0.0033,declining,0.33,2015
+Myanmar,hepatitis_b,1.15,0.0393,improving,89.0,2015
+Myanmar,bmi,0.4947,0.2185,improving,23.8,2015
+Myanmar,polio,-1.625,0.0628,declining,89.0,2015
+Myanmar,total_expenditure,0.0118,0.0504,improving,1.92,2015
+Myanmar,diphtheria,-0.3176,0.0036,declining,89.0,2015
+Myanmar,gdp_per_capita,0.087,0.0126,improving,0.23,2015
+Myanmar,population,-145833.7029,0.0008,declining,5243669.0,2015
+Myanmar,thinness_1_19_years,-0.0334,0.9144,declining,12.8,2015
+Myanmar,income_composition_of_resources,0.0094,0.9967,improving,0.552,2015
+Myanmar,schooling,0.1291,0.9431,improving,9.1,2015
+Namibia,life_expectancy,0.8594,0.847,improving,65.8,2015
+Namibia,adult_mortality,-10.9956,0.1352,declining,248.0,2015
+Namibia,alcohol,-0.1969,0.1324,declining,5.09,2015
+Namibia,hepatitis_b,0.1294,0.0732,improving,92.0,2015
+Namibia,bmi,0.7135,0.2011,improving,35.7,2015
+Namibia,polio,2.2912,0.3194,improving,92.0,2015
+Namibia,total_expenditure,0.1715,0.6995,improving,7.2,2015
+Namibia,diphtheria,0.7088,0.6471,improving,92.0,2015
+Namibia,gdp_per_capita,0.5392,0.0024,improving,1.95,2015
+Namibia,population,-23857.9559,0.0132,declining,2425561.0,2015
+Namibia,thinness_1_19_years,-0.6191,0.4761,declining,8.2,2015
+Namibia,income_composition_of_resources,0.0061,0.9483,improving,0.637,2015
+Namibia,schooling,-0.005,0.0224,declining,11.7,2015
+Nauru,life_expectancy,,,declining,69.0,2013
+Nauru,adult_mortality,,,declining,163.0,2013
+Nauru,alcohol,,,declining,0.01,2013
+Nauru,hepatitis_b,,,declining,87.0,2013
+Nauru,bmi,,,declining,87.3,2013
+Nauru,polio,,,declining,87.0,2013
+Nauru,total_expenditure,,,declining,4.65,2013
+Nauru,diphtheria,,,declining,87.0,2013
+Nauru,gdp_per_capita,,,declining,0.1,2013
+Nauru,population,,,declining,1417430.0,2013
+Nauru,thinness_1_19_years,,,declining,0.1,2013
+Nauru,income_composition_of_resources,,,declining,0.631,2013
+Nauru,schooling,,,declining,9.6,2013
+Nepal,life_expectancy,0.4957,0.9761,improving,69.2,2015
+Nepal,adult_mortality,2.9971,0.0337,improving,165.0,2015
+Nepal,alcohol,0.0042,0.0788,improving,0.2,2015
+Nepal,hepatitis_b,1.7029,0.0698,improving,91.0,2015
+Nepal,bmi,0.5079,0.9997,improving,19.1,2015
+Nepal,polio,-0.7235,0.0125,declining,9.0,2015
+Nepal,total_expenditure,0.0421,0.2462,improving,5.8,2015
+Nepal,diphtheria,1.0838,0.038,improving,91.0,2015
+Nepal,gdp_per_capita,0.0005,0.001,improving,0.03,2015
+Nepal,population,897161.8044,0.1171,improving,28656282.0,2015
+Nepal,thinness_1_19_years,-0.1866,0.9989,declining,15.7,2015
+Nepal,income_composition_of_resources,0.0084,0.9863,improving,0.555,2015
+Nepal,schooling,0.2831,0.9238,improving,12.2,2015
+Netherlands,life_expectancy,0.3407,0.3427,improving,81.9,2015
+Netherlands,adult_mortality,-1.7824,0.138,declining,57.0,2015
+Netherlands,alcohol,-0.2351,0.2184,declining,9.56,2015
+Netherlands,hepatitis_b,0.5794,0.0137,improving,94.0,2015
+Netherlands,bmi,-0.0228,0.0001,declining,62.1,2015
+Netherlands,polio,-0.075,0.2267,declining,95.0,2015
+Netherlands,total_expenditure,-0.1722,0.0536,declining,8.46,2015
+Netherlands,diphtheria,-0.075,0.2267,declining,95.0,2015
+Netherlands,gdp_per_capita,2.9378,0.0284,improving,2.61,2015
+Netherlands,population,-159320.4471,0.0095,declining,16939923.0,2015
+Netherlands,thinness_1_19_years,-0.0071,0.5647,declining,1.0,2015
+Netherlands,income_composition_of_resources,0.0036,0.9787,improving,0.923,2015
+Netherlands,schooling,0.1163,0.7079,improving,18.1,2015
+New Zealand,life_expectancy,0.3515,0.3219,improving,81.6,2015
+New Zealand,adult_mortality,-2.1265,0.3084,declining,66.0,2015
+New Zealand,alcohol,0.0117,0.0469,improving,8.7,2015
+New Zealand,hepatitis_b,2.9632,0.1489,improving,92.0,2015
+New Zealand,bmi,2.1497,0.2704,improving,67.5,2015
+New Zealand,polio,0.7794,0.8337,improving,92.0,2015
+New Zealand,total_expenditure,0.2518,0.2293,improving,8.35,2015
+New Zealand,diphtheria,5.9971,0.6021,improving,92.0,2015
+New Zealand,gdp_per_capita,0.3545,0.0184,improving,3.27,2015
+New Zealand,population,0.0,,declining,1167660.0,2015
+New Zealand,thinness_1_19_years,0.0041,0.3294,improving,0.4,2015
+New Zealand,income_composition_of_resources,0.0031,0.9778,improving,0.913,2015
+New Zealand,schooling,0.1499,0.6484,improving,19.2,2015
+Nicaragua,life_expectancy,0.0744,0.0699,improving,74.8,2015
+Nicaragua,adult_mortality,-3.2265,0.1244,declining,145.0,2015
+Nicaragua,alcohol,-0.0082,0.0721,declining,3.61,2015
+Nicaragua,hepatitis_b,1.2441,0.763,improving,98.0,2015
+Nicaragua,bmi,-0.0463,0.0002,declining,54.0,2015
+Nicaragua,polio,1.9779,0.1803,improving,99.0,2015
+Nicaragua,total_expenditure,0.1838,0.591,improving,6.39,2015
+Nicaragua,diphtheria,1.2441,0.763,improving,98.0,2015
+Nicaragua,gdp_per_capita,-0.0767,0.0016,declining,4.34,2015
+Nicaragua,population,40166.1074,0.0058,improving,68235.0,2015
+Nicaragua,thinness_1_19_years,-0.0313,0.9414,declining,1.8,2015
+Nicaragua,income_composition_of_resources,0.005,0.9956,improving,0.642,2015
+Nicaragua,schooling,0.0874,0.8892,improving,11.7,2015
+Niger,life_expectancy,0.9051,0.7465,improving,61.8,2015
+Niger,adult_mortality,-5.7662,0.1077,declining,22.0,2015
+Niger,alcohol,-0.0038,0.1821,declining,0.11,2015
+Niger,hepatitis_b,-0.4059,0.0154,declining,65.0,2015
+Niger,bmi,0.3832,0.9992,improving,19.3,2015
+Niger,polio,1.4662,0.1561,improving,65.0,2015
+Niger,total_expenditure,-0.0327,0.112,declining,6.61,2015
+Niger,diphtheria,2.2985,0.3471,improving,65.0,2015
+Niger,gdp_per_capita,-0.2364,0.0972,declining,0.02,2015
+Niger,population,934942.675,0.3611,improving,19896965.0,2015
+Niger,thinness_1_19_years,-0.6447,0.4355,declining,9.6,2015
+Niger,income_composition_of_resources,0.0069,0.9916,improving,0.351,2015
+Niger,schooling,0.1972,0.9777,improving,5.4,2015
+Nigeria,life_expectancy,0.5051,0.5221,improving,54.5,2015
+Nigeria,adult_mortality,28.1559,0.6345,improving,344.0,2015
+Nigeria,alcohol,-0.238,0.2311,declining,9.3,2015
+Nigeria,hepatitis_b,0.4559,0.0489,improving,49.0,2015
+Nigeria,bmi,0.5971,0.2806,improving,25.4,2015
+Nigeria,polio,1.4603,0.1845,improving,49.0,2015
+Nigeria,total_expenditure,0.022,0.0333,improving,3.69,2015
+Nigeria,diphtheria,1.9368,0.4044,improving,49.0,2015
+Nigeria,gdp_per_capita,0.0337,0.1091,improving,0.01,2015
+Nigeria,population,1046439.4279,0.0048,improving,181181744.0,2015
+Nigeria,thinness_1_19_years,-0.7434,0.5843,declining,9.8,2015
+Nigeria,income_composition_of_resources,0.0374,0.6561,improving,0.525,2015
+Nigeria,schooling,0.1635,0.9471,improving,10.0,2015
+Niue,life_expectancy,,,declining,69.0,2013
+Niue,adult_mortality,,,declining,163.0,2013
+Niue,alcohol,,,declining,0.01,2013
+Niue,hepatitis_b,,,declining,99.0,2013
+Niue,bmi,,,declining,77.3,2013
+Niue,polio,,,declining,99.0,2013
+Niue,total_expenditure,,,declining,7.2,2013
+Niue,diphtheria,,,declining,99.0,2013
+Niue,gdp_per_capita,,,declining,0.87,2013
+Niue,population,,,declining,1417430.0,2013
+Niue,thinness_1_19_years,,,declining,0.1,2013
+Niue,income_composition_of_resources,,,declining,0.631,2013
+Niue,schooling,,,declining,11.7,2013
+Norway,life_expectancy,0.2304,0.1447,improving,81.8,2015
+Norway,adult_mortality,-1.3971,0.1396,declining,59.0,2015
+Norway,alcohol,0.0309,0.161,improving,5.97,2015
+Norway,hepatitis_b,0.0,,declining,95.0,2015
+Norway,bmi,-1.3888,0.1442,declining,61.2,2015
+Norway,polio,0.2191,0.606,improving,95.0,2015
+Norway,total_expenditure,0.0313,0.0888,improving,9.16,2015
+Norway,diphtheria,2.0279,0.2097,improving,95.0,2015
+Norway,gdp_per_capita,-2.4408,0.0418,declining,14.37,2015
+Norway,population,-76269.5456,0.0274,declining,518867.0,2015
+Norway,thinness_1_19_years,-0.0035,0.1129,declining,0.8,2015
+Norway,income_composition_of_resources,0.0023,0.9557,improving,0.948,2015
+Norway,schooling,0.0293,0.474,improving,17.7,2015
+Oman,life_expectancy,0.2654,0.9826,improving,76.6,2015
+Oman,adult_mortality,-7.1412,0.3762,declining,99.0,2015
+Oman,alcohol,-0.0022,0.0229,declining,0.56,2015
+Oman,hepatitis_b,-0.0338,0.1596,declining,99.0,2015
+Oman,bmi,0.7907,0.0582,improving,54.6,2015
+Oman,polio,-0.0088,0.0019,declining,99.0,2015
+Oman,total_expenditure,-0.043,0.1701,declining,2.76,2015
+Oman,diphtheria,-0.0294,0.098,declining,99.0,2015
+Oman,gdp_per_capita,0.5138,0.1999,improving,11.73,2015
+Oman,population,0.0,,declining,1417430.0,2015
+Oman,thinness_1_19_years,-0.0085,0.1903,declining,7.1,2015
+Oman,income_composition_of_resources,0.0227,0.3131,improving,0.795,2015
+Oman,schooling,0.2474,0.9233,improving,13.7,2015
+Pakistan,life_expectancy,0.2526,0.9527,improving,66.4,2015
+Pakistan,adult_mortality,3.0294,0.0644,improving,161.0,2015
+Pakistan,alcohol,0.0014,0.2853,improving,0.03,2015
+Pakistan,hepatitis_b,0.7485,0.0437,improving,72.0,2015
+Pakistan,bmi,0.5959,0.1716,improving,25.4,2015
+Pakistan,polio,0.0103,0.0,improving,72.0,2015
+Pakistan,total_expenditure,0.0065,0.0123,improving,2.79,2015
+Pakistan,diphtheria,0.5647,0.2196,improving,72.0,2015
+Pakistan,gdp_per_capita,-0.427,0.0391,declining,0.08,2015
+Pakistan,population,5203556.0485,0.097,improving,18938513.0,2015
+Pakistan,thinness_1_19_years,-0.5965,0.1028,declining,19.2,2015
+Pakistan,income_composition_of_resources,0.007,0.9752,improving,0.548,2015
+Pakistan,schooling,0.204,0.9503,improving,8.1,2015
+Palau,life_expectancy,,,declining,69.0,2013
+Palau,adult_mortality,,,declining,163.0,2013
+Palau,alcohol,,,declining,2.58,2013
+Palau,hepatitis_b,,,declining,99.0,2013
+Palau,bmi,,,declining,83.3,2013
+Palau,polio,,,declining,99.0,2013
+Palau,total_expenditure,,,declining,9.27,2013
+Palau,diphtheria,,,declining,99.0,2013
+Palau,gdp_per_capita,,,declining,6616.86,2013
+Palau,population,,,declining,292.0,2013
+Palau,thinness_1_19_years,,,declining,0.1,2013
+Palau,income_composition_of_resources,,,declining,0.779,2013
+Palau,schooling,,,declining,14.2,2013
+Panama,life_expectancy,0.1615,0.9353,improving,77.8,2015
+Panama,adult_mortality,-1.7912,0.0937,declining,118.0,2015
+Panama,alcohol,0.1077,0.6623,improving,6.16,2015
+Panama,hepatitis_b,-3.7368,0.3886,declining,73.0,2015
+Panama,bmi,1.1141,0.1858,improving,57.8,2015
+Panama,polio,-2.6691,0.3424,declining,72.0,2015
+Panama,total_expenditure,0.0088,0.0034,improving,7.6,2015
+Panama,diphtheria,-4.0147,0.4358,declining,73.0,2015
+Panama,gdp_per_capita,0.3516,0.0381,improving,3.31,2015
+Panama,population,157157.9735,0.1929,improving,3969249.0,2015
+Panama,thinness_1_19_years,-0.0325,0.9343,declining,1.9,2015
+Panama,income_composition_of_resources,0.0044,0.9845,improving,0.785,2015
+Panama,schooling,0.0359,0.5405,improving,13.0,2015
+Papua New Guinea,life_expectancy,0.2193,0.2131,improving,62.9,2015
+Papua New Guinea,adult_mortality,-2.4779,0.016,declining,275.0,2015
+Papua New Guinea,alcohol,-0.0276,0.1923,declining,0.68,2015
+Papua New Guinea,hepatitis_b,2.0118,0.2185,improving,67.0,2015
+Papua New Guinea,bmi,1.1188,0.2668,improving,48.6,2015
+Papua New Guinea,polio,0.4868,0.018,improving,74.0,2015
+Papua New Guinea,total_expenditure,-0.1639,0.3229,declining,4.78,2015
+Papua New Guinea,diphtheria,1.0824,0.6149,improving,73.0,2015
+Papua New Guinea,gdp_per_capita,-0.1121,0.0513,declining,0.08,2015
+Papua New Guinea,population,167871.6588,0.069,improving,7919825.0,2015
+Papua New Guinea,thinness_1_19_years,-0.0184,0.888,declining,1.3,2015
+Papua New Guinea,income_composition_of_resources,0.007,0.995,improving,0.515,2015
+Papua New Guinea,schooling,0.2757,0.9603,improving,10.0,2015
+Paraguay,life_expectancy,0.0306,0.0065,improving,74.0,2015
+Paraguay,adult_mortality,-0.3044,0.0009,declining,146.0,2015
+Paraguay,alcohol,-0.1888,0.3318,declining,5.66,2015
+Paraguay,hepatitis_b,0.9015,0.0465,improving,93.0,2015
+Paraguay,bmi,0.3241,0.0124,improving,5.2,2015
+Paraguay,polio,-0.0897,0.0002,declining,89.0,2015
+Paraguay,total_expenditure,-0.0655,0.0163,declining,6.77,2015
+Paraguay,diphtheria,-0.0353,0.0018,declining,93.0,2015
+Paraguay,gdp_per_capita,-6.6026,0.1906,declining,0.06,2015
+Paraguay,population,365730.3353,0.3335,improving,6639119.0,2015
+Paraguay,thinness_1_19_years,-0.0365,0.9422,declining,2.0,2015
+Paraguay,income_composition_of_resources,0.0045,0.9798,improving,0.692,2015
+Paraguay,schooling,0.024,0.1926,improving,12.3,2015
+Peru,life_expectancy,0.255,0.8981,improving,75.5,2015
+Peru,adult_mortality,-3.3132,0.1316,declining,123.0,2015
+Peru,alcohol,-0.0414,0.0272,declining,4.5,2015
+Peru,hepatitis_b,-1.6544,0.1332,declining,9.0,2015
+Peru,bmi,0.6807,0.0426,improving,55.6,2015
+Peru,polio,1.0926,0.0578,improving,88.0,2015
+Peru,total_expenditure,0.0361,0.3107,improving,4.93,2015
+Peru,diphtheria,-0.3882,0.0042,declining,9.0,2015
+Peru,gdp_per_capita,0.6406,0.0074,improving,0.0,2015
+Peru,population,-526728.2985,0.0355,declining,31376671.0,2015
+Peru,thinness_1_19_years,-0.0234,0.9096,declining,1.1,2015
+Peru,income_composition_of_resources,0.0043,0.9641,improving,0.737,2015
+Peru,schooling,0.0007,0.0002,improving,13.4,2015
+Philippines,life_expectancy,0.1179,0.9478,improving,68.5,2015
+Philippines,adult_mortality,-0.3779,0.4083,declining,211.0,2015
+Philippines,alcohol,0.0156,0.0734,improving,4.45,2015
+Philippines,hepatitis_b,2.2794,0.1516,improving,6.0,2015
+Philippines,bmi,0.7156,0.2379,improving,25.4,2015
+Philippines,polio,0.8074,0.0402,improving,79.0,2015
+Philippines,total_expenditure,0.1108,0.7206,improving,3.95,2015
+Philippines,diphtheria,-1.6853,0.1538,declining,6.0,2015
+Philippines,gdp_per_capita,0.4933,0.1385,improving,0.25,2015
+Philippines,population,-2380581.1956,0.0812,declining,11716359.0,2015
+Philippines,thinness_1_19_years,0.0,,declining,1.0,2015
+Philippines,income_composition_of_resources,0.0041,0.9858,improving,0.679,2015
+Philippines,schooling,0.0157,0.3837,improving,11.7,2015
+Poland,life_expectancy,0.2435,0.9808,improving,77.5,2015
+Poland,adult_mortality,-7.1338,0.3518,declining,117.0,2015
+Poland,alcohol,0.2146,0.7069,improving,10.59,2015
+Poland,hepatitis_b,-0.0794,0.1208,declining,96.0,2015
+Poland,bmi,-0.2957,0.0119,declining,61.7,2015
+Poland,polio,-0.3676,0.707,declining,92.0,2015
+Poland,total_expenditure,0.0494,0.344,improving,6.32,2015
+Poland,diphtheria,0.0,0.0,declining,98.0,2015
+Poland,gdp_per_capita,0.0039,0.0,improving,0.33,2015
+Poland,population,-717409.4206,0.0372,declining,37986412.0,2015
+Poland,thinness_1_19_years,-0.0446,0.9792,declining,1.9,2015
+Poland,income_composition_of_resources,0.0048,0.9813,improving,0.852,2015
+Poland,schooling,0.0803,0.5508,improving,16.4,2015
+Portugal,life_expectancy,0.6075,0.688,improving,81.1,2015
+Portugal,adult_mortality,4.6265,0.3393,improving,76.0,2015
+Portugal,alcohol,-0.1284,0.3046,declining,12.22,2015
+Portugal,hepatitis_b,2.9824,0.357,improving,98.0,2015
+Portugal,bmi,0.7199,0.023,improving,61.6,2015
+Portugal,polio,0.1882,0.4633,improving,98.0,2015
+Portugal,total_expenditure,-0.157,0.0528,declining,9.54,2015
+Portugal,diphtheria,0.1029,0.1126,improving,98.0,2015
+Portugal,gdp_per_capita,6.1924,0.0043,improving,14.15,2015
+Portugal,population,-63330.5206,0.1986,declining,135876.0,2015
+Portugal,thinness_1_19_years,-0.0057,0.4588,declining,0.7,2015
+Portugal,income_composition_of_resources,0.0041,0.96,improving,0.841,2015
+Portugal,schooling,0.0691,0.6066,improving,16.6,2015
+Qatar,life_expectancy,0.1363,0.9327,improving,78.2,2015
+Qatar,adult_mortality,-2.4,0.3506,declining,68.0,2015
+Qatar,alcohol,0.0287,0.4049,improving,1.15,2015
+Qatar,hepatitis_b,0.1044,0.0246,improving,99.0,2015
+Qatar,bmi,0.3632,0.9193,improving,69.3,2015
+Qatar,polio,0.3235,0.3129,improving,99.0,2015
+Qatar,total_expenditure,-0.0531,0.1729,declining,2.56,2015
+Qatar,diphtheria,1.9338,0.1758,improving,99.0,2015
+Qatar,gdp_per_capita,2.5875,0.2559,improving,46.81,2015
+Qatar,population,0.0,,declining,1417430.0,2015
+Qatar,thinness_1_19_years,0.0304,0.9284,improving,5.2,2015
+Qatar,income_composition_of_resources,0.0027,0.7879,improving,0.855,2015
+Qatar,schooling,0.0179,0.0156,improving,13.4,2015
+Republic of Korea,life_expectancy,0.4871,0.5327,improving,82.3,2015
+Republic of Korea,adult_mortality,-1.325,0.0905,declining,64.0,2015
+Republic of Korea,alcohol,-0.242,0.2213,declining,9.31,2015
+Republic of Korea,hepatitis_b,0.5382,0.4981,improving,98.0,2015
+Republic of Korea,bmi,-0.6072,0.0829,declining,31.7,2015
+Republic of Korea,polio,0.9412,0.0411,improving,98.0,2015
+Republic of Korea,total_expenditure,0.1935,0.8203,improving,5.99,2015
+Republic of Korea,diphtheria,0.2044,0.0954,improving,98.0,2015
+Republic of Korea,gdp_per_capita,0.0,,declining,0.87,2015
+Republic of Korea,population,0.0,,declining,1417430.0,2015
+Republic of Korea,thinness_1_19_years,-0.0088,0.7059,declining,1.5,2015
+Republic of Korea,income_composition_of_resources,0.0,,declining,0.631,2015
+Republic of Korea,schooling,0.0,,declining,11.7,2015
+Republic of Moldova,life_expectancy,0.5184,0.4846,improving,72.1,2015
+Republic of Moldova,adult_mortality,-5.4868,0.6844,declining,157.0,2015
+Republic of Moldova,alcohol,0.0225,0.0062,improving,9.66,2015
+Republic of Moldova,hepatitis_b,-0.3971,0.2577,declining,88.0,2015
+Republic of Moldova,bmi,-0.346,0.0119,declining,53.4,2015
+Republic of Moldova,polio,-0.5691,0.5124,declining,88.0,2015
+Republic of Moldova,total_expenditure,-0.1177,0.0178,declining,8.24,2015
+Republic of Moldova,diphtheria,-4.2426,0.279,declining,87.0,2015
+Republic of Moldova,gdp_per_capita,0.0,,declining,0.87,2015
+Republic of Moldova,population,0.0,,declining,1417430.0,2015
+Republic of Moldova,thinness_1_19_years,-0.0618,0.9468,declining,2.7,2015
+Republic of Moldova,income_composition_of_resources,0.0,,declining,0.631,2015
+Republic of Moldova,schooling,0.0,,declining,11.7,2015
+Romania,life_expectancy,-0.0597,0.0203,declining,75.0,2015
+Romania,adult_mortality,-3.2132,0.9364,declining,133.0,2015
+Romania,alcohol,-0.1767,0.1063,declining,9.59,2015
+Romania,hepatitis_b,-2.1662,0.217,declining,9.0,2015
+Romania,bmi,-0.5747,0.0485,declining,6.7,2015
+Romania,polio,-0.6588,0.7808,declining,89.0,2015
+Romania,total_expenditure,0.071,0.5483,improving,5.47,2015
+Romania,diphtheria,-0.6059,0.7899,declining,89.0,2015
+Romania,gdp_per_capita,4.3774,0.0637,improving,0.45,2015
+Romania,population,-397523.2647,0.0393,declining,19815481.0,2015
+Romania,thinness_1_19_years,-0.0899,0.9754,declining,2.5,2015
+Romania,income_composition_of_resources,0.0073,0.9052,improving,0.798,2015
+Romania,schooling,0.2635,0.759,improving,14.7,2015
+Russian Federation,life_expectancy,0.6015,0.8605,improving,75.0,2015
+Russian Federation,adult_mortality,4.9691,0.0508,improving,222.0,2015
+Russian Federation,alcohol,-0.0079,0.0038,declining,11.05,2015
+Russian Federation,hepatitis_b,1.3412,0.2124,improving,97.0,2015
+Russian Federation,bmi,-0.7537,0.0808,declining,6.5,2015
+Russian Federation,polio,0.0191,0.0316,improving,97.0,2015
+Russian Federation,total_expenditure,0.1363,0.5048,improving,5.99,2015
+Russian Federation,diphtheria,0.0471,0.0972,improving,97.0,2015
+Russian Federation,gdp_per_capita,0.1559,0.2196,improving,6.44,2015
+Russian Federation,population,-1534650.1,0.0117,declining,1449687.0,2015
+Russian Federation,thinness_1_19_years,-0.0366,0.7606,declining,2.3,2015
+Russian Federation,income_composition_of_resources,0.0064,0.9909,improving,0.805,2015
+Russian Federation,schooling,0.1587,0.8936,improving,15.0,2015
+Rwanda,life_expectancy,1.2085,0.8154,improving,66.1,2015
+Rwanda,adult_mortality,-14.5603,0.2293,declining,227.0,2015
+Rwanda,alcohol,-0.3077,0.2566,declining,6.78,2015
+Rwanda,hepatitis_b,0.3176,0.2354,improving,98.0,2015
+Rwanda,bmi,-0.0841,0.0057,declining,21.4,2015
+Rwanda,polio,2.6412,0.3248,improving,99.0,2015
+Rwanda,total_expenditure,0.2488,0.3703,improving,7.2,2015
+Rwanda,diphtheria,2.6412,0.3217,improving,98.0,2015
+Rwanda,gdp_per_capita,-0.0217,0.0057,declining,0.01,2015
+Rwanda,population,370401.9838,0.1509,improving,11629553.0,2015
+Rwanda,thinness_1_19_years,-0.1149,0.9636,declining,5.7,2015
+Rwanda,income_composition_of_resources,0.0123,0.9794,improving,0.493,2015
+Rwanda,schooling,0.2938,0.8885,improving,10.8,2015
+Saint Kitts and Nevis,life_expectancy,,,declining,69.0,2013
+Saint Kitts and Nevis,adult_mortality,,,declining,163.0,2013
+Saint Kitts and Nevis,alcohol,,,declining,8.54,2013
+Saint Kitts and Nevis,hepatitis_b,,,declining,97.0,2013
+Saint Kitts and Nevis,bmi,,,declining,5.2,2013
+Saint Kitts and Nevis,polio,,,declining,96.0,2013
+Saint Kitts and Nevis,total_expenditure,,,declining,6.14,2013
+Saint Kitts and Nevis,diphtheria,,,declining,96.0,2013
+Saint Kitts and Nevis,gdp_per_capita,,,declining,0.87,2013
+Saint Kitts and Nevis,population,,,declining,1417430.0,2013
+Saint Kitts and Nevis,thinness_1_19_years,,,declining,3.7,2013
+Saint Kitts and Nevis,income_composition_of_resources,,,declining,0.749,2013
+Saint Kitts and Nevis,schooling,,,declining,13.4,2013
+Saint Lucia,life_expectancy,0.2515,0.9607,improving,75.2,2015
+Saint Lucia,adult_mortality,-1.9676,0.0616,declining,138.0,2015
+Saint Lucia,alcohol,-0.1414,0.3883,declining,11.85,2015
+Saint Lucia,hepatitis_b,1.8,0.1688,improving,99.0,2015
+Saint Lucia,bmi,0.8943,0.1808,improving,47.5,2015
+Saint Lucia,polio,3.7147,0.3414,improving,99.0,2015
+Saint Lucia,total_expenditure,0.1289,0.4946,improving,6.72,2015
+Saint Lucia,diphtheria,3.7485,0.3461,improving,99.0,2015
+Saint Lucia,gdp_per_capita,0.0,,declining,0.87,2015
+Saint Lucia,population,0.0,,declining,1417430.0,2015
+Saint Lucia,thinness_1_19_years,-0.0129,0.7118,declining,4.3,2015
+Saint Lucia,income_composition_of_resources,0.0193,0.2662,improving,0.735,2015
+Saint Lucia,schooling,0.0454,0.5445,improving,13.1,2015
+Saint Vincent and the Grenadines,life_expectancy,-0.2924,0.2444,declining,73.2,2015
+Saint Vincent and the Grenadines,adult_mortality,-3.575,0.0992,declining,156.0,2015
+Saint Vincent and the Grenadines,alcohol,0.1587,0.7256,improving,6.04,2015
+Saint Vincent and the Grenadines,hepatitis_b,0.7559,0.0455,improving,98.0,2015
+Saint Vincent and the Grenadines,bmi,1.2599,0.1581,improving,54.1,2015
+Saint Vincent and the Grenadines,polio,-0.1412,0.1481,declining,97.0,2015
+Saint Vincent and the Grenadines,total_expenditure,0.2085,0.395,improving,3.93,2015
+Saint Vincent and the Grenadines,diphtheria,-0.1221,0.2905,declining,98.0,2015
+Saint Vincent and the Grenadines,gdp_per_capita,0.0,,declining,0.87,2015
+Saint Vincent and the Grenadines,population,0.0,,declining,1417430.0,2015
+Saint Vincent and the Grenadines,thinness_1_19_years,-0.0341,0.9046,declining,3.5,2015
+Saint Vincent and the Grenadines,income_composition_of_resources,0.0183,0.2447,improving,0.72,2015
+Saint Vincent and the Grenadines,schooling,0.0343,0.6195,improving,13.3,2015
+Samoa,life_expectancy,-0.0525,0.0152,declining,74.0,2015
+Samoa,adult_mortality,1.1132,0.012,improving,125.0,2015
+Samoa,alcohol,-0.1894,0.3942,declining,3.3,2015
+Samoa,hepatitis_b,-2.6897,0.2669,declining,59.0,2015
+Samoa,bmi,0.9628,0.0443,improving,74.7,2015
+Samoa,polio,-1.9912,0.175,declining,61.0,2015
+Samoa,total_expenditure,0.0978,0.3411,improving,5.2,2015
+Samoa,diphtheria,-1.4162,0.1372,declining,66.0,2015
+Samoa,gdp_per_capita,9.1272,0.3026,improving,21.42,2015
+Samoa,population,-1841.7559,0.0124,declining,193759.0,2015
+Samoa,thinness_1_19_years,0.0,,declining,0.2,2015
+Samoa,income_composition_of_resources,0.0042,0.9463,improving,0.702,2015
+Samoa,schooling,0.064,0.7819,improving,12.9,2015
+San Marino,life_expectancy,,,declining,69.0,2013
+San Marino,adult_mortality,,,declining,163.0,2013
+San Marino,alcohol,,,declining,0.01,2013
+San Marino,hepatitis_b,,,declining,69.0,2013
+San Marino,bmi,,,declining,35.2,2013
+San Marino,polio,,,declining,69.0,2013
+San Marino,total_expenditure,,,declining,6.5,2013
+San Marino,diphtheria,,,declining,69.0,2013
+San Marino,gdp_per_capita,,,declining,0.87,2013
+San Marino,population,,,declining,1417430.0,2013
+San Marino,thinness_1_19_years,,,declining,4.5,2013
+San Marino,income_composition_of_resources,,,declining,0.631,2013
+San Marino,schooling,,,declining,15.1,2013
+Sao Tome and Principe,life_expectancy,0.3532,0.9927,improving,67.5,2015
+Sao Tome and Principe,adult_mortality,-7.8632,0.1876,declining,19.0,2015
+Sao Tome and Principe,alcohol,-0.2801,0.3691,declining,5.07,2015
+Sao Tome and Principe,hepatitis_b,1.7485,0.1086,improving,96.0,2015
+Sao Tome and Principe,bmi,-0.0244,0.0002,declining,3.9,2015
+Sao Tome and Principe,polio,1.9368,0.1763,improving,96.0,2015
+Sao Tome and Principe,total_expenditure,0.1828,0.0783,improving,7.44,2015
+Sao Tome and Principe,diphtheria,0.4882,0.3353,improving,96.0,2015
+Sao Tome and Principe,gdp_per_capita,1.2338,0.0425,improving,8.31,2015
+Sao Tome and Principe,population,2595.0015,0.0254,improving,195553.0,2015
+Sao Tome and Principe,thinness_1_19_years,-0.1697,0.9934,declining,5.5,2015
+Sao Tome and Principe,income_composition_of_resources,0.0052,0.996,improving,0.565,2015
+Sao Tome and Principe,schooling,0.124,0.9678,improving,11.2,2015
+Saudi Arabia,life_expectancy,0.1234,0.9489,improving,74.5,2015
+Saudi Arabia,adult_mortality,6.0559,0.4584,improving,88.0,2015
+Saudi Arabia,alcohol,0.0035,0.7009,improving,0.09,2015
+Saudi Arabia,hepatitis_b,0.2632,0.6841,improving,98.0,2015
+Saudi Arabia,bmi,1.4262,0.1226,improving,68.2,2015
+Saudi Arabia,polio,0.1985,0.5972,improving,97.0,2015
+Saudi Arabia,total_expenditure,-0.0043,0.0014,declining,3.86,2015
+Saudi Arabia,diphtheria,0.2206,0.6966,improving,98.0,2015
+Saudi Arabia,gdp_per_capita,0.1412,0.0146,improving,1.93,2015
+Saudi Arabia,population,0.0,,declining,1417430.0,2015
+Saudi Arabia,thinness_1_19_years,0.0307,0.5742,improving,7.8,2015
+Saudi Arabia,income_composition_of_resources,0.0074,0.9668,improving,0.845,2015
+Saudi Arabia,schooling,0.2735,0.8701,improving,16.1,2015
+Senegal,life_expectancy,0.6349,0.8805,improving,66.7,2015
+Senegal,adult_mortality,-4.0074,0.0404,declining,188.0,2015
+Senegal,alcohol,-0.0041,0.3685,declining,0.32,2015
+Senegal,hepatitis_b,0.4809,0.0631,improving,89.0,2015
+Senegal,bmi,0.4496,0.1063,improving,24.3,2015
+Senegal,polio,2.8838,0.3661,improving,85.0,2015
+Senegal,total_expenditure,-0.055,0.3642,declining,4.81,2015
+Senegal,diphtheria,3.2191,0.4328,improving,89.0,2015
+Senegal,gdp_per_capita,-0.5027,0.0634,declining,0.01,2015
+Senegal,population,493753.5662,0.1513,improving,14976994.0,2015
+Senegal,thinness_1_19_years,-0.521,0.2745,declining,9.5,2015
+Senegal,income_composition_of_resources,0.0074,0.9946,improving,0.491,2015
+Senegal,schooling,0.2774,0.9888,improving,9.5,2015
+Serbia,life_expectancy,0.2034,0.9568,improving,75.6,2015
+Serbia,adult_mortality,-1.0868,0.8925,declining,121.0,2015
+Serbia,alcohol,0.1614,0.5603,improving,9.16,2015
+Serbia,hepatitis_b,0.2426,0.0241,improving,94.0,2015
+Serbia,bmi,-0.5912,0.0501,declining,6.0,2015
+Serbia,polio,-0.05,0.0087,declining,95.0,2015
+Serbia,total_expenditure,-0.2031,0.0747,declining,8.13,2015
+Serbia,diphtheria,0.0515,0.0091,improving,95.0,2015
+Serbia,gdp_per_capita,0.5744,0.0198,improving,6.58,2015
+Serbia,population,-218164.5235,0.0907,declining,795383.0,2015
+Serbia,thinness_1_19_years,-0.056,0.9798,declining,2.0,2015
+Serbia,income_composition_of_resources,0.0049,0.9794,improving,0.775,2015
+Serbia,schooling,0.0896,0.887,improving,14.4,2015
+Seychelles,life_expectancy,0.0779,0.8865,improving,73.2,2015
+Seychelles,adult_mortality,-5.3985,0.2077,declining,168.0,2015
+Seychelles,alcohol,-0.4324,0.3659,declining,7.41,2015
+Seychelles,hepatitis_b,0.0574,0.1185,improving,98.0,2015
+Seychelles,bmi,0.9946,0.2126,improving,37.4,2015
+Seychelles,polio,0.0059,0.001,improving,97.0,2015
+Seychelles,total_expenditure,-0.0646,0.2177,declining,3.73,2015
+Seychelles,diphtheria,0.0059,0.001,improving,97.0,2015
+Seychelles,gdp_per_capita,-7.1695,0.0036,declining,16.48,2015
+Seychelles,population,988.9574,0.0153,improving,93419.0,2015
+Seychelles,thinness_1_19_years,-0.0396,0.9345,declining,5.7,2015
+Seychelles,income_composition_of_resources,0.0201,0.2676,improving,0.781,2015
+Seychelles,schooling,0.119,0.8171,improving,14.1,2015
+Sierra Leone,life_expectancy,0.7229,0.7295,improving,51.0,2015
+Sierra Leone,adult_mortality,-4.1632,0.0111,declining,413.0,2015
+Sierra Leone,alcohol,-0.2032,0.3722,declining,3.86,2015
+Sierra Leone,hepatitis_b,0.1485,0.0114,improving,86.0,2015
+Sierra Leone,bmi,0.4843,0.1218,improving,24.4,2015
+Sierra Leone,polio,3.0971,0.8313,improving,86.0,2015
+Sierra Leone,total_expenditure,-0.0797,0.0062,declining,11.69,2015
+Sierra Leone,diphtheria,3.1647,0.7994,improving,86.0,2015
+Sierra Leone,gdp_per_capita,0.0561,0.0301,improving,0.81,2015
+Sierra Leone,population,-331432.9632,0.3842,declining,723725.0,2015
+Sierra Leone,thinness_1_19_years,0.1728,0.0968,improving,7.4,2015
+Sierra Leone,income_composition_of_resources,0.0093,0.9977,improving,0.431,2015
+Sierra Leone,schooling,0.1884,0.996,improving,9.5,2015
+Singapore,life_expectancy,0.2912,0.4071,improving,83.1,2015
+Singapore,adult_mortality,-2.0971,0.3619,declining,55.0,2015
+Singapore,alcohol,-0.0022,0.0023,declining,1.79,2015
+Singapore,hepatitis_b,0.0824,0.1962,improving,96.0,2015
+Singapore,bmi,0.6704,0.0813,improving,33.2,2015
+Singapore,polio,0.0559,0.0674,improving,96.0,2015
+Singapore,total_expenditure,0.1194,0.7158,improving,3.74,2015
+Singapore,diphtheria,0.0368,0.0318,improving,96.0,2015
+Singapore,gdp_per_capita,2.0989,0.4035,improving,45.93,2015
+Singapore,population,0.0,,declining,1167660.0,2015
+Singapore,thinness_1_19_years,0.0071,0.5647,improving,2.2,2015
+Singapore,income_composition_of_resources,0.0091,0.9362,improving,0.924,2015
+Singapore,schooling,0.2387,0.923,improving,15.4,2015
+Slovakia,life_expectancy,0.2332,0.9817,improving,76.7,2015
+Slovakia,adult_mortality,-4.4221,0.2607,declining,19.0,2015
+Slovakia,alcohol,-0.024,0.0715,declining,10.58,2015
+Slovakia,hepatitis_b,-0.0985,0.2765,declining,96.0,2015
+Slovakia,bmi,1.554,0.3479,improving,59.1,2015
+Slovakia,polio,-0.0691,0.1361,declining,96.0,2015
+Slovakia,total_expenditure,0.2009,0.6682,improving,7.76,2015
+Slovakia,diphtheria,-0.1206,0.4208,declining,96.0,2015
+Slovakia,gdp_per_capita,0.0,,declining,11.61,2015
+Slovakia,population,0.0,,declining,1167660.0,2015
+Slovakia,thinness_1_19_years,-0.0266,0.9287,declining,1.2,2015
+Slovakia,income_composition_of_resources,0.0063,0.9762,improving,0.842,2015
+Slovakia,schooling,0.1474,0.8981,improving,15.0,2015
+Slovenia,life_expectancy,0.7266,0.8235,improving,88.0,2015
+Slovenia,adult_mortality,-2.7838,0.102,declining,74.0,2015
+Slovenia,alcohol,-0.0428,0.0682,declining,10.8,2015
+Slovenia,hepatitis_b,0.0,,declining,95.0,2015
+Slovenia,bmi,-0.5988,0.0516,declining,6.1,2015
+Slovenia,polio,0.1515,0.2743,improving,95.0,2015
+Slovenia,total_expenditure,0.0668,0.3445,improving,8.62,2015
+Slovenia,diphtheria,0.2147,0.3407,improving,95.0,2015
+Slovenia,gdp_per_capita,-56.0012,0.0214,declining,10.36,2015
+Slovenia,population,-56672.0309,0.1842,declining,263531.0,2015
+Slovenia,thinness_1_19_years,-0.0578,0.9838,declining,1.4,2015
+Slovenia,income_composition_of_resources,0.0044,0.9399,improving,0.888,2015
+Slovenia,schooling,0.1532,0.7427,improving,17.3,2015
+Solomon Islands,life_expectancy,0.2109,0.9757,improving,69.2,2015
+Solomon Islands,adult_mortality,3.9985,0.0465,improving,177.0,2015
+Solomon Islands,alcohol,-0.039,0.19,declining,0.99,2015
+Solomon Islands,hepatitis_b,0.7706,0.0168,improving,98.0,2015
+Solomon Islands,bmi,0.3291,0.0128,improving,5.5,2015
+Solomon Islands,polio,1.6206,0.1241,improving,99.0,2015
+Solomon Islands,total_expenditure,-0.0131,0.0045,declining,6.0,2015
+Solomon Islands,diphtheria,1.2235,0.0303,improving,98.0,2015
+Solomon Islands,gdp_per_capita,0.2336,0.0231,improving,3.27,2015
+Solomon Islands,population,4388.7956,0.0085,improving,587482.0,2015
+Solomon Islands,thinness_1_19_years,-0.0207,0.9172,declining,1.1,2015
+Solomon Islands,income_composition_of_resources,0.0051,0.9562,improving,0.514,2015
+Solomon Islands,schooling,0.1894,0.8739,improving,9.6,2015
+Somalia,life_expectancy,-0.0575,0.017,declining,55.0,2015
+Somalia,adult_mortality,-1.8059,0.0127,declining,312.0,2015
+Somalia,alcohol,0.0,,declining,0.01,2015
+Somalia,hepatitis_b,0.0,,declining,42.0,2015
+Somalia,bmi,0.5374,0.1475,improving,24.3,2015
+Somalia,polio,2.3956,0.3528,improving,47.0,2015
+Somalia,total_expenditure,0.0,,declining,5.39,2015
+Somalia,diphtheria,2.0632,0.3735,improving,42.0,2015
+Somalia,gdp_per_capita,-0.004,0.0846,declining,0.3,2015
+Somalia,population,0.0,,declining,1417430.0,2015
+Somalia,thinness_1_19_years,-0.0943,0.9957,declining,6.6,2015
+Somalia,income_composition_of_resources,0.0,,declining,0.631,2015
+Somalia,schooling,0.0,,declining,11.7,2015
+South Africa,life_expectancy,0.6318,0.5154,improving,62.9,2015
+South Africa,adult_mortality,-11.9029,0.259,declining,328.0,2015
+South Africa,alcohol,0.0021,0.0003,improving,7.38,2015
+South Africa,hepatitis_b,-2.3794,0.2345,declining,75.0,2015
+South Africa,bmi,1.3465,0.1461,improving,51.1,2015
+South Africa,polio,1.9544,0.1629,improving,75.0,2015
+South Africa,total_expenditure,0.0239,0.06,improving,8.39,2015
+South Africa,diphtheria,1.0397,0.08,improving,75.0,2015
+South Africa,gdp_per_capita,-10.645,0.0387,declining,1.05,2015
+South Africa,population,-548250.7368,0.0126,declining,5511976.0,2015
+South Africa,thinness_1_19_years,-0.7756,0.7086,declining,4.4,2015
+South Africa,income_composition_of_resources,0.0027,0.4784,improving,0.665,2015
+South Africa,schooling,-0.0051,0.1008,declining,13.0,2015
+South Sudan,life_expectancy,0.4365,0.589,improving,57.3,2015
+South Sudan,adult_mortality,4.1515,0.0553,improving,332.0,2015
+South Sudan,alcohol,0.0,,declining,2.58,2015
+South Sudan,hepatitis_b,0.0,,declining,31.0,2015
+South Sudan,bmi,0.0,,declining,35.2,2015
+South Sudan,polio,-0.2059,0.006,declining,41.0,2015
+South Sudan,total_expenditure,-0.0015,0.0548,declining,2.74,2015
+South Sudan,diphtheria,-0.0735,0.0027,declining,31.0,2015
+South Sudan,gdp_per_capita,-0.3192,0.0812,declining,0.06,2015
+South Sudan,population,-25178.05,0.0009,declining,11882136.0,2015
+South Sudan,thinness_1_19_years,0.0,,declining,4.5,2015
+South Sudan,income_composition_of_resources,0.034,0.6454,improving,0.421,2015
+South Sudan,schooling,0.3963,0.6471,improving,4.9,2015
+Spain,life_expectancy,0.2025,0.1192,improving,82.8,2015
+Spain,adult_mortality,-3.0824,0.3642,declining,56.0,2015
+Spain,alcohol,-0.3419,0.3208,declining,10.24,2015
+Spain,hepatitis_b,1.1029,0.5428,improving,97.0,2015
+Spain,bmi,0.9984,0.1121,improving,66.6,2015
+Spain,polio,0.0235,0.0111,improving,97.0,2015
+Spain,total_expenditure,0.1433,0.678,improving,8.5,2015
+Spain,diphtheria,0.0176,0.0096,improving,97.0,2015
+Spain,gdp_per_capita,-0.4744,0.0827,declining,0.55,2015
+Spain,population,-86109.5735,0.0004,declining,46447697.0,2015
+Spain,thinness_1_19_years,0.0,,declining,0.6,2015
+Spain,income_composition_of_resources,0.0042,0.9943,improving,0.882,2015
+Spain,schooling,0.1504,0.8725,improving,17.7,2015
+Sri Lanka,life_expectancy,0.1826,0.3099,improving,74.9,2015
+Sri Lanka,adult_mortality,1.05,0.0166,improving,138.0,2015
+Sri Lanka,alcohol,0.0741,0.6118,improving,2.05,2015
+Sri Lanka,hepatitis_b,1.2632,0.1059,improving,99.0,2015
+Sri Lanka,bmi,0.4374,0.1803,improving,23.4,2015
+Sri Lanka,polio,0.0647,0.1837,improving,99.0,2015
+Sri Lanka,total_expenditure,-0.0441,0.2447,declining,3.76,2015
+Sri Lanka,diphtheria,0.0515,0.1135,improving,99.0,2015
+Sri Lanka,gdp_per_capita,33.435,0.1293,improving,1296.32,2015
+Sri Lanka,population,-1132.8838,0.3801,declining,2966.0,2015
+Sri Lanka,thinness_1_19_years,-0.015,0.5885,declining,15.1,2015
+Sri Lanka,income_composition_of_resources,0.0057,0.9901,improving,0.764,2015
+Sri Lanka,schooling,0.1107,0.9964,improving,14.0,2015
+Sudan,life_expectancy,0.3318,0.4862,improving,64.1,2015
+Sudan,adult_mortality,-3.1691,0.062,declining,225.0,2015
+Sudan,alcohol,-0.0754,0.2318,declining,1.76,2015
+Sudan,hepatitis_b,1.9,0.1327,improving,93.0,2015
+Sudan,bmi,0.0,,declining,35.2,2015
+Sudan,polio,2.6382,0.2125,improving,93.0,2015
+Sudan,total_expenditure,0.4029,0.6093,improving,4.72,2015
+Sudan,diphtheria,2.6353,0.2114,improving,93.0,2015
+Sudan,gdp_per_capita,-0.0189,0.0151,declining,0.65,2015
+Sudan,population,1099188.7941,0.1059,improving,3864783.0,2015
+Sudan,thinness_1_19_years,0.0,,declining,4.5,2015
+Sudan,income_composition_of_resources,0.0066,0.9942,improving,0.488,2015
+Sudan,schooling,0.1291,0.94,improving,7.2,2015
+Suriname,life_expectancy,0.3734,0.6086,improving,71.6,2015
+Suriname,adult_mortality,-3.1971,0.043,declining,176.0,2015
+Suriname,alcohol,0.1114,0.6664,improving,4.72,2015
+Suriname,hepatitis_b,0.1368,0.2089,improving,89.0,2015
+Suriname,bmi,1.1866,0.2075,improving,58.3,2015
+Suriname,polio,2.6324,0.3836,improving,89.0,2015
+Suriname,total_expenditure,-0.1597,0.5201,declining,6.22,2015
+Suriname,diphtheria,1.1721,0.5958,improving,89.0,2015
+Suriname,gdp_per_capita,5.698,0.0134,improving,159.39,2015
+Suriname,population,6723.5118,0.0198,improving,55328.0,2015
+Suriname,thinness_1_19_years,-0.0041,0.3294,declining,3.5,2015
+Suriname,income_composition_of_resources,0.0583,0.6853,improving,0.723,2015
+Suriname,schooling,0.1438,0.939,improving,12.7,2015
+Swaziland,life_expectancy,0.945,0.8692,improving,58.9,2015
+Swaziland,adult_mortality,0.1353,0.0,improving,373.0,2015
+Swaziland,alcohol,-0.3468,0.5073,declining,5.2,2015
+Swaziland,hepatitis_b,-0.3118,0.002,declining,9.0,2015
+Swaziland,bmi,-0.2203,0.0142,declining,32.3,2015
+Swaziland,polio,0.3706,0.2013,improving,84.0,2015
+Swaziland,total_expenditure,0.2904,0.8106,improving,7.5,2015
+Swaziland,diphtheria,-0.9647,0.0505,declining,9.0,2015
+Swaziland,gdp_per_capita,-12.1432,0.1112,declining,23.78,2015
+Swaziland,population,45616.4309,0.1705,improving,131911.0,2015
+Swaziland,thinness_1_19_years,-0.3665,0.9929,declining,4.0,2015
+Swaziland,income_composition_of_resources,0.003,0.7016,improving,0.541,2015
+Swaziland,schooling,0.1812,0.9254,improving,11.4,2015
+Sweden,life_expectancy,0.0581,0.0107,improving,82.4,2015
+Sweden,adult_mortality,-0.7338,0.052,declining,53.0,2015
+Sweden,alcohol,0.0588,0.5739,improving,6.9,2015
+Sweden,hepatitis_b,-0.4426,0.0918,declining,67.0,2015
+Sweden,bmi,0.4276,0.9978,improving,59.5,2015
+Sweden,polio,-0.0809,0.6471,declining,98.0,2015
+Sweden,total_expenditure,0.1868,0.519,improving,9.47,2015
+Sweden,diphtheria,-0.0809,0.6471,declining,98.0,2015
+Sweden,gdp_per_capita,-20.9492,0.0073,declining,0.57,2015
+Sweden,population,182733.6838,0.0387,improving,9799186.0,2015
+Sweden,thinness_1_19_years,0.01,0.425,improving,1.5,2015
+Sweden,income_composition_of_resources,0.0022,0.9586,improving,0.909,2015
+Sweden,schooling,-0.0069,0.142,declining,15.9,2015
+Switzerland,life_expectancy,0.0863,0.1054,improving,83.4,2015
+Switzerland,adult_mortality,-2.2471,0.2481,declining,49.0,2015
+Switzerland,alcohol,-0.0896,0.789,declining,10.24,2015
+Switzerland,hepatitis_b,0.0,,declining,95.0,2015
+Switzerland,bmi,1.43,0.3057,improving,57.4,2015
+Switzerland,polio,0.1294,0.4846,improving,97.0,2015
+Switzerland,total_expenditure,0.5244,0.253,improving,1.96,2015
+Switzerland,diphtheria,0.2779,0.9402,improving,97.0,2015
+Switzerland,gdp_per_capita,0.3737,0.003,improving,1.09,2015
+Switzerland,population,144335.6368,0.0468,improving,8282396.0,2015
+Switzerland,thinness_1_19_years,-0.0191,0.9037,declining,0.4,2015
+Switzerland,income_composition_of_resources,0.0041,0.9807,improving,0.938,2015
+Switzerland,schooling,0.0593,0.8355,improving,16.0,2015
+Syrian Arab Republic,life_expectancy,-0.6347,0.5076,declining,64.5,2015
+Syrian Arab Republic,adult_mortality,3.9029,0.0723,improving,293.0,2015
+Syrian Arab Republic,alcohol,-0.0778,0.688,declining,0.83,2015
+Syrian Arab Republic,hepatitis_b,0.2706,0.0023,improving,41.0,2015
+Syrian Arab Republic,bmi,0.8297,0.109,improving,57.1,2015
+Syrian Arab Republic,polio,-4.9956,0.5625,declining,5.0,2015
+Syrian Arab Republic,total_expenditure,-0.1309,0.7704,declining,3.72,2015
+Syrian Arab Republic,diphtheria,-2.8809,0.1794,declining,41.0,2015
+Syrian Arab Republic,gdp_per_capita,1.8216,0.1891,improving,0.07,2015
+Syrian Arab Republic,population,-322313.375,0.0376,declining,18734987.0,2015
+Syrian Arab Republic,thinness_1_19_years,-0.0303,0.8667,declining,6.3,2015
+Syrian Arab Republic,income_composition_of_resources,0.0008,0.0159,improving,0.553,2015
+Syrian Arab Republic,schooling,0.0528,0.0468,improving,9.0,2015
+Tajikistan,life_expectancy,0.4078,0.9692,improving,69.7,2015
+Tajikistan,adult_mortality,-2.4779,0.8846,declining,161.0,2015
+Tajikistan,alcohol,-0.0322,0.5262,declining,0.35,2015
+Tajikistan,hepatitis_b,1.9118,0.3392,improving,96.0,2015
+Tajikistan,bmi,-0.1641,0.0095,declining,4.7,2015
+Tajikistan,polio,1.1574,0.6142,improving,96.0,2015
+Tajikistan,total_expenditure,0.1374,0.7048,improving,5.7,2015
+Tajikistan,diphtheria,1.0265,0.816,improving,96.0,2015
+Tajikistan,gdp_per_capita,-0.0047,0.0002,declining,0.11,2015
+Tajikistan,population,36321.3912,0.0026,improving,8548651.0,2015
+Tajikistan,thinness_1_19_years,-0.0378,0.9174,declining,3.6,2015
+Tajikistan,income_composition_of_resources,0.0066,0.9764,improving,0.625,2015
+Tajikistan,schooling,0.1154,0.8912,improving,11.3,2015
+Thailand,life_expectancy,0.2728,0.967,improving,74.9,2015
+Thailand,adult_mortality,-4.0765,0.2136,declining,148.0,2015
+Thailand,alcohol,0.0248,0.2932,improving,6.14,2015
+Thailand,hepatitis_b,0.3029,0.9177,improving,99.0,2015
+Thailand,bmi,1.1804,0.2982,improving,33.6,2015
+Thailand,polio,0.1515,0.8266,improving,99.0,2015
+Thailand,total_expenditure,0.046,0.5918,improving,3.7,2015
+Thailand,diphtheria,0.1868,0.7215,improving,99.0,2015
+Thailand,gdp_per_capita,0.2483,0.1737,improving,8.47,2015
+Thailand,population,-107329.4441,0.0003,declining,686576.0,2015
+Thailand,thinness_1_19_years,-0.1181,0.9962,declining,7.7,2015
+Thailand,income_composition_of_resources,0.0067,0.9903,improving,0.738,2015
+Thailand,schooling,0.1906,0.9618,improving,13.6,2015
+The former Yugoslav republic of Macedonia,life_expectancy,0.2065,0.9703,improving,75.7,2015
+The former Yugoslav republic of Macedonia,adult_mortality,-7.7926,0.4501,declining,12.0,2015
+The former Yugoslav republic of Macedonia,alcohol,-0.1165,0.755,declining,1.75,2015
+The former Yugoslav republic of Macedonia,hepatitis_b,-0.3221,0.0042,declining,92.0,2015
+The former Yugoslav republic of Macedonia,bmi,-0.6913,0.0681,declining,6.3,2015
+The former Yugoslav republic of Macedonia,polio,0.0529,0.0144,improving,92.0,2015
+The former Yugoslav republic of Macedonia,total_expenditure,-0.172,0.7421,declining,6.9,2015
+The former Yugoslav republic of Macedonia,diphtheria,0.0265,0.0044,improving,91.0,2015
+The former Yugoslav republic of Macedonia,gdp_per_capita,0.0,,declining,0.87,2015
+The former Yugoslav republic of Macedonia,population,0.0,,declining,1417430.0,2015
+The former Yugoslav republic of Macedonia,thinness_1_19_years,-0.0481,0.9655,declining,2.1,2015
+The former Yugoslav republic of Macedonia,income_composition_of_resources,0.0655,0.7308,improving,0.746,2015
+The former Yugoslav republic of Macedonia,schooling,0.0993,0.8408,improving,12.9,2015
+Timor-Leste,life_expectancy,0.6351,0.9137,improving,68.3,2015
+Timor-Leste,adult_mortality,-4.6,0.0949,declining,152.0,2015
+Timor-Leste,alcohol,-0.0319,0.5247,declining,0.1,2015
+Timor-Leste,hepatitis_b,0.0265,0.0011,improving,76.0,2015
+Timor-Leste,bmi,0.3671,0.9976,improving,17.4,2015
+Timor-Leste,polio,1.7426,0.1834,improving,75.0,2015
+Timor-Leste,total_expenditure,-0.1541,0.4385,declining,1.29,2015
+Timor-Leste,diphtheria,1.4838,0.1506,improving,76.0,2015
+Timor-Leste,gdp_per_capita,0.4095,0.0256,improving,9.3,2015
+Timor-Leste,population,11970.8,0.0138,improving,124977.0,2015
+Timor-Leste,thinness_1_19_years,-0.4626,0.4237,declining,1.9,2015
+Timor-Leste,income_composition_of_resources,0.0226,0.5172,improving,0.603,2015
+Timor-Leste,schooling,0.4491,0.491,improving,12.5,2015
+Togo,life_expectancy,0.4035,0.9346,improving,59.9,2015
+Togo,adult_mortality,-7.7309,0.2197,declining,287.0,2015
+Togo,alcohol,-0.043,0.1735,declining,1.1,2015
+Togo,hepatitis_b,0.0338,0.0001,improving,88.0,2015
+Togo,bmi,0.4063,0.0895,improving,24.3,2015
+Togo,polio,2.3515,0.1929,improving,88.0,2015
+Togo,total_expenditure,0.0481,0.1697,improving,5.21,2015
+Togo,diphtheria,2.7838,0.4279,improving,88.0,2015
+Togo,gdp_per_capita,0.0357,0.2821,improving,0.74,2015
+Togo,population,96613.6515,0.0257,improving,741682.0,2015
+Togo,thinness_1_19_years,-0.1996,0.996,declining,6.5,2015
+Togo,income_composition_of_resources,0.0038,0.9207,improving,0.484,2015
+Togo,schooling,0.1974,0.9313,improving,12.0,2015
+Tonga,life_expectancy,0.1163,0.9842,improving,73.5,2015
+Tonga,adult_mortality,-1.9441,0.0412,declining,133.0,2015
+Tonga,alcohol,-0.089,0.4241,declining,1.24,2015
+Tonga,hepatitis_b,-1.4471,0.0675,declining,78.0,2015
+Tonga,bmi,1.029,0.0501,improving,75.2,2015
+Tonga,polio,-1.7118,0.0916,declining,8.0,2015
+Tonga,total_expenditure,-0.0465,0.1511,declining,5.13,2015
+Tonga,diphtheria,-0.2868,0.002,declining,78.0,2015
+Tonga,gdp_per_capita,-130.618,0.0077,declining,30.17,2015
+Tonga,population,-3739.2721,0.2379,declining,16364.0,2015
+Tonga,thinness_1_19_years,0.0,,declining,0.1,2015
+Tonga,income_composition_of_resources,0.0031,0.9634,improving,0.718,2015
+Tonga,schooling,0.0525,0.3249,improving,14.3,2015
+Trinidad and Tobago,life_expectancy,0.3363,0.3628,improving,71.2,2015
+Trinidad and Tobago,adult_mortality,-3.4412,0.0818,declining,17.0,2015
+Trinidad and Tobago,alcohol,0.1341,0.7743,improving,6.37,2015
+Trinidad and Tobago,hepatitis_b,-1.7985,0.0451,declining,9.0,2015
+Trinidad and Tobago,bmi,0.8404,0.1632,improving,47.1,2015
+Trinidad and Tobago,polio,1.475,0.0439,improving,88.0,2015
+Trinidad and Tobago,total_expenditure,0.0888,0.4247,improving,5.22,2015
+Trinidad and Tobago,diphtheria,-0.1029,0.0001,declining,96.0,2015
+Trinidad and Tobago,gdp_per_capita,36.2144,0.1642,improving,1265.11,2015
+Trinidad and Tobago,population,23114.7853,0.03,improving,13692.0,2015
+Trinidad and Tobago,thinness_1_19_years,-0.0632,0.9729,declining,5.7,2015
+Trinidad and Tobago,income_composition_of_resources,0.0049,0.9065,improving,0.779,2015
+Trinidad and Tobago,schooling,0.0666,0.9347,improving,12.7,2015
+Tunisia,life_expectancy,0.1419,0.913,improving,75.3,2015
+Tunisia,adult_mortality,-2.6147,0.2451,declining,1.0,2015
+Tunisia,alcohol,0.0058,0.1148,improving,1.3,2015
+Tunisia,hepatitis_b,0.3412,0.514,improving,98.0,2015
+Tunisia,bmi,0.431,0.0147,improving,61.2,2015
+Tunisia,polio,0.0926,0.1674,improving,98.0,2015
+Tunisia,total_expenditure,0.1186,0.5834,improving,5.64,2015
+Tunisia,diphtheria,0.0926,0.1674,improving,98.0,2015
+Tunisia,gdp_per_capita,-2.8315,0.0424,declining,0.34,2015
+Tunisia,population,-180091.3191,0.042,declining,11273661.0,2015
+Tunisia,thinness_1_19_years,-0.0046,0.0546,declining,6.5,2015
+Tunisia,income_composition_of_resources,0.0053,0.9664,improving,0.723,2015
+Tunisia,schooling,0.1213,0.8938,improving,14.6,2015
+Turkey,life_expectancy,0.1432,0.1509,improving,75.8,2015
+Turkey,adult_mortality,-5.2941,0.2586,declining,16.0,2015
+Turkey,alcohol,0.0012,0.0041,improving,1.42,2015
+Turkey,hepatitis_b,2.0485,0.8066,improving,97.0,2015
+Turkey,bmi,0.7703,0.0687,improving,66.1,2015
+Turkey,polio,2.2662,0.1363,improving,97.0,2015
+Turkey,total_expenditure,0.0184,0.0256,improving,5.38,2015
+Turkey,diphtheria,2.2794,0.1376,improving,97.0,2015
+Turkey,gdp_per_capita,0.1313,0.0178,improving,0.03,2015
+Turkey,population,3251025.4456,0.1897,improving,78271472.0,2015
+Turkey,thinness_1_19_years,-0.0253,0.8448,declining,4.9,2015
+Turkey,income_composition_of_resources,0.0084,0.9871,improving,0.764,2015
+Turkey,schooling,0.2571,0.9412,improving,14.5,2015
+Turkmenistan,life_expectancy,0.2054,0.7961,improving,66.3,2015
+Turkmenistan,adult_mortality,-3.6868,0.1111,declining,215.0,2015
+Turkmenistan,alcohol,0.0065,0.0195,improving,2.71,2015
+Turkmenistan,hepatitis_b,0.0706,0.1129,improving,99.0,2015
+Turkmenistan,bmi,1.3666,0.2286,improving,48.6,2015
+Turkmenistan,polio,0.4662,0.0771,improving,99.0,2015
+Turkmenistan,total_expenditure,-0.1344,0.5518,declining,2.7,2015
+Turkmenistan,diphtheria,0.2529,0.1037,improving,99.0,2015
+Turkmenistan,gdp_per_capita,-2.8808,0.0618,declining,1.16,2015
+Turkmenistan,population,193886.3338,0.1331,improving,5565284.0,2015
+Turkmenistan,thinness_1_19_years,-0.0253,0.6851,declining,3.3,2015
+Turkmenistan,income_composition_of_resources,0.0549,0.6509,improving,0.688,2015
+Turkmenistan,schooling,0.269,0.2372,improving,10.8,2015
+Tuvalu,life_expectancy,,,declining,69.0,2013
+Tuvalu,adult_mortality,,,declining,163.0,2013
+Tuvalu,alcohol,,,declining,0.01,2013
+Tuvalu,hepatitis_b,,,declining,9.0,2013
+Tuvalu,bmi,,,declining,79.3,2013
+Tuvalu,polio,,,declining,9.0,2013
+Tuvalu,total_expenditure,,,declining,16.61,2013
+Tuvalu,diphtheria,,,declining,9.0,2013
+Tuvalu,gdp_per_capita,,,declining,1947.3,2013
+Tuvalu,population,,,declining,1819.0,2013
+Tuvalu,thinness_1_19_years,,,declining,0.2,2013
+Tuvalu,income_composition_of_resources,,,declining,0.631,2013
+Tuvalu,schooling,,,declining,0.0,2013
+Uganda,life_expectancy,1.1569,0.9287,improving,62.3,2015
+Uganda,adult_mortality,-15.3485,0.14,declining,291.0,2015
+Uganda,alcohol,-0.515,0.3655,declining,9.89,2015
+Uganda,hepatitis_b,1.3471,0.0971,improving,78.0,2015
+Uganda,bmi,0.3659,0.9931,improving,18.5,2015
+Uganda,polio,2.3838,0.3456,improving,82.0,2015
+Uganda,total_expenditure,0.0479,0.0333,improving,8.43,2015
+Uganda,diphtheria,1.4618,0.1486,improving,78.0,2015
+Uganda,gdp_per_capita,0.0363,0.1818,improving,1.67,2015
+Uganda,population,960515.8294,0.0843,improving,414487.0,2015
+Uganda,thinness_1_19_years,-0.0959,0.9963,declining,5.6,2015
+Uganda,income_composition_of_resources,0.007,0.9633,improving,0.488,2015
+Uganda,schooling,-0.0549,0.232,declining,10.0,2015
+Ukraine,life_expectancy,0.5659,0.5528,improving,71.3,2015
+Ukraine,adult_mortality,-12.9118,0.4288,declining,195.0,2015
+Ukraine,alcohol,0.2706,0.6147,improving,8.06,2015
+Ukraine,hepatitis_b,-1.0559,0.0228,declining,22.0,2015
+Ukraine,bmi,-1.4766,0.1622,declining,61.3,2015
+Ukraine,polio,-3.7485,0.7659,declining,51.0,2015
+Ukraine,total_expenditure,0.1013,0.4969,improving,6.63,2015
+Ukraine,diphtheria,-5.3206,0.504,declining,23.0,2015
+Ukraine,gdp_per_capita,1.3145,0.0581,improving,0.47,2015
+Ukraine,population,-1129037.7206,0.0817,declining,4515429.0,2015
+Ukraine,thinness_1_19_years,-0.0476,0.9529,declining,2.3,2015
+Ukraine,income_composition_of_resources,0.0054,0.9393,improving,0.748,2015
+Ukraine,schooling,0.121,0.8152,improving,15.3,2015
+United Arab Emirates,life_expectancy,0.1853,0.9977,improving,77.1,2015
+United Arab Emirates,adult_mortality,2.1338,0.0938,improving,75.0,2015
+United Arab Emirates,alcohol,0.0076,0.2719,improving,1.74,2015
+United Arab Emirates,hepatitis_b,0.4882,0.7522,improving,99.0,2015
+United Arab Emirates,bmi,-0.421,0.0241,declining,64.2,2015
+United Arab Emirates,polio,0.3074,0.6067,improving,99.0,2015
+United Arab Emirates,total_expenditure,0.0874,0.3833,improving,2.72,2015
+United Arab Emirates,diphtheria,0.3118,0.425,improving,99.0,2015
+United Arab Emirates,gdp_per_capita,0.0852,0.0009,improving,2.76,2015
+United Arab Emirates,population,0.0,,declining,1417430.0,2015
+United Arab Emirates,thinness_1_19_years,-0.0081,0.1541,declining,5.3,2015
+United Arab Emirates,income_composition_of_resources,0.0025,0.8184,improving,0.836,2015
+United Arab Emirates,schooling,0.1071,0.8984,improving,13.3,2015
+United Kingdom of Great Britain and Northern Ireland,life_expectancy,0.4804,0.5742,improving,81.2,2015
+United Kingdom of Great Britain and Northern Ireland,adult_mortality,-1.3412,0.0643,declining,69.0,2015
+United Kingdom of Great Britain and Northern Ireland,alcohol,-0.0744,0.305,declining,10.66,2015
+United Kingdom of Great Britain and Northern Ireland,hepatitis_b,0.0,,declining,95.0,2015
+United Kingdom of Great Britain and Northern Ireland,bmi,1.5521,0.1462,improving,66.6,2015
+United Kingdom of Great Britain and Northern Ireland,polio,0.3618,0.8944,improving,96.0,2015
+United Kingdom of Great Britain and Northern Ireland,total_expenditure,0.1474,0.6699,improving,8.42,2015
+United Kingdom of Great Britain and Northern Ireland,diphtheria,0.3618,0.8944,improving,96.0,2015
+United Kingdom of Great Britain and Northern Ireland,gdp_per_capita,0.0,,declining,11.61,2015
+United Kingdom of Great Britain and Northern Ireland,population,0.0,,declining,1167660.0,2015
+United Kingdom of Great Britain and Northern Ireland,thinness_1_19_years,0.0094,0.7529,improving,0.8,2015
+United Kingdom of Great Britain and Northern Ireland,income_composition_of_resources,0.0,,declining,0.862,2015
+United Kingdom of Great Britain and Northern Ireland,schooling,0.0,,declining,15.8,2015
+United Republic of Tanzania,life_expectancy,0.8713,0.7682,improving,61.8,2015
+United Republic of Tanzania,adult_mortality,-5.6279,0.0261,declining,279.0,2015
+United Republic of Tanzania,alcohol,-0.0388,0.0297,declining,3.97,2015
+United Republic of Tanzania,hepatitis_b,0.3603,0.0027,improving,98.0,2015
+United Republic of Tanzania,bmi,0.3087,0.0543,improving,23.8,2015
+United Republic of Tanzania,polio,0.0912,0.0004,improving,96.0,2015
+United Republic of Tanzania,total_expenditure,0.1433,0.4039,improving,4.66,2015
+United Republic of Tanzania,diphtheria,0.6603,0.0091,improving,98.0,2015
+United Republic of Tanzania,gdp_per_capita,0.0,,declining,0.87,2015
+United Republic of Tanzania,population,0.0,,declining,1417430.0,2015
+United Republic of Tanzania,thinness_1_19_years,-0.1094,0.9903,declining,6.7,2015
+United Republic of Tanzania,income_composition_of_resources,0.0,,declining,0.631,2015
+United Republic of Tanzania,schooling,0.0,,declining,11.7,2015
+United States of America,life_expectancy,0.1735,0.9847,improving,79.3,2015
+United States of America,adult_mortality,-9.1574,0.7497,declining,13.0,2015
+United States of America,alcohol,0.0362,0.7305,improving,8.63,2015
+United States of America,hepatitis_b,0.8176,0.0189,improving,92.0,2015
+United States of America,bmi,2.8529,0.4425,improving,69.6,2015
+United States of America,polio,3.3441,0.3105,improving,93.0,2015
+United States of America,total_expenditure,0.2152,0.6773,improving,15.6,2015
+United States of America,diphtheria,0.0029,0.0003,improving,95.0,2015
+United States of America,gdp_per_capita,0.0,,declining,11.61,2015
+United States of America,population,0.0,,declining,1167660.0,2015
+United States of America,thinness_1_19_years,-0.0016,0.0259,declining,0.8,2015
+United States of America,income_composition_of_resources,0.0,,declining,0.862,2015
+United States of America,schooling,0.0,,declining,15.8,2015
+Uruguay,life_expectancy,0.1338,0.8612,improving,77.0,2015
+Uruguay,adult_mortality,-0.7515,0.6135,declining,116.0,2015
+Uruguay,alcohol,-0.0075,0.006,declining,6.21,2015
+Uruguay,hepatitis_b,0.125,0.2267,improving,95.0,2015
+Uruguay,bmi,0.2774,0.0052,improving,64.0,2015
+Uruguay,polio,0.1471,0.2941,improving,95.0,2015
+Uruguay,total_expenditure,0.0314,0.011,improving,8.58,2015
+Uruguay,diphtheria,1.9559,0.1894,improving,95.0,2015
+Uruguay,gdp_per_capita,78.0136,0.0943,improving,4.52,2015
+Uruguay,population,49349.0529,0.025,improving,3431552.0,2015
+Uruguay,thinness_1_19_years,-0.0215,0.8708,declining,1.5,2015
+Uruguay,income_composition_of_resources,0.0039,0.9872,improving,0.794,2015
+Uruguay,schooling,0.0801,0.5666,improving,15.5,2015
+Uzbekistan,life_expectancy,0.1551,0.916,improving,69.4,2015
+Uzbekistan,adult_mortality,-0.2074,0.1616,declining,184.0,2015
+Uzbekistan,alcohol,-0.0502,0.0694,declining,1.6,2015
+Uzbekistan,hepatitis_b,0.5868,0.0903,improving,99.0,2015
+Uzbekistan,bmi,0.229,0.0079,improving,44.7,2015
+Uzbekistan,polio,0.0221,0.0069,improving,99.0,2015
+Uzbekistan,total_expenditure,0.0579,0.3807,improving,5.49,2015
+Uzbekistan,diphtheria,0.025,0.0133,improving,99.0,2015
+Uzbekistan,gdp_per_capita,-0.2791,0.0363,declining,6.83,2015
+Uzbekistan,population,-143059.8779,0.3439,declining,312989.0,2015
+Uzbekistan,thinness_1_19_years,-0.0293,0.9117,declining,3.0,2015
+Uzbekistan,income_composition_of_resources,0.0203,0.348,improving,0.697,2015
+Uzbekistan,schooling,0.091,0.8005,improving,12.1,2015
+Vanuatu,life_expectancy,0.2379,0.2268,improving,72.0,2015
+Vanuatu,adult_mortality,-2.5912,0.0611,declining,13.0,2015
+Vanuatu,alcohol,-0.0598,0.4549,declining,0.91,2015
+Vanuatu,hepatitis_b,1.25,0.0933,improving,64.0,2015
+Vanuatu,bmi,0.2254,0.0096,improving,53.3,2015
+Vanuatu,polio,-0.175,0.8372,declining,65.0,2015
+Vanuatu,total_expenditure,0.051,0.2566,improving,3.87,2015
+Vanuatu,diphtheria,1.7191,0.1604,improving,64.0,2015
+Vanuatu,gdp_per_capita,-4.9199,0.0225,declining,10.8,2015
+Vanuatu,population,4731.7397,0.0441,improving,26463.0,2015
+Vanuatu,thinness_1_19_years,-0.0151,0.8266,declining,1.5,2015
+Vanuatu,income_composition_of_resources,0.0525,0.722,improving,0.598,2015
+Vanuatu,schooling,0.0578,0.6624,improving,10.8,2015
+Venezuela (Bolivarian Republic of),life_expectancy,0.0962,0.7638,improving,74.1,2015
+Venezuela (Bolivarian Republic of),adult_mortality,-0.7412,0.5247,declining,157.0,2015
+Venezuela (Bolivarian Republic of),alcohol,-0.0552,0.1303,declining,7.55,2015
+Venezuela (Bolivarian Republic of),hepatitis_b,3.5647,0.4255,improving,87.0,2015
+Venezuela (Bolivarian Republic of),bmi,-0.1418,0.0027,declining,62.1,2015
+Venezuela (Bolivarian Republic of),polio,0.1691,0.0018,improving,87.0,2015
+Venezuela (Bolivarian Republic of),total_expenditure,0.0122,0.0217,improving,4.93,2015
+Venezuela (Bolivarian Republic of),diphtheria,1.85,0.1189,improving,87.0,2015
+Venezuela (Bolivarian Republic of),gdp_per_capita,0.0,,declining,0.87,2015
+Venezuela (Bolivarian Republic of),population,0.0,,declining,1417430.0,2015
+Venezuela (Bolivarian Republic of),thinness_1_19_years,-0.0129,0.7118,declining,1.6,2015
+Venezuela (Bolivarian Republic of),income_composition_of_resources,0.0078,0.9493,improving,0.769,2015
+Venezuela (Bolivarian Republic of),schooling,0.2888,0.9245,improving,14.3,2015
+Viet Nam,life_expectancy,0.1735,0.9969,improving,76.0,2015
+Viet Nam,adult_mortality,-2.3103,0.1301,declining,127.0,2015
+Viet Nam,alcohol,0.1583,0.7494,improving,3.01,2015
+Viet Nam,hepatitis_b,-0.2294,0.0095,declining,97.0,2015
+Viet Nam,bmi,0.905,0.6441,improving,17.5,2015
+Viet Nam,polio,0.0662,0.0317,improving,97.0,2015
+Viet Nam,total_expenditure,0.1506,0.6386,improving,5.9,2015
+Viet Nam,diphtheria,-0.2971,0.0191,declining,97.0,2015
+Viet Nam,gdp_per_capita,0.0,,declining,0.87,2015
+Viet Nam,population,0.0,,declining,1417430.0,2015
+Viet Nam,thinness_1_19_years,-0.1176,0.9663,declining,14.2,2015
+Viet Nam,income_composition_of_resources,0.0075,0.9965,improving,0.678,2015
+Viet Nam,schooling,0.1462,0.9983,improving,12.6,2015
+Yemen,life_expectancy,0.175,0.2116,improving,65.7,2015
+Yemen,adult_mortality,2.0838,0.0182,improving,224.0,2015
+Yemen,alcohol,-0.0026,0.507,declining,0.04,2015
+Yemen,hepatitis_b,4.0662,0.5685,improving,69.0,2015
+Yemen,bmi,-0.0191,0.0001,declining,41.3,2015
+Yemen,polio,0.25,0.005,improving,63.0,2015
+Yemen,total_expenditure,0.0907,0.7238,improving,5.0,2015
+Yemen,diphtheria,0.0353,0.001,improving,69.0,2015
+Yemen,gdp_per_capita,0.0,,declining,0.87,2015
+Yemen,population,0.0,,declining,1417430.0,2015
+Yemen,thinness_1_19_years,-0.0296,0.9449,declining,13.6,2015
+Yemen,income_composition_of_resources,0.0042,0.9583,improving,0.499,2015
+Yemen,schooling,0.0763,0.8153,improving,9.0,2015
+Zambia,life_expectancy,1.3369,0.9112,improving,61.8,2015
+Zambia,adult_mortality,-15.4662,0.1275,declining,33.0,2015
+Zambia,alcohol,-0.0489,0.1418,declining,2.41,2015
+Zambia,hepatitis_b,-1.3838,0.0663,declining,9.0,2015
+Zambia,bmi,0.2347,0.0322,improving,23.4,2015
+Zambia,polio,-3.6647,0.2675,declining,9.0,2015
+Zambia,total_expenditure,-0.2127,0.5912,declining,4.99,2015
+Zambia,diphtheria,-1.6441,0.0912,declining,9.0,2015
+Zambia,gdp_per_capita,0.2165,0.1058,improving,8.13,2015
+Zambia,population,36831.3338,0.0008,improving,161587.0,2015
+Zambia,thinness_1_19_years,-0.0849,0.9934,declining,6.3,2015
+Zambia,income_composition_of_resources,0.0115,0.9947,improving,0.576,2015
+Zambia,schooling,0.2109,0.9897,improving,12.5,2015
+Zimbabwe,life_expectancy,1.2918,0.8103,improving,67.0,2015
+Zimbabwe,adult_mortality,-12.4647,0.06,declining,336.0,2015
+Zimbabwe,alcohol,0.2352,0.6234,improving,4.43,2015
+Zimbabwe,hepatitis_b,1.8926,0.1155,improving,87.0,2015
+Zimbabwe,bmi,-0.3832,0.0449,declining,31.8,2015
+Zimbabwe,polio,2.4559,0.3123,improving,88.0,2015
+Zimbabwe,total_expenditure,-0.0119,0.0052,declining,6.44,2015
+Zimbabwe,diphtheria,1.9868,0.2041,improving,87.0,2015
+Zimbabwe,gdp_per_capita,-0.0108,0.0037,declining,0.01,2015
+Zimbabwe,population,-17888.1044,0.0002,declining,15777451.0,2015
+Zimbabwe,thinness_1_19_years,-0.0459,0.0068,declining,5.6,2015
+Zimbabwe,income_composition_of_resources,0.0053,0.5806,improving,0.507,2015
+Zimbabwe,schooling,0.0474,0.4077,improving,10.3,2015

@@ -1,0 +1,2047 @@
+country,year,status,indicator,yoy_change,z_score
+Afghanistan,2014,Developing,life_expectancy,-5.100000000000001,-2.7964712192517154
+Angola,2012,Developing,life_expectancy,4.899999999999999,2.535965154550874
+Angola,2011,Developing,life_expectancy,-5.0,-3.7680297691269184
+Australia,2004,Developed,life_expectancy,5.0,2.3536587456266336
+Austria,2012,Developed,life_expectancy,6.900000000000006,3.962221686550922
+Austria,2008,Developed,life_expectancy,2.0,2.271276353177869
+Azerbaijan,2009,Developing,life_expectancy,6.900000000000006,2.579192057044248
+Azerbaijan,2008,Developing,life_expectancy,-5.0,-2.2037904020264976
+Azerbaijan,2006,Developing,life_expectancy,-3.799999999999997,-2.4423502008492393
+Bangladesh,2012,Developing,life_expectancy,6.0,3.068687820759171
+Bangladesh,2011,Developing,life_expectancy,-4.0,-2.9534664260515213
+Belgium,2014,Developed,life_expectancy,7.900000000000006,2.9943600210829513
+Belgium,2012,Developed,life_expectancy,-4.0,-2.088666773470799
+Botswana,2004,Developing,life_expectancy,-3.6000000000000014,-2.1823750146857304
+Brazil,2000,Developing,life_expectancy,4.0,2.1344978446208045
+Burkina Faso,2001,Developing,life_expectancy,5.0,2.939983719546858
+Burkina Faso,2000,Developing,life_expectancy,-5.0,-2.2413998335202017
+Burundi,2000,Developing,life_expectancy,6.700000000000003,3.447267148063108
+Côte d'Ivoire,2007,Developing,life_expectancy,-4.100000000000001,-2.679579796633637
+Cabo Verde,2002,Developing,life_expectancy,5.900000000000006,3.1657928978129277
+Cabo Verde,2001,Developing,life_expectancy,-4.0,-2.167312554087528
+Canada,2008,Developing,life_expectancy,6.0,3.1595734921361576
+Canada,2005,Developing,life_expectancy,-4.0,-2.0482443206129464
+Central African Republic,2014,Developing,life_expectancy,5.5,3.2383566539238196
+Central African Republic,2013,Developing,life_expectancy,-8.100000000000001,-4.786747100396954
+Central African Republic,2011,Developing,life_expectancy,-3.200000000000003,-2.301815751591206
+Chad,2009,Developing,life_expectancy,5.799999999999997,2.1688828906089905
+Chad,2008,Developing,life_expectancy,-7.399999999999999,-3.3739788880256216
+Comoros,2007,Developing,life_expectancy,5.0,4.194973225312366
+Congo,2009,Developing,life_expectancy,6.0,2.2434845572335833
+Congo,2008,Developing,life_expectancy,-8.600000000000001,-3.9590731310251845
+Djibouti,2009,Developing,life_expectancy,7.700000000000003,2.877598723542614
+Djibouti,2008,Developing,life_expectancy,-7.0,-3.1789474736924346
+Dominican Republic,2003,Developing,life_expectancy,3.700000000000003,2.629009852580357
+Egypt,2012,Developing,life_expectancy,-7.0,-3.2271255071570635
+El Salvador,2006,Developing,life_expectancy,3.799999999999997,3.0340880377099393
+El Salvador,2005,Developing,life_expectancy,-4.0,-2.0482443206129464
+El Salvador,2001,Developing,life_expectancy,-4.099999999999994,-2.22406029046124
+Eritrea,2008,Developing,life_expectancy,5.600000000000001,2.9645420778029705
+Eritrea,2007,Developing,life_expectancy,-5.0,-3.3594806449579657
+Eritrea,2000,Developing,life_expectancy,-12.800000000000004,-6.033844487909076
+Estonia,2001,Developing,life_expectancy,6.799999999999997,3.961442974273733
+Ethiopia,2009,Developing,life_expectancy,6.200000000000003,2.318086223858176
+Ethiopia,2008,Developing,life_expectancy,-8.200000000000003,-3.7640417166919984
+Finland,2014,Developing,life_expectancy,7.900000000000006,4.604732776152246
+France,2008,Developing,life_expectancy,7.900000000000006,4.085972710218801
+France,2005,Developing,life_expectancy,-5.0,-2.6237651475808565
+Gabon,2005,Developing,life_expectancy,3.6000000000000014,2.325713964343171
+Gabon,2004,Developing,life_expectancy,-5.299999999999997,-3.4350934097434793
+Gambia,2014,Developing,life_expectancy,6.899999999999999,4.035409391890399
+Germany,2014,Developed,life_expectancy,8.0,3.0344351029209475
+Ghana,2010,Developing,life_expectancy,7.799999999999997,3.3304826795677984
+Greece,2014,Developing,life_expectancy,7.0,4.092341730316584
+Grenada,2002,Developing,life_expectancy,7.900000000000006,4.236059835168243
+Guatemala,2010,Developing,life_expectancy,5.900000000000006,2.578522751364448
+Guatemala,2007,Developing,life_expectancy,-4.0,-2.6040352579309327
+Guatemala,2006,Developing,life_expectancy,-5.299999999999997,-3.5232261689859197
+Haiti,2010,Developing,life_expectancy,-26.0,-10.046488674786602
+Haiti,2009,Developing,life_expectancy,26.200000000000003,9.778252886317349
+Haiti,2005,Developing,life_expectancy,3.8999999999999986,2.4983702124335427
+Haiti,2004,Developing,life_expectancy,-6.299999999999997,-4.171986583306863
+Iceland,2004,Developed,life_expectancy,7.0,3.257825370597249
+Iceland,2001,Developed,life_expectancy,-4.0,-3.8742242392747803
+Iran (Islamic Republic of),2003,Developing,life_expectancy,3.200000000000003,2.288838055031399
+Iran (Islamic Republic of),2002,Developing,life_expectancy,-3.799999999999997,-2.0250017483603533
+Iran (Islamic Republic of),2001,Developing,life_expectancy,6.799999999999997,3.961442974273733
+Iran (Islamic Republic of),2000,Developing,life_expectancy,-5.0,-2.2413998335202017
+Iraq,2012,Developing,life_expectancy,6.5,3.310834487217488
+Iraq,2008,Developing,life_expectancy,-4.700000000000003,-2.057516841276608
+Iraq,2007,Developing,life_expectancy,-3.3999999999999915,-2.150768025714706
+Iraq,2002,Developing,life_expectancy,7.5,4.022006447697177
+Ireland,2012,Developed,life_expectancy,4.0,2.35235227975615
+Ireland,2009,Developed,life_expectancy,-6.299999999999997,-2.787914506746353
+Israel,2007,Developing,life_expectancy,3.0,2.6840824512582997
+Israel,2005,Developing,life_expectancy,-4.0,-2.0482443206129464
+Italy,2005,Developed,life_expectancy,6.799999999999997,3.47516804863229
+Italy,2003,Developed,life_expectancy,-9.099999999999994,-3.8135784636602716
+Kyrgyzstan,2014,Developing,life_expectancy,6.900000000000006,4.035409391890403
+Kyrgyzstan,2012,Developing,life_expectancy,-7.099999999999994,-3.275554840448724
+Lao People's Democratic Republic,2004,Developing,life_expectancy,3.0,2.681119930832602
+Lao People's Democratic Republic,2003,Developing,life_expectancy,-4.200000000000003,-2.745704548693178
+Latvia,2007,Developed,life_expectancy,6.099999999999994,2.459523920610878
+Latvia,2004,Developed,life_expectancy,-5.0,-2.1671743792264433
+Latvia,2003,Developed,life_expectancy,7.0,3.2794021301223006
+Latvia,2002,Developed,life_expectancy,-5.0,-2.859181410712942
+Latvia,2001,Developed,life_expectancy,-3.0999999999999943,-2.9005972053209024
+Latvia,2000,Developed,life_expectancy,1.0999999999999943,2.874208210037277
+Liberia,2012,Developing,life_expectancy,5.899999999999999,3.0202584874675074
+Liberia,2011,Developing,life_expectancy,-5.0,-3.7680297691269184
+Liberia,2003,Developing,life_expectancy,-4.0,-2.609635829673593
+Liberia,2002,Developing,life_expectancy,6.0,3.2193062446806904
+Liberia,2001,Developing,life_expectancy,-4.5,-2.451051235956105
+Libya,2000,Developing,life_expectancy,7.0,3.59313040400114
+Lithuania,2006,Developed,life_expectancy,4.0,2.7590904363955655
+Lithuania,2004,Developed,life_expectancy,-6.400000000000006,-2.800091016705877
+Luxembourg,2011,Developed,life_expectancy,6.900000000000006,3.449844916599314
+Luxembourg,2008,Developed,life_expectancy,-3.0,-2.00910311099715
+Madagascar,2005,Developing,life_expectancy,7.600000000000001,4.627797272214812
+Madagascar,2004,Developing,life_expectancy,-5.0,-3.2140254576744662
+Madagascar,2003,Developing,life_expectancy,-4.100000000000001,-2.6776701891833854
+Maldives,2001,Developing,life_expectancy,6.200000000000003,3.620956556031444
+Maldives,2000,Developing,life_expectancy,-8.400000000000006,-3.894516734151251
+Mali,2001,Developing,life_expectancy,3.799999999999997,2.2590108830622713
+Mali,2000,Developing,life_expectancy,-5.200000000000003,-2.3386420041455587
+Malta,2011,Developed,life_expectancy,6.0,2.98206933468754
+Mauritania,2006,Developing,life_expectancy,7.799999999999997,5.916423952741088
+Morocco,2005,Developing,life_expectancy,6.0,3.7069639490661546
+Morocco,2004,Developing,life_expectancy,-5.0,-3.2140254576744662
+Mozambique,2005,Developing,life_expectancy,6.799999999999997,4.167380610640481
+Mozambique,2004,Developing,life_expectancy,-4.0,-2.4771322841110828
+Myanmar,2008,Developing,life_expectancy,-6.0,-2.691368937859466
+Myanmar,2007,Developing,life_expectancy,5.299999999999997,4.421606841420473
+Netherlands,2010,Developed,life_expectancy,6.900000000000006,3.5509511951903674
+Netherlands,2008,Developed,life_expectancy,-3.0,-2.00910311099715
+New Zealand,2011,Developed,life_expectancy,4.900000000000006,2.4103436234620452
+New Zealand,2008,Developed,life_expectancy,-4.0,-2.865179003832154
+Nicaragua,2003,Developing,life_expectancy,5.0,3.5134565262076447
+Niger,2013,Developing,life_expectancy,7.600000000000001,4.808197814552788
+Niger,2012,Developing,life_expectancy,-6.0,-2.74283217424043
+Niger,2011,Developing,life_expectancy,-3.6000000000000014,-2.6276410888213637
+Niger,2001,Developing,life_expectancy,4.600000000000001,2.712992774051997
+Niger,2000,Developing,life_expectancy,-6.0,-2.72761068664698
+Nigeria,2008,Developing,life_expectancy,7.399999999999999,3.842183442302313
+Nigeria,2007,Developing,life_expectancy,-4.0,-2.6040352579309327
+Nigeria,2006,Developing,life_expectancy,-5.200000000000003,-3.451167771110145
+Norway,2009,Developed,life_expectancy,8.0,4.160613152769614
+Norway,2008,Developed,life_expectancy,-3.0,-2.00910311099715
+Papua New Guinea,2006,Developing,life_expectancy,6.899999999999999,5.267898371859081
+Papua New Guinea,2005,Developing,life_expectancy,-4.0,-2.0482443206129464
+Papua New Guinea,2004,Developing,life_expectancy,-4.100000000000001,-2.550821601467422
+Paraguay,2000,Developing,life_expectancy,7.799999999999997,3.9820990865025614
+Portugal,2014,Developed,life_expectancy,7.900000000000006,2.9943600210829513
+Republic of Korea,2010,Developing,life_expectancy,5.900000000000006,2.578522751364448
+Republic of Moldova,2012,Developing,life_expectancy,7.299999999999997,3.698269153550793
+Republic of Moldova,2010,Developing,life_expectancy,-8.200000000000003,-3.001811452670971
+Romania,2002,Developed,life_expectancy,5.900000000000006,3.906642714501946
+Rwanda,2008,Developing,life_expectancy,7.0,3.647152027969126
+Rwanda,2007,Developing,life_expectancy,-8.399999999999999,-5.927994960849878
+Rwanda,2002,Developing,life_expectancy,5.0,2.6841727760030327
+Rwanda,2001,Developing,life_expectancy,-8.399999999999999,-4.664212954531005
+Saint Vincent and the Grenadines,2002,Developing,life_expectancy,8.0,4.289573182036006
+Samoa,2003,Developing,life_expectancy,7.599999999999994,5.282349873462221
+Senegal,2005,Developing,life_expectancy,3.700000000000003,2.383266047039963
+Senegal,2004,Developing,life_expectancy,-5.299999999999997,-3.4350934097434793
+Sierra Leone,2013,Developing,life_expectancy,5.899999999999999,3.7692547345900755
+Sierra Leone,2002,Developing,life_expectancy,6.5,3.486872979019519
+Sierra Leone,2001,Developing,life_expectancy,-7.0,-3.86974464529899
+Singapore,2006,Developed,life_expectancy,5.900000000000006,4.016606917151569
+Singapore,2005,Developed,life_expectancy,-5.0,-2.1111386996161268
+Somalia,2002,Developing,life_expectancy,6.899999999999999,3.700926366490582
+South Africa,2013,Developing,life_expectancy,7.0,4.441512021624772
+South Africa,2012,Developing,life_expectancy,-9.799999999999997,-4.583146839323636
+South Sudan,2003,Developing,life_expectancy,6.600000000000001,4.6020062783643105
+South Sudan,2002,Developing,life_expectancy,-6.0,-3.2022953794512015
+Spain,2007,Developed,life_expectancy,7.700000000000003,3.1461521907050862
+Spain,2005,Developed,life_expectancy,-7.0,-3.0579703518616212
+Sri Lanka,2004,Developing,life_expectancy,-5.1000000000000085,-3.287714775030811
+Sri Lanka,2003,Developing,life_expectancy,4.800000000000011,3.3773878071880694
+Sudan,2005,Developing,life_expectancy,6.0,3.7069639490661546
+Sudan,2004,Developing,life_expectancy,-7.299999999999997,-4.908879756870246
+Suriname,2011,Developing,life_expectancy,4.700000000000003,4.133234658704433
+Sweden,2007,Developed,life_expectancy,7.900000000000006,3.231980724466863
+Switzerland,2000,Developed,life_expectancy,-2.299999999999997,-3.98355172970079
+Syrian Arab Republic,2011,Developing,life_expectancy,8.900000000000006,7.554400699621102
+Trinidad and Tobago,2012,Developing,life_expectancy,7.0,3.5529811536758045
+Turkey,2001,Developing,life_expectancy,6.799999999999997,3.961442974273733
+Uganda,2013,Developing,life_expectancy,5.5,3.524797539304733
+Uganda,2012,Developing,life_expectancy,-7.0,-3.2271255071570635
+Ukraine,2014,Developing,life_expectancy,6.700000000000003,3.9215447150380327
+Ukraine,2013,Developing,life_expectancy,-7.0,-4.114489813362258
+Ukraine,2012,Developing,life_expectancy,6.0,3.068687820759171
+United Kingdom of Great Britain and Northern Ireland,2013,Developed,life_expectancy,6.0,4.301430963156068
+United Republic of Tanzania,2014,Developing,life_expectancy,5.200000000000003,3.0675596386452684
+United Republic of Tanzania,2013,Developing,life_expectancy,-7.299999999999997,-4.297832709826264
+United Republic of Tanzania,2003,Developing,life_expectancy,6.5,4.533971918854518
+United Republic of Tanzania,2002,Developing,life_expectancy,-6.0,-3.2022953794512015
+Vanuatu,2009,Developing,life_expectancy,7.0,2.616492890356542
+Yemen,2000,Developing,life_expectancy,6.899999999999999,3.5445093186884615
+Zambia,2006,Developing,life_expectancy,5.399999999999999,4.1870224037224
+Zambia,2005,Developing,life_expectancy,-8.700000000000003,-4.753192207362125
+Zimbabwe,2014,Developing,life_expectancy,-7.799999999999997,-4.333644356758689
+Afghanistan,2002,Developing,adult_mortality,-292.0,-2.156682361958141
+Afghanistan,2001,Developing,adult_mortality,313.0,2.5324032016355837
+Angola,2001,Developing,adult_mortality,-347.0,-2.8716330939192587
+Australia,2013,Developed,adult_mortality,55.0,2.009109853666675
+Belgium,2001,Developed,adult_mortality,-98.0,-2.3760402578383992
+Bhutan,2001,Developing,adult_mortality,-253.0,-2.101967318491751
+Bhutan,2000,Developing,adult_mortality,283.0,2.864336309272957
+Botswana,2012,Developing,adult_mortality,-283.0,-3.248535615615969
+Botswana,2011,Developing,adult_mortality,322.0,3.4204046872933906
+Bulgaria,2013,Developed,adult_mortality,-124.0,-3.7220561034063904
+Bulgaria,2012,Developed,adult_mortality,125.0,2.6965146358026826
+Bulgaria,2005,Developed,adult_mortality,-145.0,-3.611977847450017
+Bulgaria,2004,Developed,adult_mortality,141.0,2.1054605457423254
+Bulgaria,2001,Developed,adult_mortality,-141.0,-3.379548973242217
+Bulgaria,2000,Developed,adult_mortality,147.0,4.586411781401455
+Burkina Faso,2014,Developing,adult_mortality,242.0,3.0915477459506224
+Burkina Faso,2013,Developing,adult_mortality,-241.0,-2.566394450101923
+Burkina Faso,2012,Developing,adult_mortality,244.0,2.8203140107309173
+Burkina Faso,2006,Developing,adult_mortality,-261.0,-2.2388471877419778
+Burundi,2013,Developing,adult_mortality,-264.0,-2.8095693041439924
+Burundi,2012,Developing,adult_mortality,279.0,3.223368539994942
+Burundi,2010,Developing,adult_mortality,-288.0,-3.023559849001773
+Burundi,2009,Developing,adult_mortality,305.0,3.0972145216214777
+Burundi,2008,Developing,adult_mortality,-303.0,-3.4186373997408497
+Burundi,2007,Developing,adult_mortality,320.0,2.9731967660293046
+Côte d'Ivoire,2014,Developing,adult_mortality,-350.0,-4.3193459309692255
+Côte d'Ivoire,2013,Developing,adult_mortality,365.0,3.840734312919564
+Cameroon,2010,Developing,adult_mortality,-334.0,-3.498925324582722
+Cameroon,2009,Developing,adult_mortality,336.0,3.4134484608028703
+Cameroon,2005,Developing,adult_mortality,-390.0,-2.56099026609019
+Cameroon,2004,Developing,adult_mortality,408.0,3.6603708241279627
+Cameroon,2002,Developing,adult_mortality,-365.0,-2.6924868577967804
+Cameroon,2000,Developing,adult_mortality,353.0,3.591688496396444
+Central African Republic,2006,Developing,adult_mortality,-439.0,-3.7142489116700137
+Central African Republic,2005,Developing,adult_mortality,455.0,3.0239548364030644
+Central African Republic,2003,Developing,adult_mortality,-461.0,-3.9996373259622913
+Chad,2009,Developing,adult_mortality,-327.0,-3.349877399754015
+Chad,2008,Developing,adult_mortality,357.0,3.7121397881068043
+Chad,2005,Developing,adult_mortality,-368.0,-2.415583411350721
+Comoros,2014,Developing,adult_mortality,-204.0,-2.49165931470183
+Comoros,2013,Developing,adult_mortality,210.0,2.2019472530708337
+Congo,2004,Developing,adult_mortality,-346.0,-3.520603756905294
+Congo,2003,Developing,adult_mortality,369.0,3.5318701948522584
+Croatia,2008,Developed,adult_mortality,97.0,2.1746111588562993
+Czechia,2013,Developed,adult_mortality,-79.0,-2.281260192410368
+Czechia,2005,Developed,adult_mortality,95.0,2.5333455615921032
+Czechia,2002,Developed,adult_mortality,-110.0,-2.421344951948994
+Czechia,2001,Developed,adult_mortality,111.0,2.5014788472638765
+Democratic Republic of the Congo,2006,Developing,adult_mortality,-263.0,-2.255424735201843
+Democratic Republic of the Congo,2001,Developing,adult_mortality,-307.0,-2.544115742673511
+Democratic Republic of the Congo,2000,Developing,adult_mortality,312.0,3.165667929652687
+Djibouti,2006,Developing,adult_mortality,-257.0,-2.2056920928222463
+Equatorial Guinea,2013,Developing,adult_mortality,295.0,3.1006369310523954
+Equatorial Guinea,2009,Developing,adult_mortality,-305.0,-3.1254533138833493
+Equatorial Guinea,2008,Developing,adult_mortality,304.0,3.139516771506917
+Eritrea,2004,Developing,adult_mortality,308.0,2.707986927439202
+Eritrea,2000,Developing,adult_mortality,248.0,2.500660215711213
+Ethiopia,2007,Developing,adult_mortality,-250.0,-2.04697087795583
+Ethiopia,2006,Developing,adult_mortality,289.0,2.319978363721055
+Fiji,2014,Developing,adult_mortality,-169.0,-2.053515262856907
+Fiji,2010,Developing,adult_mortality,-195.0,-2.0624948657620292
+Gabon,2009,Developing,adult_mortality,-263.0,-2.6970073317666237
+Gabon,2008,Developing,adult_mortality,267.0,2.7397610806730337
+Gabon,2004,Developing,adult_mortality,285.0,2.488938631200787
+Gabon,2003,Developing,adult_mortality,-290.0,-2.447965294565559
+Gabon,2002,Developing,adult_mortality,283.0,2.0636955162229222
+Gabon,2001,Developing,adult_mortality,-278.0,-2.3066656630203437
+Gabon,2000,Developing,adult_mortality,259.0,2.614958416544904
+Gambia,2001,Developing,adult_mortality,-295.0,-2.4458605372997866
+Ghana,2007,Developing,adult_mortality,-247.0,-2.0205489429874874
+Ghana,2006,Developing,adult_mortality,260.0,2.079603925553004
+Ghana,2004,Developing,adult_mortality,-262.0,-2.720601283686735
+Guatemala,2008,Developing,adult_mortality,-179.0,-2.0789156250543206
+Guinea,2011,Developing,adult_mortality,-259.0,-2.959836927371868
+Guinea,2010,Developing,adult_mortality,262.0,2.660157793813919
+Guinea,2008,Developing,adult_mortality,-264.0,-2.9972732931862156
+Guinea,2006,Developing,adult_mortality,281.0,2.2536681738815925
+Guinea-Bissau,2007,Developing,adult_mortality,-265.0,-2.179080552797544
+Guyana,2012,Developing,adult_mortality,-196.0,-2.246657214302536
+Guyana,2011,Developing,adult_mortality,207.0,2.157534143943124
+Haiti,2014,Developing,adult_mortality,221.0,2.8286613148436683
+Haiti,2010,Developing,adult_mortality,423.0,4.32393695834724
+Haiti,2009,Developing,adult_mortality,-431.0,-4.410791260233527
+Haiti,2006,Developing,adult_mortality,-238.0,-2.0482053919535237
+Hungary,2011,Developed,adult_mortality,-131.0,-2.683582104410622
+Hungary,2010,Developed,adult_mortality,141.0,2.391225758670481
+Hungary,2004,Developed,adult_mortality,-164.0,-2.2891705334803216
+Hungary,2003,Developed,adult_mortality,166.0,3.8110013871868595
+Kazakhstan,2014,Developing,adult_mortality,-176.0,-2.1411440732258917
+Kazakhstan,2012,Developing,adult_mortality,186.0,2.152395076521962
+Kiribati,2014,Developing,adult_mortality,-196.0,-2.391512102851562
+Latvia,2010,Developed,adult_mortality,-151.0,-2.8922014082760725
+Latvia,2009,Developed,adult_mortality,166.0,3.4177252917810086
+Latvia,2004,Developed,adult_mortality,-190.0,-2.663794822200941
+Latvia,2002,Developed,adult_mortality,190.0,3.9210592878082613
+Lesotho,2011,Developing,adult_mortality,-461.0,-5.178096490474075
+Lesotho,2010,Developing,adult_mortality,475.0,4.861306626395269
+Liberia,2006,Developing,adult_mortality,-254.0,-2.180825771632448
+Liberia,2003,Developing,adult_mortality,-287.0,-2.4207429782252654
+Liberia,2002,Developing,adult_mortality,329.0,2.4013257464774074
+Liberia,2000,Developing,adult_mortality,-294.0,-3.1311238617306447
+Lithuania,2011,Developed,adult_mortality,-158.0,-3.2604955003326865
+Lithuania,2010,Developed,adult_mortality,170.0,2.9159496896343513
+Lithuania,2007,Developed,adult_mortality,-200.0,-3.4567617598631255
+Lithuania,2006,Developed,adult_mortality,205.0,3.8760804328653085
+Lithuania,2004,Developed,adult_mortality,-198.0,-2.7790638341149774
+Madagascar,2014,Developing,adult_mortality,203.0,2.6033300881805648
+Madagascar,2013,Developing,adult_mortality,-202.0,-2.1540544802045005
+Madagascar,2012,Developing,adult_mortality,212.0,2.451807012546666
+Malawi,2012,Developing,adult_mortality,-352.0,-4.04312883045076
+Malawi,2011,Developing,adult_mortality,399.0,4.265978877188786
+Malawi,2005,Developing,adult_mortality,-521.0,-3.4268219920388487
+Malawi,2004,Developing,adult_mortality,549.0,5.003232118459115
+Malawi,2002,Developing,adult_mortality,-546.0,-4.020988415972037
+Malawi,2001,Developing,adult_mortality,532.0,4.325560699706054
+Mali,2012,Developing,adult_mortality,-248.0,-2.845481086351944
+Mali,2011,Developing,adult_mortality,244.0,2.5638490144123405
+Mali,2004,Developing,adult_mortality,267.0,2.31750952979681
+Malta,2000,Developed,adult_mortality,-71.0,-2.282374948323008
+Mauritania,2000,Developing,adult_mortality,-206.0,-2.216738255061118
+Mongolia,2010,Developing,adult_mortality,-210.0,-2.21750534692973
+Mongolia,2009,Developing,adult_mortality,210.0,2.1281105144526933
+Mozambique,2013,Developing,adult_mortality,-329.0,-3.4968025873063633
+Mozambique,2007,Developing,adult_mortality,380.0,3.501635465396161
+Mozambique,2001,Developing,adult_mortality,-368.0,-3.0435797033232768
+Myanmar,2014,Developing,adult_mortality,-178.0,-2.1661808761884584
+Namibia,2009,Developing,adult_mortality,-263.0,-2.6970073317666237
+Namibia,2008,Developing,adult_mortality,281.0,2.8910199907182865
+Namibia,2000,Developing,adult_mortality,-385.0,-4.076681704991178
+Nepal,2000,Developing,adult_mortality,215.0,2.157765613210141
+Niger,2014,Developing,adult_mortality,201.0,2.5782932852179976
+Niger,2003,Developing,adult_mortality,-251.0,-2.0940751821417427
+Nigeria,2005,Developing,adult_mortality,-392.0,-2.5742090710665058
+Papua New Guinea,2008,Developing,adult_mortality,-259.0,-2.9432522538843395
+Papua New Guinea,2007,Developing,adult_mortality,266.0,2.4976019365991338
+Papua New Guinea,2004,Developing,adult_mortality,277.0,2.412747919465686
+Poland,2014,Developed,adult_mortality,-105.0,-3.8574739360397006
+Poland,2012,Developed,adult_mortality,113.0,2.4281212661426954
+Poland,2010,Developed,adult_mortality,-115.0,-2.240819976734717
+Poland,2009,Developed,adult_mortality,123.0,2.5204175258030146
+Poland,2008,Developed,adult_mortality,-122.0,-2.7509463722571286
+Poland,2007,Developed,adult_mortality,130.0,2.2800611513665783
+Portugal,2005,Developed,adult_mortality,-85.0,-2.0756469951894867
+Russian Federation,2006,Developing,adult_mortality,-279.0,-2.3880451148807675
+Russian Federation,2005,Developing,adult_mortality,324.0,2.158123110454406
+Russian Federation,2001,Developing,adult_mortality,-275.0,-2.2821018616769124
+Rwanda,2014,Developing,adult_mortality,-204.0,-2.49165931470183
+Rwanda,2013,Developing,adult_mortality,210.0,2.2019472530708337
+Rwanda,2010,Developing,adult_mortality,-221.0,-2.331179699786044
+Rwanda,2009,Developing,adult_mortality,262.0,2.6585674446924488
+Rwanda,2004,Developing,adult_mortality,360.0,3.2032265537173576
+Rwanda,2003,Developing,adult_mortality,-349.0,-2.9833375159246653
+Rwanda,2002,Developing,adult_mortality,367.0,2.680237675818069
+Sao Tome and Principe,2014,Developing,adult_mortality,172.0,2.2152596422607753
+Senegal,2012,Developing,adult_mortality,-194.0,-2.2236255269160203
+Senegal,2000,Developing,adult_mortality,-226.0,-2.4245531656678283
+Sierra Leone,2013,Developing,adult_mortality,-416.0,-4.416637904769844
+Sierra Leone,2012,Developing,adult_mortality,364.0,4.2022152539218585
+Sierra Leone,2007,Developing,adult_mortality,-396.0,-3.332838379748514
+Sierra Leone,2006,Developing,adult_mortality,419.0,3.397518948612317
+Sierra Leone,2005,Developing,adult_mortality,-416.0,-2.7328347307822902
+Sierra Leone,2004,Developing,adult_mortality,448.0,4.0413243828034675
+Sierra Leone,2003,Developing,adult_mortality,-439.0,-3.800007006133472
+Sierra Leone,2002,Developing,adult_mortality,456.0,3.3334787734843556
+Slovakia,2014,Developed,adult_mortality,94.0,3.4861416169351314
+Slovakia,2007,Developed,adult_mortality,-122.0,-2.10078543539065
+Slovakia,2006,Developed,adult_mortality,124.0,2.2004966299989177
+Somalia,2007,Developing,adult_mortality,-302.0,-2.5049510840737725
+Somalia,2006,Developing,adult_mortality,303.0,2.4360211959401137
+South Africa,2012,Developing,adult_mortality,-323.0,-3.7091693633462826
+South Africa,2011,Developing,adult_mortality,365.0,3.8926084556765335
+South Sudan,2000,Developing,adult_mortality,-343.0,-3.6402703927170856
+Swaziland,2009,Developing,adult_mortality,-413.0,-4.227171553612073
+Swaziland,2008,Developing,adult_mortality,431.0,4.511651169774572
+Swaziland,2007,Developing,adult_mortality,-426.0,-3.5970577294319424
+Swaziland,2006,Developing,adult_mortality,513.0,4.176663679225999
+Swaziland,2005,Developing,adult_mortality,-501.0,-3.2946339422756945
+Swaziland,2002,Developing,adult_mortality,581.0,4.250952225262847
+Syrian Arab Republic,2013,Developing,adult_mortality,-257.0,-2.7355595659572756
+Togo,2011,Developing,adult_mortality,-260.0,-2.970818410357522
+Togo,2010,Developing,adult_mortality,289.0,2.93917665991578
+Turkmenistan,2012,Developing,adult_mortality,-206.0,-2.3618156512351147
+Turkmenistan,2011,Developing,adult_mortality,195.0,2.0257563481152703
+Uganda,2014,Developing,adult_mortality,-253.0,-3.1050609872847232
+Uganda,2013,Developing,adult_mortality,287.0,3.016054373124719
+Uganda,2008,Developing,adult_mortality,-337.0,-3.7859804669936077
+Uganda,2005,Developing,adult_mortality,405.0,2.6934847119951795
+Uganda,2003,Developing,adult_mortality,-432.0,-3.7364882680061204
+Uganda,2002,Developing,adult_mortality,470.0,3.4362358000835465
+Ukraine,2014,Developing,adult_mortality,-172.0,-2.0910704673007574
+United Republic of Tanzania,2014,Developing,adult_mortality,-245.0,-3.004913775434455
+United Republic of Tanzania,2013,Developing,adult_mortality,289.0,3.0372000126066383
+United Republic of Tanzania,2010,Developing,adult_mortality,-312.0,-3.2715766188700943
+United Republic of Tanzania,2009,Developing,adult_mortality,332.0,3.3726440815536587
+United Republic of Tanzania,2002,Developing,adult_mortality,-413.0,-3.044796663279721
+United Republic of Tanzania,2000,Developing,adult_mortality,411.0,4.1943517371559045
+Zambia,2014,Developing,adult_mortality,281.0,3.5797654037206796
+Zambia,2008,Developing,adult_mortality,-323.0,-3.6347215569483544
+Zambia,2007,Developing,adult_mortality,442.0,4.047688788075246
+Zambia,2003,Developing,adult_mortality,-514.0,-4.480564914640811
+Zambia,2001,Developing,adult_mortality,542.0,4.407440037517492
+Zimbabwe,2007,Developing,adult_mortality,-565.0,-4.821274049631826
+Zimbabwe,2005,Developing,adult_mortality,710.0,4.709352470883277
+Zimbabwe,2002,Developing,adult_mortality,-642.0,-4.725608026937919
+Zimbabwe,2001,Developing,adult_mortality,613.0,4.988783335978694
+Angola,2009,Developing,alcohol,-0.79,-2.0133732781989617
+Angola,2004,Developing,alcohol,-1.5100000000000002,-3.1861947114405886
+Azerbaijan,2012,Developing,alcohol,-2.1300000000000003,-6.516040916158833
+Azerbaijan,2008,Developing,alcohol,-0.9200000000000002,-2.3645346968270697
+Belarus,2012,Developing,alcohol,1.6900000000000013,4.86532633571477
+Belarus,2010,Developing,alcohol,-2.869999999999999,-2.1210486508370576
+Belarus,2006,Developing,alcohol,-1.620000000000001,-3.7061120357863366
+Belarus,2005,Developing,alcohol,-1.5899999999999999,-2.570567953219992
+Belarus,2004,Developing,alcohol,1.040000000000001,2.5631106620080213
+Belarus,2002,Developing,alcohol,1.0600000000000005,2.0565255953157187
+Belarus,2000,Developing,alcohol,2.24,5.158085268811791
+Belgium,2012,Developed,alcohol,-1.6899999999999995,-2.4872591099245827
+Belgium,2005,Developed,alcohol,1.2899999999999991,2.3324874942959903
+Botswana,2011,Developing,alcohol,5.75,2.421514767006878
+Botswana,2009,Developing,alcohol,-0.9800000000000004,-2.5561629732894366
+Botswana,2008,Developing,alcohol,1.5499999999999998,3.555452588368554
+Botswana,2004,Developing,alcohol,-1.4699999999999998,-3.096009529111982
+Bulgaria,2000,Developed,alcohol,-1.0300000000000011,-2.149184872689051
+Burkina Faso,2013,Developing,alcohol,4.63,2.300862233321912
+Cabo Verde,2011,Developing,alcohol,5.0600000000000005,2.077663234346199
+Cabo Verde,2007,Developing,alcohol,1.12,2.748717385646118
+Cabo Verde,2006,Developing,alcohol,-1.0300000000000002,-2.267680732883989
+Cameroon,2011,Developing,alcohol,6.180000000000001,2.6357990554765767
+Chile,2004,Developing,alcohol,-1.25,-2.5999910263046515
+China,2009,Developing,alcohol,-0.8700000000000001,-2.2419163077107402
+Congo,2008,Developing,alcohol,-0.8900000000000001,-2.292632017249795
+Croatia,2004,Developed,alcohol,1.5199999999999996,2.1266176467060145
+Cyprus,2004,Developed,alcohol,1.6199999999999992,2.27436355355489
+Cyprus,2003,Developed,alcohol,-2.41,-3.6589103066837816
+Cyprus,2001,Developed,alcohol,-1.5199999999999996,-2.129858700427234
+Democratic People's Republic of Korea,2000,Developing,alcohol,0.9900000000000002,2.275257498800464
+Denmark,2011,Developed,alcohol,1.2100000000000009,2.1624730331786983
+Dominican Republic,2003,Developing,alcohol,1.1600000000000001,2.1391025692373846
+Equatorial Guinea,2014,Developing,alcohol,-7.180000000000001,-2.4443055348134215
+Equatorial Guinea,2013,Developing,alcohol,10.71,5.727484559455289
+Equatorial Guinea,2012,Developing,alcohol,1.17,3.3160302700146955
+Equatorial Guinea,2009,Developing,alcohol,-1.96,-5.355815084808721
+Equatorial Guinea,2007,Developing,alcohol,-1.4799999999999995,-3.6262025434929748
+Equatorial Guinea,2002,Developing,alcohol,-1.12,-2.1230576328501645
+Estonia,2014,Developing,alcohol,-11.63,-4.302260879343323
+Estonia,2010,Developing,alcohol,14.96,10.700728065917483
+Estonia,2008,Developing,alcohol,1.9499999999999993,4.514154982732216
+Estonia,2007,Developing,alcohol,0.8800000000000026,2.1602632383409763
+Estonia,2006,Developing,alcohol,-1.2900000000000027,-2.9015657138240116
+Estonia,2003,Developing,alcohol,-3.4299999999999997,-5.889221466679325
+Estonia,2001,Developing,alcohol,-11.47,-9.80258009234592
+France,2004,Developing,alcohol,0.9800000000000004,2.4278328885151117
+Gabon,2014,Developing,alcohol,-8.63,-3.0497067144917045
+Gabon,2013,Developing,alcohol,8.85,4.679208650473696
+Gabon,2006,Developing,alcohol,-1.0099999999999998,-2.2189203497347556
+Gabon,2003,Developing,alcohol,-1.660000000000001,-2.793331805770269
+Gabon,2002,Developing,alcohol,1.87,3.609490005781023
+Georgia,2012,Developing,alcohol,1.7999999999999998,5.193062041920551
+Georgia,2007,Developing,alcohol,1.4800000000000004,3.631398606603839
+Georgia,2006,Developing,alcohol,-2.4700000000000006,-5.778428319628699
+Georgia,2005,Developing,alcohol,-1.4799999999999995,-2.3818179700053497
+Greece,2012,Developing,alcohol,0.7399999999999993,2.0348816003011736
+Greece,2002,Developing,alcohol,-1.370000000000001,-2.602367636080199
+Grenada,2003,Developing,alcohol,1.3200000000000003,2.4189570018619326
+Haiti,2013,Developing,alcohol,5.67,2.8869949996342
+Haiti,2000,Developing,alcohol,-1.4299999999999997,-3.305897063941466
+Hungary,2014,Developed,alcohol,-12.21,-2.318351302697546
+Hungary,2013,Developed,alcohol,10.870000000000001,2.2258115307265953
+Hungary,2010,Developed,alcohol,-0.7300000000000004,-2.3874802673275015
+Hungary,2000,Developed,alcohol,-0.9599999999999991,-2.0123408103006595
+Iceland,2009,Developed,alcohol,1.9700000000000006,3.5124308443249124
+Iceland,2008,Developed,alcohol,-1.7300000000000004,-3.2287712009936484
+Iceland,2007,Developed,alcohol,-0.96,-2.0447454205845528
+Kazakhstan,2008,Developing,alcohol,0.96,2.1413665566821503
+Lao People's Democratic Republic,2011,Developing,alcohol,5.38,2.237130611812021
+Lao People's Democratic Republic,2006,Developing,alcohol,-1.31,-2.950326096973237
+Lao People's Democratic Republic,2000,Developing,alcohol,2.0300000000000002,4.673770203449888
+Latvia,2013,Developed,alcohol,10.36,2.098327694896392
+Latvia,2008,Developed,alcohol,1.9900000000000002,2.5284625282796283
+Latvia,2006,Developed,alcohol,-1.7199999999999989,-2.363284532144551
+Lithuania,2011,Developed,alcohol,-2.4800000000000004,-4.262912365858559
+Malta,2010,Developed,alcohol,1.0,3.0182828246663815
+Malta,2006,Developed,alcohol,1.3899999999999997,2.1097865336414086
+Malta,2005,Developed,alcohol,-2.4299999999999997,-3.809058874228558
+Micronesia (Federated States of),2012,Developing,alcohol,1.31,3.7331484415493303
+Micronesia (Federated States of),2003,Developing,alcohol,1.13,2.0866298631202818
+Mongolia,2010,Developing,alcohol,5.79,4.106466008001658
+Mongolia,2009,Developing,alcohol,-1.1899999999999995,-3.1560884257578525
+Mongolia,2004,Developing,alcohol,-1.0,-2.036333636750866
+Mongolia,2002,Developing,alcohol,1.12,2.171559996090926
+Montenegro,2011,Developing,alcohol,6.55,2.8201832106714333
+Montenegro,2007,Developing,alcohol,-1.1899999999999995,-2.915153782165922
+Montenegro,2005,Developing,alcohol,-5.37,-9.056703740050404
+Mozambique,2000,Developing,alcohol,-0.95,-2.198891200257117
+Namibia,2011,Developing,alcohol,7.83,3.458052720534722
+Namibia,2008,Developing,alcohol,-1.71,-4.257971925695306
+Namibia,2007,Developing,alcohol,-1.1600000000000001,-2.84159701375278
+Nigeria,2014,Developing,alcohol,-9.290000000000001,-3.3252686307590604
+Nigeria,2013,Developing,alcohol,8.290000000000001,4.3635986993824645
+Paraguay,2013,Developing,alcohol,5.0200000000000005,2.5206620206890205
+Peru,2013,Developing,alcohol,5.37,2.71791824012104
+Portugal,2012,Developed,alcohol,1.9600000000000009,2.550227694985966
+Portugal,2002,Developed,alcohol,-2.210000000000001,-2.7149437023735183
+Republic of Korea,2014,Developing,alcohol,-9.3,-3.329443811308566
+Republic of Korea,2013,Developing,alcohol,9.32,4.94409557371098
+Republic of Korea,2000,Developing,alcohol,-1.1199999999999992,-2.5909557769786558
+Republic of Moldova,2006,Developing,alcohol,-1.3000000000000007,-2.9259459053986228
+Republic of Moldova,2005,Developing,alcohol,2.42,4.310226889422851
+Republic of Moldova,2004,Developing,alcohol,1.4900000000000002,3.577693963204833
+Republic of Moldova,2003,Developing,alcohol,-4.119999999999999,-7.0960937073726855
+Republic of Moldova,2002,Developing,alcohol,-1.4400000000000004,-2.7365744369846063
+Republic of Moldova,2001,Developing,alcohol,4.2700000000000005,3.759986755760262
+Republic of Moldova,2000,Developing,alcohol,-1.0899999999999999,-2.5217679104983857
+Romania,2009,Developed,alcohol,1.4000000000000004,2.445896158117381
+Romania,2007,Developed,alcohol,-1.3000000000000007,-2.7367152549845524
+Romania,2006,Developed,alcohol,-2.09,-2.8954505431866115
+Romania,2004,Developed,alcohol,2.1400000000000006,3.0426422691690496
+Rwanda,2014,Developing,alcohol,-6.7700000000000005,-2.2731231322837004
+Rwanda,2011,Developing,alcohol,8.33,3.707220497825069
+Rwanda,2009,Developing,alcohol,-0.8099999999999996,-2.0705090355769054
+Rwanda,2002,Developing,alcohol,1.1600000000000001,2.248249596607731
+Rwanda,2000,Developing,alcohol,1.4100000000000001,3.2438876295242696
+Saint Lucia,2008,Developing,alcohol,1.0,2.2372367961185167
+Saint Lucia,2006,Developing,alcohol,0.7699999999999996,2.1207537505468976
+Saint Vincent and the Grenadines,2007,Developing,alcohol,-1.0300000000000002,-2.522851017295826
+Samoa,2008,Developing,alcohol,1.0900000000000003,2.4529448348503418
+Sao Tome and Principe,2011,Developing,alcohol,5.680000000000001,2.3866312781862296
+Sao Tome and Principe,2009,Developing,alcohol,-1.4500000000000002,-3.898853271671134
+Sao Tome and Principe,2006,Developing,alcohol,1.3200000000000003,3.4616642871507817
+Serbia,2004,Developing,alcohol,-2.1799999999999997,-4.696796515444731
+Seychelles,2014,Developing,alcohol,-7.4,-2.5361595069025404
+Seychelles,2011,Developing,alcohol,9.71,4.394923563146428
+Seychelles,2010,Developing,alcohol,-3.210000000000001,-2.3655469168884635
+Seychelles,2009,Developing,alcohol,-1.5699999999999994,-4.2416678159388
+Seychelles,2008,Developing,alcohol,1.3899999999999997,3.171971630623088
+Seychelles,2007,Developing,alcohol,1.7899999999999991,4.391485213539651
+Seychelles,2002,Developing,alcohol,3.74,7.194728829941665
+Seychelles,2001,Developing,alcohol,-4.430000000000001,-3.7364764957342613
+Seychelles,2000,Developing,alcohol,1.5200000000000005,3.4975764732852674
+Slovenia,2003,Developed,alcohol,1.58,2.5592404713993444
+Slovenia,2002,Developed,alcohol,-2.290000000000001,-2.818293232159038
+Slovenia,2001,Developed,alcohol,1.5100000000000016,2.604462702448161
+Slovenia,2000,Developed,alcohol,1.0999999999999996,2.014784454271881
+South Africa,2004,Developing,alcohol,-1.7299999999999995,-3.682213214247918
+Spain,2001,Developed,alcohol,-2.4000000000000004,-3.504843134265633
+Spain,2000,Developed,alcohol,1.2599999999999998,2.327570882588195
+Swaziland,2011,Developing,alcohol,5.19,2.1424468564416896
+Tonga,2007,Developing,alcohol,0.9499999999999997,2.331895697971637
+Uganda,2014,Developing,alcohol,-9.88,-3.5716042831798784
+Uganda,2011,Developing,alcohol,10.21,4.644091340436774
+United Republic of Tanzania,2013,Developing,alcohol,4.19,2.0528829860359443
+United Republic of Tanzania,2007,Developing,alcohol,0.9600000000000004,2.35641462077602
+United Republic of Tanzania,2003,Developing,alcohol,-1.4700000000000002,-2.461004667028617
+Venezuela (Bolivarian Republic of),2003,Developing,alcohol,-1.25,-2.076204822169864
+Zimbabwe,2008,Developing,alcohol,-1.0799999999999996,-2.748015654572534
+Zimbabwe,2001,Developing,alcohol,-2.71,-2.2544170942893667
+Algeria,2007,Developing,hepatitis_b,-82.0,-3.20300155970514
+Algeria,2005,Developing,hepatitis_b,75.0,3.3626604462466854
+Argentina,2008,Developing,hepatitis_b,-85.0,-4.2159795233047195
+Argentina,2007,Developing,hepatitis_b,76.0,3.211336058244684
+Azerbaijan,2010,Developing,hepatitis_b,-76.0,-2.6363420314624735
+Azerbaijan,2009,Developing,hepatitis_b,66.0,2.4225639710591502
+Azerbaijan,2001,Developing,hepatitis_b,60.0,2.3755164015048824
+Bahamas,2008,Developing,hepatitis_b,-86.0,-4.265870817036617
+Bahamas,2007,Developing,hepatitis_b,84.0,3.536112646495308
+Bahamas,2001,Developing,hepatitis_b,-68.0,-2.7758334255215247
+Bahamas,2000,Developing,hepatitis_b,74.0,3.1619459920237576
+Bangladesh,2002,Developing,hepatitis_b,90.0,2.9492544976971833
+Barbados,2000,Developing,hepatitis_b,73.0,3.1183548439551383
+Belarus,2000,Developing,hepatitis_b,-86.0,-3.8126376989553337
+Belgium,2002,Developed,hepatitis_b,-58.0,-3.252590241157951
+Benin,2012,Developing,hepatitis_b,-69.0,-3.19778526534796
+Benin,2011,Developing,hepatitis_b,67.0,2.846268380604096
+Benin,2005,Developing,hepatitis_b,-67.0,-2.9718148701092493
+Benin,2004,Developing,hepatitis_b,68.0,2.715148648967275
+Benin,2002,Developing,hepatitis_b,-58.0,-2.0632893850723546
+Benin,2001,Developing,hepatitis_b,60.0,2.3755164015048824
+Bolivia (Plurinational State of),2003,Developing,hepatitis_b,-76.0,-2.728052930153035
+Bolivia (Plurinational State of),2002,Developing,hepatitis_b,69.0,2.238015162979884
+Bosnia and Herzegovina,2009,Developing,hepatitis_b,-80.0,-3.1993144822008523
+Bosnia and Herzegovina,2008,Developing,hepatitis_b,79.0,3.9661926487264774
+Bosnia and Herzegovina,2006,Developing,hepatitis_b,-85.0,-3.4757006590082913
+Bosnia and Herzegovina,2005,Developing,hepatitis_b,84.0,3.7641412761565687
+Bosnia and Herzegovina,2004,Developing,hepatitis_b,-57.0,-2.0494879026557555
+Bosnia and Herzegovina,2003,Developing,hepatitis_b,52.5,2.040111284612935
+Botswana,2003,Developing,hepatitis_b,-82.0,-2.950690947963119
+Botswana,2002,Developing,hepatitis_b,79.0,2.576700560464312
+Burkina Faso,2012,Developing,hepatitis_b,-79.0,-3.6614549168435833
+Burkina Faso,2011,Developing,hepatitis_b,82.0,3.4896613828065193
+Côte d'Ivoire,2013,Developing,hepatitis_b,-68.0,-2.8544704950092115
+Côte d'Ivoire,2012,Developing,hepatitis_b,74.0,3.4326907510394515
+Côte d'Ivoire,2000,Developing,hepatitis_b,75.0,3.205537140092377
+Cabo Verde,2011,Developing,hepatitis_b,-85.0,-3.6734473750471226
+Cabo Verde,2010,Developing,hepatitis_b,89.0,3.3682709783087605
+Cabo Verde,2002,Developing,hepatitis_b,-62.0,-2.198763544066126
+Cabo Verde,2001,Developing,hepatitis_b,90.5,3.6029864774760183
+Cambodia,2006,Developing,hepatitis_b,-74.0,-3.0250966319545314
+Cambodia,2005,Developing,hepatitis_b,80.0,3.585705351752176
+Cameroon,2009,Developing,hepatitis_b,-76.0,-3.0452904149882496
+Cameroon,2008,Developing,hepatitis_b,76.0,3.8165187675307846
+Canada,2012,Developing,hepatitis_b,-48.0,-2.2240789972071515
+Chile,2013,Developing,hepatitis_b,-86.0,-3.6133174047739844
+Chile,2011,Developing,hepatitis_b,85.0,3.6183399832470036
+China,2002,Developing,hepatitis_b,-68.0,-2.401974782556783
+China,2001,Developing,hepatitis_b,58.0,2.2950265604575946
+China,2000,Developing,hepatitis_b,-59.0,-2.635676701102612
+Colombia,2014,Developing,hepatitis_b,-82.0,-3.8967095069509052
+Colombia,2013,Developing,hepatitis_b,82.0,3.469253753030562
+Colombia,2001,Developing,hepatitis_b,-70.0,-2.8563232665688125
+Colombia,2000,Developing,hepatitis_b,70.0,2.9875813997492804
+Congo,2013,Developing,hepatitis_b,76.0,3.216304783108971
+Congo,2011,Developing,hepatitis_b,-55.0,-2.386661370642277
+Congo,2010,Developing,hepatitis_b,67.0,2.5676559103392624
+Costa Rica,2005,Developing,hepatitis_b,-79.0,-3.5071226433224267
+Costa Rica,2004,Developing,hepatitis_b,80.0,3.172553757923086
+Costa Rica,2001,Developing,hepatitis_b,-86.0,-3.500241994947113
+Costa Rica,2000,Developing,hepatitis_b,81.0,3.4670840285040927
+Democratic People's Republic of Korea,2003,Developing,hepatitis_b,-71.0,-2.5425212486446314
+Democratic People's Republic of Korea,2002,Developing,hepatitis_b,66.0,2.1364095437345556
+Democratic Republic of the Congo,2014,Developing,hepatitis_b,-73.0,-3.471152755106942
+Democratic Republic of the Congo,2013,Developing,hepatitis_b,66.0,2.7947231665729864
+Democratic Republic of the Congo,2010,Developing,hepatitis_b,-68.0,-2.3452092794735653
+Democratic Republic of the Congo,2009,Developing,hepatitis_b,66.0,2.4225639710591502
+Democratic Republic of the Congo,2007,Developing,hepatitis_b,-58.0,-2.228671794953268
+Democratic Republic of the Congo,2006,Developing,hepatitis_b,65.0,2.6688997099066163
+Djibouti,2007,Developing,hepatitis_b,-63.0,-2.431657162609908
+Djibouti,2006,Developing,hepatitis_b,59.0,2.4231156951500203
+Dominican Republic,2013,Developing,hepatitis_b,-81.0,-3.4025265965059917
+Dominican Republic,2012,Developing,hepatitis_b,66.0,3.061755029842953
+Dominican Republic,2011,Developing,hepatitis_b,-66.0,-2.85848290559072
+Dominican Republic,2010,Developing,hepatitis_b,75.0,2.8587886623281706
+Dominican Republic,2009,Developing,hepatitis_b,-75.0,-3.006784398185099
+Dominican Republic,2008,Developing,hepatitis_b,73.0,3.6668448863350918
+Ecuador,2010,Developing,hepatitis_b,-79.0,-2.7455168134583143
+Ecuador,2009,Developing,hepatitis_b,82.0,3.0386602399095612
+El Salvador,2004,Developing,hepatitis_b,-80.0,-2.9261810281543936
+El Salvador,2003,Developing,hepatitis_b,85.0,3.2460672144175575
+Eritrea,2010,Developing,hepatitis_b,-87.0,-3.0366495654472225
+Eritrea,2009,Developing,hepatitis_b,83.0,3.077166256712712
+Estonia,2004,Developing,hepatitis_b,-86.0,-3.154883582632299
+Estonia,2003,Developing,hepatitis_b,85.0,3.2460672144175575
+Gabon,2013,Developing,hepatitis_b,72.0,3.0476721364945774
+Germany,2005,Developed,hepatitis_b,-78.0,-5.321355432973847
+Germany,2004,Developed,hepatitis_b,79.0,5.4023510044386915
+Germany,2003,Developed,hepatitis_b,-79.0,-5.342415648385679
+Germany,2002,Developed,hepatitis_b,78.0,4.427970111267118
+Ghana,2013,Developing,hepatitis_b,-89.0,-3.73979188973478
+Ghana,2012,Developing,hepatitis_b,83.0,3.8499934373855123
+Ghana,2004,Developing,hepatitis_b,-76.0,-2.7737126585024567
+Ghana,2001,Developing,hepatitis_b,81.5,3.2407821927632243
+Greece,2001,Developing,hepatitis_b,-82.0,-3.339262312852538
+Greece,2000,Developing,hepatitis_b,80.0,3.4234928804354734
+Guinea-Bissau,2009,Developing,hepatitis_b,-75.0,-3.006784398185099
+Guinea-Bissau,2008,Developing,hepatitis_b,79.0,3.9661926487264774
+Guyana,2003,Developing,hepatitis_b,-82.0,-2.950690947963119
+Guyana,2002,Developing,hepatitis_b,82.0,2.6783061797096406
+India,2013,Developing,hepatitis_b,-72.0,-3.0231031416236056
+India,2012,Developing,hepatitis_b,66.0,3.061755029842953
+Ireland,2010,Developed,hepatitis_b,-49.0,-2.3103399757504586
+Ireland,2009,Developed,hepatitis_b,49.0,2.6188582742174122
+Jamaica,2009,Developing,hepatitis_b,-85.0,-3.391844566216606
+Jamaica,2008,Developing,hepatitis_b,83.0,4.165757823654067
+Jamaica,2003,Developing,hepatitis_b,-62.0,-2.208564221929505
+Kenya,2010,Developing,hepatitis_b,-87.0,-3.0366495654472225
+Kenya,2009,Developing,hepatitis_b,79.0,2.9231421895001093
+Kenya,2006,Developing,hepatitis_b,-73.0,-2.984132629495099
+Kenya,2005,Developing,hepatitis_b,68.0,3.0503975785389983
+Kiribati,2005,Developing,hepatitis_b,-83.0,-3.6855585677268192
+Kiribati,2004,Developing,hepatitis_b,62.0,2.4864460944893696
+Kiribati,2000,Developing,hepatitis_b,-76.0,-3.37672621826914
+Kyrgyzstan,2006,Developing,hepatitis_b,-85.0,-3.4757006590082913
+Kyrgyzstan,2005,Developing,hepatitis_b,88.0,3.942577200560961
+Lao People's Democratic Republic,2007,Developing,hepatitis_b,-56.0,-2.147477647890612
+Lao People's Democratic Republic,2006,Developing,hepatitis_b,52.0,2.136367677933991
+Lao People's Democratic Republic,2002,Developing,hepatitis_b,62.0,2.0009353847407843
+Latvia,2012,Developed,hepatitis_b,-85.0,-3.547797252997217
+Latvia,2011,Developed,hepatitis_b,80.0,3.724173640628046
+Lebanon,2007,Developing,hepatitis_b,-73.0,-2.837627897923188
+Lebanon,2006,Developing,hepatitis_b,70.0,2.87371972220378
+Lebanon,2001,Developing,hepatitis_b,-69.0,-2.8160783460451686
+Lebanon,2000,Developing,hepatitis_b,75.0,3.205537140092377
+Lesotho,2007,Developing,hepatitis_b,-79.0,-3.081210339111156
+Lesotho,2006,Developing,hepatitis_b,82.0,3.365287751716972
+Lesotho,2004,Developing,hepatitis_b,-81.0,-2.9642981205673777
+Lesotho,2002,Developing,hepatitis_b,74.0,2.407357861722098
+Liberia,2014,Developing,hepatitis_b,-47.0,-2.24176658311327
+Liberia,2013,Developing,hepatitis_b,71.0,3.0055139748409787
+Liberia,2012,Developing,hepatitis_b,-68.0,-3.1514183001983977
+Liberia,2011,Developing,hepatitis_b,69.0,2.932054114231086
+Luxembourg,2006,Developed,hepatitis_b,8.0,4.213255907748807
+Madagascar,2012,Developing,hepatitis_b,-67.0,-3.105051335048836
+Madagascar,2011,Developing,hepatitis_b,66.0,2.8033755137906016
+Madagascar,2010,Developing,hepatitis_b,-66.0,-2.2724260914763383
+Madagascar,2009,Developing,hepatitis_b,70.0,2.576588038271753
+Mali,2006,Developing,hepatitis_b,-65.0,-2.6564206098196372
+Mali,2005,Developing,hepatitis_b,74.0,3.3180514651455875
+Malta,2014,Developed,hepatitis_b,-86.0,-3.9607619786958135
+Malta,2013,Developed,hepatitis_b,85.0,4.941746462567128
+Mauritania,2013,Developing,hepatitis_b,-76.0,-3.1917357882379993
+Mauritania,2011,Developing,hepatitis_b,67.0,2.846268380604096
+Micronesia (Federated States of),2007,Developing,hepatitis_b,-80.0,-3.121807412642484
+Micronesia (Federated States of),2006,Developing,hepatitis_b,75.0,3.0785397345009433
+Micronesia (Federated States of),2004,Developing,hepatitis_b,-83.0,-3.0405323053933464
+Micronesia (Federated States of),2003,Developing,hepatitis_b,81.0,3.0976418692108347
+Montenegro,2013,Developing,hepatitis_b,-78.0,-3.2760521115451966
+Montenegro,2011,Developing,hepatitis_b,82.0,3.4896613828065193
+Montenegro,2010,Developing,hepatitis_b,-82.0,-2.8546915954541547
+Montenegro,2009,Developing,hepatitis_b,78.0,2.8846361726969585
+Montenegro,2007,Developing,hepatitis_b,-84.0,-3.284195706767796
+Morocco,2003,Developing,hepatitis_b,-86.0,-3.0991162931698417
+Morocco,2002,Developing,hepatitis_b,83.0,2.7121747194580834
+Mozambique,2014,Developing,hepatitis_b,71.0,3.337755274396472
+Mozambique,2001,Developing,hepatitis_b,-51.0,-2.09166977661958
+Mozambique,2000,Developing,hepatitis_b,50.0,2.115758438376894
+Myanmar,2011,Developing,hepatitis_b,-54.0,-2.343768503828782
+Myanmar,2010,Developing,hepatitis_b,88.0,3.3318793843101466
+Myanmar,2002,Developing,hepatitis_b,67.0,2.1702780834829984
+Nepal,2012,Developing,hepatitis_b,-83.0,-3.846922777441833
+Nepal,2011,Developing,hepatitis_b,83.0,3.532554249620014
+Nepal,2002,Developing,hepatitis_b,80.0,2.610569100212755
+Netherlands,2013,Developed,hepatitis_b,-41.0,-2.5096827584764996
+Netherlands,2010,Developed,hepatitis_b,49.0,2.5230330489016017
+New Zealand,2010,Developed,hepatitis_b,-86.0,-4.135184893221134
+New Zealand,2009,Developed,hepatitis_b,84.0,4.675745558315239
+New Zealand,2008,Developed,hepatitis_b,-84.0,-5.47044207754487
+New Zealand,2007,Developed,hepatitis_b,79.0,5.439759812803331
+New Zealand,2001,Developed,hepatitis_b,-80.0,-3.67881975331439
+Niger,2010,Developing,hepatitis_b,-68.0,-2.3452092794735653
+Niger,2009,Developing,hepatitis_b,64.0,2.3455519374528486
+Pakistan,2005,Developing,hepatitis_b,-71.0,-3.1502507945136418
+Pakistan,2004,Developing,hepatitis_b,58.0,2.3339777248374327
+Panama,2014,Developing,hepatitis_b,-65.0,-3.0928800868011965
+Panama,2012,Developing,hepatitis_b,77.0,3.5717916464881383
+Papua New Guinea,2004,Developing,hepatitis_b,-57.0,-2.0494879026557555
+Papua New Guinea,2003,Developing,hepatitis_b,61.0,2.3555151431772208
+Papua New Guinea,2002,Developing,hepatitis_b,-61.0,-2.164895004317683
+Papua New Guinea,2001,Developing,hepatitis_b,53.0,2.093801957839376
+Paraguay,2004,Developing,hepatitis_b,-83.0,-3.0405323053933464
+Paraguay,2003,Developing,hepatitis_b,77.0,2.949216524004112
+Peru,2014,Developing,hepatitis_b,79.0,3.716027942702217
+Philippines,2014,Developing,hepatitis_b,61.0,2.8649144390142904
+Portugal,2001,Developed,hepatitis_b,-75.0,-3.4307745950631032
+Portugal,2000,Developed,hepatitis_b,51.0,3.0514981322536774
+Romania,2014,Developed,hepatitis_b,85.0,3.897573607752153
+Russian Federation,2000,Developing,hepatitis_b,54.0,2.290123030651371
+Saint Lucia,2002,Developing,hepatitis_b,-70.0,-2.4697118620536687
+Saint Lucia,2001,Developing,hepatitis_b,82.5,3.281027113286868
+Saint Vincent and the Grenadines,2003,Developing,hepatitis_b,-68.0,-2.4312022397395894
+Saint Vincent and the Grenadines,2002,Developing,hepatitis_b,68.0,2.2041466232314413
+Samoa,2013,Developing,hepatitis_b,-50.0,-2.095623585244439
+Samoa,2012,Developing,hepatitis_b,58.0,2.6908193086464545
+Sao Tome and Principe,2004,Developing,hepatitis_b,-89.0,-3.269234859871252
+Solomon Islands,2010,Developing,hepatitis_b,-90.0,-3.145824347443063
+Solomon Islands,2009,Developing,hepatitis_b,83.0,3.077166256712712
+Solomon Islands,2007,Developing,hepatitis_b,-80.0,-3.121807412642484
+Solomon Islands,2006,Developing,hepatitis_b,90.0,3.6929997713924343
+South Africa,2014,Developing,hepatitis_b,-67.0,-3.187448253877633
+South Africa,2012,Developing,hepatitis_b,61.0,2.8299202040951412
+Sri Lanka,2002,Developing,hepatitis_b,67.0,2.1702780834829984
+Sudan,2006,Developing,hepatitis_b,-72.0,-2.943168627035666
+Sudan,2004,Developing,hepatitis_b,56.0,2.2577435400114645
+Swaziland,2014,Developing,hepatitis_b,89.0,4.188868778084398
+Swaziland,2008,Developing,hepatitis_b,-79.0,-3.916631760913334
+Swaziland,2007,Developing,hepatitis_b,83.0,3.49551557296398
+Swaziland,2003,Developing,hepatitis_b,-84.0,-3.0249036205664805
+Swaziland,2002,Developing,hepatitis_b,79.0,2.576700560464312
+Syrian Arab Republic,2002,Developing,hepatitis_b,-73.0,-2.5713174812989967
+Syrian Arab Republic,2000,Developing,hepatitis_b,71.0,3.0311725478178997
+Tajikistan,2001,Developing,hepatitis_b,51.5,2.03343457705391
+The former Yugoslav republic of Macedonia,2010,Developing,hepatitis_b,-87.0,-3.0366495654472225
+The former Yugoslav republic of Macedonia,2009,Developing,hepatitis_b,86.0,3.192684307122164
+Togo,2008,Developing,hepatitis_b,-54.0,-2.6693494176158956
+Togo,2007,Developing,hepatitis_b,60.0,2.561782881743436
+Tonga,2014,Developing,hepatitis_b,-70.0,-3.3293005044922874
+Tonga,2013,Developing,hepatitis_b,74.0,3.131988459801774
+Tonga,2004,Developing,hepatitis_b,-80.0,-2.9261810281543936
+Tonga,2003,Developing,hepatitis_b,76.0,2.912110187702431
+Trinidad and Tobago,2014,Developing,hepatitis_b,83.0,3.9051642768550896
+Trinidad and Tobago,2011,Developing,hepatitis_b,-83.0,-3.5876616414201328
+Trinidad and Tobago,2007,Developing,hepatitis_b,80.0,3.373724352369996
+Trinidad and Tobago,2002,Developing,hepatitis_b,-71.0,-2.503580401802111
+Trinidad and Tobago,2001,Developing,hepatitis_b,77.5,3.079802510668649
+Uganda,2010,Developing,hepatitis_b,-74.0,-2.5635588434652465
+Uganda,2009,Developing,hepatitis_b,71.0,2.615094055074904
+United Republic of Tanzania,2011,Developing,hepatitis_b,-83.0,-3.5876616414201328
+United Republic of Tanzania,2010,Developing,hepatitis_b,82.0,3.1135298203184654
+United Republic of Tanzania,2006,Developing,hepatitis_b,-74.0,-3.0250966319545314
+United Republic of Tanzania,2004,Developing,hepatitis_b,86.0,3.4012563124009914
+United States of America,2012,Developed,hepatitis_b,-82.0,-3.411069618999733
+United States of America,2011,Developed,hepatitis_b,82.0,3.8227456476587305
+United States of America,2000,Developed,hepatitis_b,-80.0,-4.5536624922453806
+Vanuatu,2007,Developing,hepatitis_b,-55.0,-2.106880574359284
+Vanuatu,2006,Developing,hepatitis_b,53.0,2.177331680393424
+Vanuatu,2000,Developing,hepatitis_b,-61.0,-2.7228589972398507
+Venezuela (Bolivarian Republic of),2002,Developing,hepatitis_b,-66.0,-2.3342377030598973
+Venezuela (Bolivarian Republic of),2000,Developing,hepatitis_b,-48.0,-2.1561740723477993
+Yemen,2005,Developing,hepatitis_b,-70.0,-3.1056418134125434
+Zambia,2014,Developing,hepatitis_b,77.0,3.6214597756257807
+Zambia,2007,Developing,hepatitis_b,-79.0,-3.081210339111156
+Zambia,2006,Developing,hepatitis_b,73.0,2.996611729582078
+Zimbabwe,2010,Developing,hepatitis_b,-85.0,-2.9638663774499956
+Zimbabwe,2009,Developing,hepatitis_b,64.0,2.3455519374528486
+Zimbabwe,2003,Developing,hepatitis_b,-61.0,-2.1714578856278246
+Zimbabwe,2002,Developing,hepatitis_b,66.0,2.1364095437345556
+Albania,2006,Developing,bmi,-45.900000000000006,-3.866592512543078
+Albania,2005,Developing,bmi,44.1,2.9258013234334275
+Algeria,2007,Developing,bmi,-46.0,-2.582641058377034
+Algeria,2006,Developing,bmi,44.0,3.5802899995903177
+Antigua and Barbuda,2004,Developing,bmi,-36.6,-2.848601485893292
+Antigua and Barbuda,2002,Developing,bmi,35.4,3.222414862370734
+Argentina,2011,Developing,bmi,-54.6,-3.0423193543307945
+Argentina,2010,Developing,bmi,53.4,4.268446277659546
+Armenia,2009,Developing,bmi,-45.5,-3.077153752962827
+Armenia,2007,Developing,bmi,44.6,2.5996114333334415
+Australia,2004,Developed,bmi,-54.6,-2.7455934665985233
+Australia,2002,Developed,bmi,53.300000000000004,3.8042917489727146
+Austria,2001,Developed,bmi,-45.6,-2.391711943628074
+Azerbaijan,2013,Developing,bmi,-45.9,-3.1383017381276583
+Azerbaijan,2012,Developing,bmi,44.1,3.13480274414305
+Bahamas,2009,Developing,bmi,-54.599999999999994,-3.6743483593984605
+Bahamas,2007,Developing,bmi,53.3,3.097244950749348
+Bahrain,2011,Developing,bmi,-54.7,-3.0480233017662477
+Bahrain,2009,Developing,bmi,53.199999999999996,3.400110824531358
+Barbados,2010,Developing,bmi,-45.699999999999996,-3.4382002328223753
+Barbados,2009,Developing,bmi,44.199999999999996,2.809478796188423
+Belarus,2012,Developing,bmi,-54.6,-3.693633335641337
+Belarus,2011,Developing,bmi,53.4,3.1179438759584563
+Belgium,2007,Developed,bmi,-54.4,-2.972945366819564
+Belgium,2004,Developed,bmi,53.599999999999994,2.6655761706685115
+Belize,2013,Developing,bmi,44.199999999999996,2.9796104237007697
+Belize,2000,Developing,bmi,-36.6,-3.656961866099347
+Bolivia (Plurinational State of),2012,Developing,bmi,-45.6,-3.0709795897643413
+Bolivia (Plurinational State of),2011,Developing,bmi,44.3,2.5988846593322323
+Bosnia and Herzegovina,2005,Developing,bmi,-45.5,-2.780462329321312
+Bosnia and Herzegovina,2004,Developing,bmi,44.4,3.2729187850254053
+Botswana,2001,Developing,bmi,-27.6,-3.7680764162183187
+Botswana,2000,Developing,bmi,26.4,2.876491329799593
+Brazil,2008,Developing,bmi,-45.800000000000004,-3.560375199114779
+Brazil,2007,Developing,bmi,44.1,2.571011805895746
+Brunei Darussalam,2014,Developing,bmi,-37.0,-2.0882775269085245
+Brunei Darussalam,2013,Developing,bmi,35.0,2.354917949906968
+Brunei Darussalam,2004,Developing,bmi,-28.099999999999998,-2.206219729068491
+Brunei Darussalam,2003,Developing,bmi,26.0,2.1433950175134298
+Bulgaria,2007,Developed,bmi,-54.6,-2.984525216096933
+Bulgaria,2005,Developed,bmi,53.400000000000006,3.3260391507809928
+Côte d'Ivoire,2001,Developing,bmi,17.5,2.4923781452709517
+Canada,2004,Developing,bmi,-54.699999999999996,-4.216496756308458
+Canada,2002,Developing,bmi,53.3,4.861271056910653
+Chile,2010,Developing,bmi,-54.6,-4.130320857880792
+Chile,2009,Developing,bmi,53.3,3.4066734026240573
+Colombia,2005,Developing,bmi,-45.8,-2.7995681228015172
+Colombia,2004,Developing,bmi,44.3,3.2653613525921723
+Congo,2001,Developing,bmi,17.5,2.4923781452709517
+Costa Rica,2014,Developing,bmi,53.0,3.1676102408310953
+Costa Rica,2005,Developing,bmi,-46.1,-2.8186739162817234
+Costa Rica,2004,Developing,bmi,44.0,3.2426890552924736
+Croatia,2010,Developed,bmi,-54.699999999999996,-3.9416206725200915
+Croatia,2008,Developed,bmi,53.4,3.127198876424269
+Cuba,2014,Developing,bmi,-54.699999999999996,-3.121935454563983
+Cuba,2013,Developing,bmi,53.199999999999996,3.590722626325141
+Cuba,2001,Developing,bmi,-45.9,-6.308349553141902
+Cuba,2000,Developing,bmi,44.0,4.701710000399932
+Cyprus,2014,Developed,bmi,53.5,2.1112603725428163
+Czechia,2004,Developed,bmi,-54.5,-2.7405923856028975
+Czechia,2002,Developed,bmi,53.5,3.8193666466220395
+Dominican Republic,2007,Developing,bmi,-46.1,-2.588360983864573
+Dominican Republic,2006,Developing,bmi,43.9,3.5720064817792685
+Ecuador,2010,Developing,bmi,-45.699999999999996,-3.4382002328223753
+Ecuador,2008,Developing,bmi,44.3,3.742723180350066
+Egypt,2014,Developing,bmi,-54.9,-3.1336152051589603
+Egypt,2013,Developing,bmi,53.199999999999996,3.590722626325141
+Egypt,2000,Developing,bmi,-45.5,-4.579941762027927
+El Salvador,2007,Developing,bmi,-45.6,-2.5597613564268773
+El Salvador,2005,Developing,bmi,44.3,2.938538519086898
+Fiji,2012,Developing,bmi,-54.9,-3.7143884605039035
+Fiji,2011,Developing,bmi,53.3,3.112239928523003
+Fiji,2000,Developing,bmi,-46.0,-4.631794565169982
+Finland,2011,Developing,bmi,-54.4,-3.0309114594598885
+Finland,2009,Developing,bmi,53.599999999999994,3.426361136902155
+France,2011,Developing,bmi,-54.5,-3.0366154068953417
+France,2009,Developing,bmi,53.5,3.419798558809456
+Gabon,2003,Developing,bmi,26.5,2.184546021664037
+Georgia,2008,Developing,bmi,-45.8,-3.5603751991147785
+Georgia,2007,Developing,bmi,44.4,2.5881715823583633
+Germany,2010,Developed,bmi,53.5,3.9320696387552587
+Greece,2005,Developing,bmi,-54.7,-3.3663733293809504
+Greece,2004,Developing,bmi,53.4,3.953087704016372
+Grenada,2005,Developing,bmi,-36.6,-2.2136571227418793
+Grenada,2004,Developing,bmi,35.4,2.592749866034439
+Guatemala,2014,Developing,bmi,44.3,2.659541089949599
+Guatemala,2000,Developing,bmi,-36.7,-3.667332426727758
+Guyana,2008,Developing,bmi,-36.7,-2.8227703683364207
+Guyana,2006,Developing,bmi,35.300000000000004,2.8596239500290217
+Haiti,2007,Developing,bmi,-37.099999999999994,-2.0735676899860485
+Haiti,2006,Developing,bmi,34.9,2.826489878784824
+Honduras,2014,Developing,bmi,-45.8,-2.6021865530875097
+Honduras,2013,Developing,bmi,44.099999999999994,2.9728202881160546
+Honduras,2002,Developing,bmi,-36.800000000000004,-3.3879436429802277
+Honduras,2001,Developing,bmi,35.2,4.9493636383609765
+Hungary,2008,Developed,bmi,-54.6,-3.3386098683691943
+Hungary,2007,Developed,bmi,53.4,3.2685933936823943
+Iran (Islamic Republic of),2007,Developing,bmi,-46.0,-2.582641058377034
+Iran (Islamic Republic of),2006,Developing,bmi,44.0,3.5802899995903177
+Iraq,2002,Developing,bmi,-45.699999999999996,-4.202793929650913
+Iraq,2000,Developing,bmi,44.4,4.743192242913576
+Ireland,2011,Developed,bmi,53.2,3.049613755246168
+Ireland,2006,Developed,bmi,-0.8000000000000043,-2.0460654751428535
+Israel,2005,Developing,bmi,-54.5,-3.35363613372748
+Israel,2003,Developing,bmi,53.5,4.406700245796841
+Italy,2009,Developed,bmi,-54.5,-3.9291245876347083
+Italy,2008,Developed,bmi,53.4,3.127198876424269
+Jamaica,2010,Developing,bmi,-45.7,-3.4382002328223757
+Jamaica,2009,Developing,bmi,44.2,2.8094787961884236
+Jordan,2009,Developing,bmi,-54.800000000000004,-3.6874735155838594
+Jordan,2007,Developing,bmi,53.199999999999996,3.091525025261809
+Kazakhstan,2012,Developing,bmi,-45.8,-3.084816339672719
+Kazakhstan,2011,Developing,bmi,44.3,2.5988846593322323
+Kiribati,2003,Developing,bmi,-63.800000000000004,-5.247325327935675
+Kiribati,2002,Developing,bmi,62.1,5.666965722382794
+Kuwait,2014,Developing,bmi,-63.60000000000001,-3.6416843560404573
+Kuwait,2012,Developing,bmi,62.3,4.393946985805419
+Kyrgyzstan,2010,Developing,bmi,-36.699999999999996,-2.738302971527347
+Kyrgyzstan,2008,Developing,bmi,35.4,3.0213294447536496
+Lebanon,2005,Developing,bmi,-54.6,-3.3600047315542154
+Lebanon,2003,Developing,bmi,53.5,4.406700245796841
+Lesotho,2010,Developing,bmi,26.5,2.176531130011073
+Libya,2011,Developing,bmi,-54.9,-3.0594311966371537
+Libya,2010,Developing,bmi,53.0,4.2373397327131
+Lithuania,2009,Developed,bmi,53.7,3.9445882102738548
+Luxembourg,2011,Developed,bmi,53.5,3.068417976487329
+Malaysia,2014,Developing,bmi,34.9,2.1105928119856827
+Mauritius,2010,Developing,bmi,-27.6,-2.030629073995708
+Mauritius,2008,Developing,bmi,26.5,2.2999357091572334
+Mexico,2011,Developing,bmi,-54.7,-3.0480233017662477
+Mexico,2009,Developing,bmi,53.3,3.4066734026240573
+Mongolia,2013,Developing,bmi,-46.1,-3.151882009297089
+Mongolia,2012,Developing,bmi,43.800000000000004,3.1140476192804836
+Mongolia,2003,Developing,bmi,-36.8,-3.0251711038028706
+Mongolia,2002,Developing,bmi,35.3,3.213259241172187
+Montenegro,2013,Developing,bmi,-54.599999999999994,-3.7290435339978836
+Montenegro,2011,Developing,bmi,53.5,3.1236478233939096
+Morocco,2007,Developing,bmi,-45.900000000000006,-2.576921132889495
+Morocco,2006,Developing,bmi,44.1,3.5885735174013673
+Namibia,2008,Developing,bmi,-27.8,-2.101376632740004
+Netherlands,2011,Developed,bmi,53.4,3.062149902740275
+Netherlands,2006,Developed,bmi,-0.7999999999999972,-2.0460654751428007
+New Zealand,2003,Developed,bmi,-54.6,-3.9409297159842374
+New Zealand,2001,Developed,bmi,53.300000000000004,3.2089465537408706
+Nicaragua,2011,Developing,bmi,-45.800000000000004,-2.54037198001093
+Nicaragua,2009,Developing,bmi,44.199999999999996,2.809478796188423
+Oman,2007,Developing,bmi,-45.5,-2.554041430939338
+Oman,2005,Developing,bmi,44.4,2.944907116913633
+Panama,2005,Developing,bmi,-45.800000000000004,-2.7995681228015177
+Panama,2004,Developing,bmi,44.2,3.2578039201589397
+Papua New Guinea,2004,Developing,bmi,-36.7,-2.8561589183265252
+Papua New Guinea,2003,Developing,bmi,35.2,2.9005734938846075
+Paraguay,2014,Developing,bmi,44.199999999999996,2.65370121465211
+Paraguay,2002,Developing,bmi,-36.699999999999996,-3.3787880217816797
+Paraguay,2001,Developing,bmi,35.199999999999996,4.949363638360976
+Peru,2008,Developing,bmi,-45.7,-3.5522696515238077
+Peru,2006,Developing,bmi,44.3,3.6051405530234657
+Poland,2013,Developed,bmi,-54.7,-5.479645579405438
+Portugal,2006,Developed,bmi,-0.8000000000000043,-2.0460654751428535
+Portugal,2001,Developed,bmi,-45.800000000000004,-2.403037845543886
+Republic of Korea,2010,Developing,bmi,26.5,2.176531130011073
+Republic of Moldova,2011,Developing,bmi,-45.6,-2.5289640851400237
+Republic of Moldova,2009,Developing,bmi,44.5,2.8291665304665212
+Romania,2014,Developed,bmi,53.199999999999996,2.1002241081396518
+Russian Federation,2014,Developing,bmi,53.4,3.1909697420210494
+Saint Lucia,2006,Developing,bmi,-36.9,-3.121075909548633
+Saint Lucia,2005,Developing,bmi,35.2,2.358996116853995
+Saint Vincent and the Grenadines,2011,Developing,bmi,-45.900000000000006,-2.546075927446383
+Saint Vincent and the Grenadines,2010,Developing,bmi,44.0,3.5374424714180726
+Saint Vincent and the Grenadines,2000,Developing,bmi,-36.9,-3.6880735479845796
+Samoa,2007,Developing,bmi,-63.50000000000001,-3.5836280186963867
+Samoa,2005,Developing,bmi,62.400000000000006,4.09125472572597
+Saudi Arabia,2006,Developing,bmi,-54.7,-4.595542079915424
+Saudi Arabia,2004,Developing,bmi,53.199999999999996,3.937972839149906
+Serbia,2014,Developing,bmi,53.4,3.1909697420210494
+Seychelles,2006,Developing,bmi,-27.5,-2.342425235309991
+Slovakia,2000,Developed,bmi,-45.4,-3.8071284894899913
+Slovenia,2014,Developed,bmi,53.4,2.1075816177417614
+Solomon Islands,2014,Developing,bmi,44.2,2.6537012146521106
+Solomon Islands,2003,Developing,bmi,-36.9,-3.033401304632992
+Solomon Islands,2002,Developing,bmi,35.2,3.2041036199736403
+South Africa,2014,Developing,bmi,-45.800000000000004,-2.60218655308751
+South Africa,2013,Developing,bmi,44.2,2.97961042370077
+South Africa,2001,Developing,bmi,-36.7,-5.031272347693981
+Spain,2005,Developed,bmi,-54.6,-3.1335232572544722
+Spain,2004,Developed,bmi,53.4,2.6555740086772603
+Suriname,2004,Developing,bmi,-45.7,-3.536327837317492
+Suriname,2003,Developing,bmi,44.300000000000004,3.649521769425664
+Swaziland,2010,Developing,bmi,26.5,2.176531130011073
+Switzerland,2000,Developed,bmi,-45.5,-3.816186341658295
+Syrian Arab Republic,2008,Developing,bmi,-45.9,-3.5684807467057493
+Syrian Arab Republic,2007,Developing,bmi,44.0,2.5652918804082065
+Tajikistan,2014,Developing,bmi,35.199999999999996,2.128112437878148
+Thailand,2001,Developing,bmi,17.2,2.4507343233541716
+The former Yugoslav republic of Macedonia,2014,Developing,bmi,53.400000000000006,3.19096974202105
+Tonga,2007,Developing,bmi,-63.7,-3.595067869671465
+Tonga,2005,Developing,bmi,62.300000000000004,4.084886127899234
+Trinidad and Tobago,2008,Developing,bmi,-36.9,-2.838981463518362
+Trinidad and Tobago,2007,Developing,bmi,35.099999999999994,2.0562185120172214
+Tunisia,2014,Developing,bmi,-55.0,-3.139455080456449
+Tunisia,2013,Developing,bmi,53.099999999999994,3.583932490740426
+Tunisia,2003,Developing,bmi,-45.8,-3.765889178513805
+Tunisia,2002,Developing,bmi,44.1,4.0189539066443265
+Turkey,2008,Developing,bmi,-54.9,-4.297980029893137
+Turkey,2007,Developing,bmi,53.099999999999994,3.0858050997742694
+Turkmenistan,2005,Developing,bmi,-36.599999999999994,-2.213657122741879
+Turkmenistan,2003,Developing,bmi,35.4,2.9170338955448503
+Ukraine,2014,Developing,bmi,-54.599999999999994,-3.1160955792664944
+Ukraine,2012,Developing,bmi,53.5,3.785129989836801
+United Arab Emirates,2013,Developing,bmi,-55.9,-3.817315296599182
+United Arab Emirates,2012,Developing,bmi,52.1,3.6882727404781575
+United Kingdom of Great Britain and Northern Ireland,2005,Developed,bmi,-54.599999999999994,-3.133523257254472
+United Kingdom of Great Britain and Northern Ireland,2003,Developed,bmi,53.4,3.9327279892079954
+United States of America,2001,Developed,bmi,-54.800000000000004,-2.9127034317554177
+Uruguay,2009,Developing,bmi,-54.5,-3.6677857813057617
+Uruguay,2007,Developing,bmi,53.4,3.102964876236887
+Uzbekistan,2010,Developing,bmi,-36.699999999999996,-2.738302971527347
+Uzbekistan,2008,Developing,bmi,35.3,3.0132238971626784
+Vanuatu,2012,Developing,bmi,-45.900000000000006,-3.091734714626908
+Vanuatu,2011,Developing,bmi,44.1,2.587476764461327
+Venezuela (Bolivarian Republic of),2012,Developing,bmi,-54.6,-3.693633335641337
+Venezuela (Bolivarian Republic of),2011,Developing,bmi,53.5,3.1236478233939096
+Yemen,2014,Developing,bmi,-36.9,-2.0824376516110363
+Yemen,2013,Developing,bmi,35.2,2.3684982210763987
+Afghanistan,2014,Developing,polio,52.0,2.540672891580866
+Angola,2014,Developing,polio,61.0,3.000674817994188
+Armenia,2007,Developing,polio,-82.0,-3.9215758309919844
+Armenia,2006,Developing,polio,78.0,3.611564424297818
+Australia,2000,Developed,polio,-82.0,-3.78400677053939
+Austria,2012,Developed,polio,-3.0,-2.516791248045901
+Azerbaijan,2006,Developing,polio,-73.0,-3.342267735676388
+Azerbaijan,2005,Developing,polio,71.0,3.1881698813413033
+Azerbaijan,2002,Developing,polio,-71.0,-3.377542595473155
+Azerbaijan,2001,Developing,polio,69.0,2.7650570445176985
+Bangladesh,2003,Developing,polio,-79.0,-2.9508982224452622
+Bangladesh,2002,Developing,polio,74.0,3.5363780410156935
+Barbados,2010,Developing,polio,-82.0,-3.1700911073217988
+Barbados,2009,Developing,polio,84.0,3.4005550551011874
+Barbados,2003,Developing,polio,-84.0,-3.1384658397163663
+Barbados,2002,Developing,polio,77.0,3.6794246748740833
+Belarus,2007,Developing,polio,-89.0,-4.260089971731758
+Belarus,2006,Developing,polio,88.0,4.072083110388825
+Belarus,2002,Developing,polio,46.0,2.2012761250040542
+Benin,2012,Developing,polio,-65.0,-2.837401108121235
+Benin,2011,Developing,polio,69.0,2.776293699564463
+Benin,2009,Developing,polio,-69.0,-2.883984056810078
+Benin,2008,Developing,polio,69.0,3.1555491763087855
+Bhutan,2004,Developing,polio,-86.0,-3.071477764981114
+Bhutan,2003,Developing,polio,87.0,3.27634667095539
+Bolivia (Plurinational State of),2010,Developing,polio,-86.0,-3.3252434473932975
+Bolivia (Plurinational State of),2009,Developing,polio,83.0,3.3594796360690875
+Bosnia and Herzegovina,2010,Developing,polio,-80.0,-3.092514937286049
+Bosnia and Herzegovina,2008,Developing,polio,83.0,3.798644805222
+Burkina Faso,2012,Developing,polio,-80.0,-3.5020043666418754
+Burkina Faso,2009,Developing,polio,82.0,3.318404217036988
+Côte d'Ivoire,2002,Developing,polio,-61.0,-2.9007204826118547
+Côte d'Ivoire,2000,Developing,polio,59.0,2.118743322707516
+Cabo Verde,2011,Developing,polio,-85.0,-3.482546212182703
+Cabo Verde,2010,Developing,polio,90.0,3.501459515752649
+Cabo Verde,2000,Developing,polio,-82.0,-2.862502711277215
+Cambodia,2006,Developing,polio,-74.0,-3.388319604285489
+Cambodia,2005,Developing,polio,74.0,3.316256525503213
+Cameroon,2011,Developing,polio,-77.0,-3.1574116713127203
+Cameroon,2010,Developing,polio,75.0,2.9196382404845287
+Canada,2007,Developing,polio,-80.0,-3.8248575050663347
+Canada,2006,Developing,polio,86.0,3.979979373170624
+Chile,2013,Developing,polio,-86.0,-3.873212114772178
+Chile,2011,Developing,polio,84.0,3.3859209636956806
+Colombia,2014,Developing,polio,-82.0,-4.308244679461931
+Colombia,2013,Developing,polio,82.0,3.7435045462774816
+Comoros,2003,Developing,polio,-65.0,-2.425708894086171
+Comoros,2002,Developing,polio,90.0,4.299293421593773
+Comoros,2001,Developing,polio,-91.0,-3.4187602465632603
+Congo,2013,Developing,polio,76.0,3.4714789512399937
+Congo,2003,Developing,polio,-62.0,-2.313168323723509
+Costa Rica,2012,Developing,polio,-86.0,-3.7678456700501317
+Costa Rica,2011,Developing,polio,73.0,2.9388609699994546
+Costa Rica,2009,Developing,polio,-85.0,-3.541190761323674
+Costa Rica,2008,Developing,polio,81.0,3.706774001091541
+Costa Rica,2004,Developing,polio,-82.0,-2.9270164217286148
+Costa Rica,2003,Developing,polio,79.0,2.9762384833216236
+Costa Rica,2000,Developing,polio,-84.0,-2.9331586833904737
+Democratic Republic of the Congo,2005,Developing,polio,-56.0,-2.234164721512865
+Democratic Republic of the Congo,2002,Developing,polio,-43.0,-2.042440679461515
+Denmark,2010,Developed,polio,-82.0,-5.298557543554771
+Denmark,2009,Developed,polio,80.0,5.46207588283087
+Denmark,2006,Developed,polio,6.0,2.8525943522881514
+Dominican Republic,2014,Developing,polio,-78.0,-4.103799378833789
+Dominican Republic,2013,Developing,polio,73.0,3.3354661537212498
+Ecuador,2004,Developing,polio,-80.0,-2.8547857501023652
+Ecuador,2003,Developing,polio,88.0,3.3138601944096107
+Ecuador,2001,Developing,polio,-79.0,-2.9549739497321883
+Ecuador,2000,Developing,polio,74.0,2.648663113556956
+El Salvador,2011,Developing,polio,-84.0,-3.4419043945739554
+El Salvador,2010,Developing,polio,80.0,3.113578665573902
+El Salvador,2004,Developing,polio,-80.0,-2.8547857501023652
+El Salvador,2003,Developing,polio,84.0,3.1638061005927276
+Eritrea,2010,Developing,polio,-87.0,-3.3640315324111723
+Eritrea,2009,Developing,polio,83.0,3.3594796360690875
+Ethiopia,2013,Developing,polio,-68.0,-3.0571353296597144
+Ethiopia,2010,Developing,polio,62.0,2.4153931352521574
+Gabon,2012,Developing,polio,-69.0,-3.014628643726739
+Gabon,2011,Developing,polio,67.0,2.695010064346967
+Georgia,2008,Developing,polio,-84.0,-3.8725673396713436
+Georgia,2007,Developing,polio,79.0,3.864249406022808
+Ghana,2003,Developing,polio,-73.0,-2.725817081719937
+Ghana,2001,Developing,polio,73.0,2.9196524767947225
+Greece,2001,Developing,polio,-83.0,-3.1095693820092123
+Greece,2000,Developing,polio,80.0,2.8606310298967315
+Guatemala,2014,Developing,polio,56.0,2.745118192209009
+Guatemala,2006,Developing,polio,-76.0,-3.4804233415036903
+Guatemala,2005,Developing,polio,78.0,3.4870387177190922
+Guatemala,2000,Developing,polio,-70.0,-2.4385668785976637
+Guinea,2009,Developing,polio,-56.0,-2.350003609392781
+Guinea,2008,Developing,polio,53.0,2.4205827432651126
+Guyana,2001,Developing,polio,-84.0,-3.148218240078468
+Guyana,2000,Developing,polio,70.0,2.5073511693304384
+Haiti,2005,Developing,polio,-55.0,-2.191469173458895
+Iceland,2014,Developed,polio,-83.0,-5.442426256802506
+Iceland,2013,Developed,polio,82.0,5.435277624997179
+Iceland,2011,Developed,polio,6.0,3.5946675250132123
+Indonesia,2013,Developing,polio,78.0,3.562154149585823
+Indonesia,2003,Developing,polio,-71.0,-2.6507900348114957
+Indonesia,2001,Developing,polio,69.0,2.7650570445176985
+Iraq,2013,Developing,polio,-60.0,-2.6944345362763973
+Iraq,2010,Developing,polio,66.0,2.5705454753236565
+Iraq,2001,Developing,polio,-68.0,-2.5298365109703727
+Iraq,2000,Developing,polio,75.0,2.683991099613585
+Ireland,2005,Developed,polio,-82.0,-5.401532331999164
+Ireland,2004,Developed,polio,80.0,3.8303505813495096
+Jamaica,2009,Developing,polio,-85.0,-3.541190761323674
+Jamaica,2008,Developing,polio,82.0,3.7527094031567705
+Kenya,2010,Developing,polio,-88.0,-3.402819617429047
+Kenya,2009,Developing,polio,80.0,3.2362533789727883
+Kenya,2005,Developing,polio,-70.0,-2.8319023942684427
+Kenya,2004,Developing,polio,66.0,2.41805327861385
+Kenya,2000,Developing,polio,-69.0,-2.4032388925410344
+Kiribati,2014,Developing,polio,71.0,3.5117880695645454
+Kiribati,2000,Developing,polio,-79.0,-2.7565187531073274
+Lao People's Democratic Republic,2008,Developing,polio,-61.0,-2.8160530921710625
+Lao People's Democratic Republic,2005,Developing,polio,-51.0,-2.0206869812430157
+Latvia,2012,Developed,polio,-3.0,-2.516791248045901
+Lebanon,2001,Developing,polio,-69.0,-2.5684853690396285
+Lebanon,2000,Developing,polio,75.0,2.683991099613585
+Lesotho,2012,Developing,polio,84.0,3.7643245931837974
+Lesotho,2003,Developing,polio,-80.0,-2.9884117458994828
+Lesotho,2002,Developing,polio,75.0,3.5840602523018235
+Liberia,2012,Developing,polio,-67.0,-2.926014875923987
+Liberia,2011,Developing,polio,69.0,2.776293699564463
+Lithuania,2004,Developed,polio,-84.0,-4.015738353436683
+Lithuania,2003,Developed,polio,82.0,5.455489615652754
+Madagascar,2010,Developing,polio,-66.0,-2.5494817470358035
+Madagascar,2009,Developing,polio,69.0,2.784423769619691
+Madagascar,2005,Developing,polio,-75.0,-3.0453801345382923
+Madagascar,2004,Developing,polio,66.0,2.41805327861385
+Madagascar,2001,Developing,polio,-55.0,-2.0274013560700443
+Mali,2013,Developing,polio,-67.0,-3.0117977304868
+Mali,2012,Developing,polio,65.0,2.9224937990576523
+Mali,2004,Developing,polio,-71.0,-2.5297477277842426
+Mali,2003,Developing,polio,60.0,2.2634815376914283
+Malta,2007,Developed,polio,4.0,3.339536405849553
+Malta,2006,Developed,polio,7.0,3.365420303261302
+Mauritania,2013,Developing,polio,-76.0,-3.4198361230430314
+Mauritania,2011,Developing,polio,65.0,2.6137264291294717
+Montenegro,2006,Developing,polio,-83.0,-3.802786421767395
+Montenegro,2005,Developing,polio,83.5,3.721864232015926
+Mozambique,2014,Developing,polio,71.0,3.5117880695645454
+Myanmar,2011,Developing,polio,-78.0,-3.1980534889214685
+Myanmar,2008,Developing,polio,76.0,3.477096990765393
+Namibia,2000,Developing,polio,-71.0,-2.4738948646542926
+Nepal,2014,Developing,polio,83.0,4.125123971448975
+Nepal,2012,Developing,polio,-83.0,-3.634925018346004
+Nepal,2011,Developing,polio,83.0,3.345279146086933
+Nepal,2004,Developing,polio,-70.0,-2.4936323919711176
+Nepal,2003,Developing,polio,68.0,2.563589725325195
+New Zealand,2008,Developed,polio,-3.0,-2.746197559372506
+Nicaragua,2004,Developing,polio,-79.0,-2.8186704142892407
+Nicaragua,2003,Developing,polio,78.0,2.938724959867403
+Niger,2011,Developing,polio,-67.0,-2.750993495225242
+Niger,2010,Developing,polio,71.0,2.76448590041303
+Nigeria,2008,Developing,polio,-60.0,-2.770117690105833
+Nigeria,2007,Developing,polio,48.0,2.365115354175239
+Pakistan,2009,Developing,polio,-75.0,-3.1304365710026767
+Pakistan,2007,Developing,polio,68.0,3.3322986134317354
+Panama,2014,Developing,polio,-64.0,-3.3882408266352875
+Panama,2013,Developing,polio,73.0,3.3354661537212498
+Papua New Guinea,2013,Developing,polio,-56.0,-2.513084139584739
+Papua New Guinea,2012,Developing,polio,73.0,3.2769488702686607
+Paraguay,2013,Developing,polio,-75.0,-3.374498523870117
+Paraguay,2012,Developing,polio,75.0,3.365562638071413
+Paraguay,2001,Developing,polio,-78.0,-2.9163250916629324
+Paraguay,2000,Developing,polio,77.0,2.7546470717268434
+Peru,2001,Developing,polio,-86.0,-3.2255159562169804
+Peru,2000,Developing,polio,84.0,3.001942974123249
+Philippines,2005,Developing,polio,-79.0,-3.2161623267541715
+Philippines,2004,Developing,polio,76.0,2.779206636745098
+Poland,2007,Developed,polio,3.0,2.5174966751788936
+Republic of Korea,2004,Developing,polio,-87.0,-3.107593100794239
+Republic of Korea,2003,Developing,polio,85.0,3.2013196240469486
+Romania,2012,Developed,polio,4.0,3.295180293833293
+Rwanda,2000,Developing,polio,-67.0,-2.3325829204277757
+Saint Lucia,2002,Developing,polio,-82.0,-3.902046919620585
+Saint Lucia,2001,Developing,polio,90.0,3.5766830639720744
+Saint Lucia,2000,Developing,polio,-92.0,-3.215782571843508
+Samoa,2011,Developing,polio,-56.0,-2.3039335015290163
+Samoa,2003,Developing,polio,56.0,2.113427443874545
+Sao Tome and Principe,2001,Developing,polio,-83.0,-3.1095693820092123
+Sao Tome and Principe,2000,Developing,polio,78.0,2.7899750577834728
+Senegal,2002,Developing,polio,-67.0,-3.186813750328635
+Solomon Islands,2005,Developing,polio,-90.0,-3.6858133553478396
+Solomon Islands,2004,Developing,polio,80.0,2.923667979997597
+South Africa,2003,Developing,polio,-66.0,-2.4632224175403916
+South Africa,2001,Developing,polio,64.0,2.5718127541714186
+South Sudan,2012,Developing,polio,59.0,2.656652495649396
+Sudan,2010,Developing,polio,-84.0,-3.247667277357548
+Sudan,2009,Developing,polio,72.0,2.90765002671599
+Sudan,2002,Developing,polio,-63.0,-2.9960849051841145
+Sudan,2001,Developing,polio,60.0,2.4172173218943946
+Suriname,2000,Developing,polio,-58.0,-2.014631045918112
+Syrian Arab Republic,2014,Developing,polio,47.0,2.2851162657956867
+Syrian Arab Republic,2013,Developing,polio,-47.0,-2.105045747028507
+Syrian Arab Republic,2010,Developing,polio,77.0,2.9972144105202783
+Timor-Leste,2007,Developing,polio,-72.0,-3.437984201363736
+Timor-Leste,2006,Developing,polio,55.0,2.552371446288502
+Togo,2008,Developing,polio,-70.0,-3.229471710758129
+Togo,2007,Developing,polio,64.0,3.138861961580436
+Togo,2005,Developing,polio,-77.0,-3.1307712306462316
+Togo,2004,Developing,polio,63.0,2.3097072711744757
+Tonga,2014,Developing,polio,74.0,3.6651220450356528
+Tonga,2005,Developing,polio,-80.0,-3.2588578748081414
+Tonga,2004,Developing,polio,82.0,2.9958986516238464
+Trinidad and Tobago,2009,Developing,polio,-82.0,-3.417964504227375
+Trinidad and Tobago,2008,Developing,polio,82.0,3.7527094031567705
+Trinidad and Tobago,2007,Developing,polio,-82.0,-3.9215758309919844
+Trinidad and Tobago,2006,Developing,polio,80.0,3.7036681615160196
+Trinidad and Tobago,2000,Developing,polio,-82.0,-2.862502711277215
+Turkey,2006,Developing,polio,-87.0,-3.986993896203798
+Turkey,2004,Developing,polio,76.0,2.779206636745098
+Uganda,2007,Developing,polio,-62.0,-2.954392571735488
+Uganda,2006,Developing,polio,55.0,2.552371446288502
+United Republic of Tanzania,2012,Developing,polio,-82.0,-3.5906181344446275
+United Republic of Tanzania,2011,Developing,polio,79.0,3.1827118756519415
+United States of America,2002,Developed,polio,-82.0,-5.4223714395836
+United States of America,2001,Developed,polio,80.0,5.440629548359241
+United States of America,2000,Developed,polio,-80.0,-3.6859596315456566
+Venezuela (Bolivarian Republic of),2005,Developing,polio,-65.0,-2.6184246539985936
+Venezuela (Bolivarian Republic of),2004,Developing,polio,75.0,2.743091300931973
+Yemen,2005,Developing,polio,-70.0,-2.8319023942684427
+Yemen,2004,Developing,polio,64.0,2.3458226069876007
+Zambia,2014,Developing,polio,69.0,3.409565419250474
+Zambia,2012,Developing,polio,-67.0,-2.926014875923987
+Zambia,2011,Developing,polio,76.0,3.060786422825698
+Zambia,2010,Developing,polio,-75.0,-2.8985745121966757
+Zambia,2009,Developing,polio,85.0,3.4416304741332873
+Zambia,2008,Developing,polio,-84.0,-3.8725673396713436
+Zambia,2007,Developing,polio,68.0,3.3322986134317354
+Zimbabwe,2003,Developing,polio,-60.0,-2.2381412768150675
+Zimbabwe,2002,Developing,polio,66.0,3.1549203507266537
+Angola,2001,Developing,total_expenditure,1.75,2.053915135282892
+Angola,2000,Developing,total_expenditure,-2.59,-2.8286648271743577
+Austria,2014,Developed,total_expenditure,9.610000000000001,2.27971981480669
+Austria,2011,Developed,total_expenditure,-9.23,-3.1478877512071946
+Austria,2010,Developed,total_expenditure,9.23,2.595666807011356
+Belgium,2008,Developed,total_expenditure,8.209999999999999,2.0515618321096234
+Bhutan,2002,Developing,total_expenditure,2.8499999999999996,2.4380099431845133
+Bhutan,2001,Developing,total_expenditure,-1.8399999999999999,-2.0593024039150944
+Bulgaria,2005,Developed,total_expenditure,1.13,3.39729046634575
+Burundi,2007,Developing,total_expenditure,-6.5600000000000005,-3.7490445201071867
+Burundi,2006,Developing,total_expenditure,10.19,5.8815530071486775
+Burundi,2004,Developing,total_expenditure,-2.74,-2.0452320360870964
+Canada,2014,Developing,total_expenditure,-7.919999999999999,-4.47541841648659
+Canada,2010,Developing,total_expenditure,9.379999999999999,4.224220303783177
+Canada,2008,Developing,total_expenditure,-9.87,-4.6647010859187
+Canada,2007,Developing,total_expenditure,8.53,5.08547159041666
+Chad,2002,Developing,total_expenditure,2.84,2.4299359117248107
+Croatia,2001,Developed,total_expenditure,0.9699999999999998,3.6881622211987453
+Cuba,2014,Developing,total_expenditure,5.1,2.6433499565092275
+Cuba,2011,Developing,total_expenditure,-6.99,-3.9107443753345765
+Cuba,2009,Developing,total_expenditure,10.59,5.347556488198547
+Cuba,2008,Developing,total_expenditure,-9.989999999999998,-4.725757294646747
+Cuba,2006,Developing,total_expenditure,6.25,3.5922087350885423
+Cuba,2004,Developing,total_expenditure,-3.250000000000001,-2.4355651606665805
+Denmark,2014,Developed,total_expenditure,-7.71,-2.0673245330858987
+Denmark,2013,Developed,total_expenditure,9.45,3.7885424129721166
+Denmark,2012,Developed,total_expenditure,-9.27,-3.8152111566483966
+Denmark,2010,Developed,total_expenditure,9.93,2.8206172325038863
+Denmark,2007,Developed,total_expenditure,8.81,4.275463675339816
+Djibouti,2014,Developing,total_expenditure,-5.93,-3.387373173609349
+Djibouti,2013,Developing,total_expenditure,7.57,4.480925233541749
+France,2008,Developing,total_expenditure,-9.709999999999999,-4.583292807614637
+France,2001,Developing,total_expenditure,8.67,9.982457021424972
+Georgia,2010,Developing,total_expenditure,-7.880000000000001,-3.5213624460359734
+Georgia,2008,Developing,total_expenditure,7.800000000000001,4.325825649286266
+Germany,2014,Developed,total_expenditure,9.780000000000001,2.3223871092144117
+Germany,2012,Developed,total_expenditure,-9.17,-3.771389635825443
+Germany,2010,Developed,total_expenditure,9.32,2.6245890045746814
+Haiti,2011,Developing,total_expenditure,-8.47,-4.759896802877274
+Haiti,2010,Developing,total_expenditure,7.49,3.376065529903792
+Iceland,2003,Developed,total_expenditure,-7.89,-5.253124413572144
+Iceland,2002,Developed,total_expenditure,8.16,5.314575037287279
+Ireland,2009,Developed,total_expenditure,0.7699999999999996,2.141391180898384
+Japan,2010,Developed,total_expenditure,7.88,2.1618338435614755
+Kiribati,2009,Developing,total_expenditure,10.72,5.416026809221395
+Kiribati,2006,Developing,total_expenditure,-11.73,-6.855103450607201
+Kiribati,2003,Developing,total_expenditure,8.59,6.819273392257184
+Lebanon,2002,Developing,total_expenditure,-7.800000000000001,-6.160833561398561
+Lesotho,2014,Developing,total_expenditure,-5.51,-3.157735484157871
+Lesotho,2013,Developing,total_expenditure,10.079999999999998,5.9648181761058865
+Lesotho,2010,Developing,total_expenditure,-9.919999999999998,-4.436831090858166
+Lesotho,2009,Developing,total_expenditure,7.930000000000001,3.9465483811156714
+Liberia,2014,Developing,total_expenditure,-5.01,-2.884357282429921
+Liberia,2013,Developing,total_expenditure,7.85,4.646459107612649
+Liberia,2012,Developing,total_expenditure,-8.06,-4.884965212076587
+Liberia,2011,Developing,total_expenditure,10.040000000000001,5.860246057808768
+Liberia,2007,Developing,total_expenditure,-10.59,-6.108428212977372
+Liberia,2005,Developing,total_expenditure,6.5,4.235701405286706
+Liberia,2003,Developing,total_expenditure,-5.33,-4.273960203171359
+Luxembourg,2006,Developed,total_expenditure,0.9500000000000002,2.8168079248828306
+Malawi,2014,Developing,total_expenditure,4.680000000000001,2.41371226705775
+Malawi,2013,Developing,total_expenditure,-9.420000000000002,-5.563433768117511
+Malawi,2012,Developing,total_expenditure,10.64,6.346664095836107
+Malawi,2010,Developing,total_expenditure,-10.17,-4.549020875762847
+Malawi,2007,Developing,total_expenditure,7.61,4.546852980629918
+Maldives,2014,Developing,total_expenditure,5.73,2.9878064906864448
+Maldives,2004,Developing,total_expenditure,-3.63,-2.726401606431685
+Maldives,2000,Developing,total_expenditure,2.16,2.480679760507343
+Micronesia (Federated States of),2004,Developing,total_expenditure,-10.469999999999999,-7.9614576302035776
+Micronesia (Federated States of),2003,Developing,total_expenditure,8.049999999999999,6.388932433813834
+Netherlands,2013,Developed,total_expenditure,9.5,3.809820382154774
+Netherlands,2011,Developed,total_expenditure,-9.57,-3.2755825378785874
+Netherlands,2008,Developed,total_expenditure,8.280000000000001,2.066794855524917
+Netherlands,2004,Developed,total_expenditure,-1.08,-3.291073942965442
+New Zealand,2007,Developed,total_expenditure,6.6499999999999995,3.2003370728022964
+Papua New Guinea,2000,Developing,total_expenditure,-2.6999999999999997,-2.9516180702575125
+Paraguay,2013,Developing,total_expenditure,-8.32,-4.913122119981831
+Paraguay,2011,Developing,total_expenditure,8.09,4.741430359357239
+Portugal,2011,Developed,total_expenditure,-8.040000000000001,-2.7009559978573194
+Portugal,2008,Developed,total_expenditure,8.48,2.1103177795686108
+Republic of Moldova,2014,Developing,total_expenditure,-6.92,-3.92866201303069
+Republic of Moldova,2012,Developing,total_expenditure,10.37,6.184496186042714
+Republic of Moldova,2011,Developing,total_expenditure,-10.26,-5.7869122388917535
+Republic of Moldova,2010,Developing,total_expenditure,11.190000000000001,5.036474346493066
+Republic of Moldova,2007,Developing,total_expenditure,-9.530000000000001,-5.487845901701344
+Republic of Moldova,2005,Developing,total_expenditure,7.5200000000000005,4.92650672776522
+Rwanda,2006,Developing,total_expenditure,-7.29,-4.275233255696795
+Rwanda,2005,Developing,total_expenditure,5.63,3.646485100819739
+Saint Vincent and the Grenadines,2014,Developing,total_expenditure,4.700000000000001,2.4246473951268683
+Saint Vincent and the Grenadines,2013,Developing,total_expenditure,-3.420000000000001,-2.0162793237410797
+Sao Tome and Principe,2005,Developing,total_expenditure,-6.4399999999999995,-4.528044548509336
+Sao Tome and Principe,2004,Developing,total_expenditure,8.54,6.58801824872971
+Sao Tome and Principe,2002,Developing,total_expenditure,-9.91,-7.86445419939577
+Sao Tome and Principe,2000,Developing,total_expenditure,7.579999999999999,8.538921374240987
+Serbia,2014,Developing,total_expenditure,-6.760000000000001,-3.8411809884777464
+Serbia,2012,Developing,total_expenditure,8.77,5.223501165044837
+Serbia,2010,Developing,total_expenditure,-7.82,-3.49443689765885
+Serbia,2009,Developing,total_expenditure,8.0,3.9834170155125888
+Serbia,2008,Developing,total_expenditure,-8.4,-3.916762529000121
+Serbia,2006,Developing,total_expenditure,7.79,4.4870285774673775
+Serbia,2001,Developing,total_expenditure,-2.0100000000000007,-2.254078721927256
+Sierra Leone,2010,Developing,total_expenditure,-10.66,-4.768912854176021
+Sierra Leone,2009,Developing,total_expenditure,11.81,5.990124116259115
+Sierra Leone,2008,Developing,total_expenditure,-11.84,-5.6670405125374765
+Sierra Leone,2005,Developing,total_expenditure,10.57,6.992150093999991
+Sierra Leone,2000,Developing,total_expenditure,1.8000000000000007,2.0782873285988357
+Solomon Islands,2000,Developing,total_expenditure,-1.8800000000000008,-2.035057530910357
+Switzerland,2014,Developed,total_expenditure,9.7,2.302308382434307
+Switzerland,2009,Developed,total_expenditure,-0.6999999999999993,-2.2902428335961154
+Switzerland,2000,Developed,total_expenditure,8.63,5.370292646952384
+Uruguay,2003,Developing,total_expenditure,-5.07,-4.066759000957895
+Angola,2009,Developing,diphtheria,-71.0,-3.048653216326134
+Angola,2008,Developing,diphtheria,63.0,2.9301458018542155
+Armenia,2005,Developing,diphtheria,-78.0,-4.236685909694309
+Armenia,2004,Developing,diphtheria,82.0,3.239916705812275
+Australia,2000,Developed,diphtheria,-83.0,-3.0446165085272736
+Austria,2012,Developed,diphtheria,-3.0,-2.8787452423957407
+Austria,2007,Developed,diphtheria,2.0,2.828269284006943
+Belarus,2003,Developing,diphtheria,-94.0,-4.160693958664228
+Belarus,2002,Developing,diphtheria,94.0,3.667635069929487
+Benin,2012,Developing,diphtheria,-69.0,-3.313166357159596
+Benin,2011,Developing,diphtheria,67.0,3.0761974728524066
+Benin,2005,Developing,diphtheria,-67.0,-3.638798458886981
+Benin,2004,Developing,diphtheria,65.0,2.5901615352013287
+Bosnia and Herzegovina,2009,Developing,diphtheria,-80.0,-3.4230540586347566
+Bosnia and Herzegovina,2008,Developing,diphtheria,82.0,3.8105090132396735
+Bosnia and Herzegovina,2002,Developing,diphtheria,-79.0,-3.0923755793168253
+Bosnia and Herzegovina,2001,Developing,diphtheria,83.0,3.4175165822659404
+Burkina Faso,2012,Developing,diphtheria,-79.0,-3.7972849171858187
+Burkina Faso,2011,Developing,diphtheria,82.0,3.7803497998873437
+Burundi,2000,Developing,diphtheria,-73.0,-2.4560192751214127
+Côte d'Ivoire,2013,Developing,diphtheria,-68.0,-3.577885158621062
+Côte d'Ivoire,2012,Developing,diphtheria,74.0,3.609729051215395
+Cabo Verde,2011,Developing,diphtheria,-85.0,-4.059212774434955
+Cabo Verde,2010,Developing,diphtheria,90.0,3.940140294689159
+Cabo Verde,2001,Developing,diphtheria,-82.0,-3.1654534318170087
+Cambodia,2006,Developing,diphtheria,-74.0,-3.115589629946294
+Cambodia,2005,Developing,diphtheria,74.0,4.025031592370582
+Cameroon,2009,Developing,diphtheria,-76.0,-3.256653684275369
+Cameroon,2008,Developing,diphtheria,76.0,3.5324995780653183
+Cameroon,2005,Developing,diphtheria,-73.0,-3.9649188866000684
+Cameroon,2004,Developing,diphtheria,65.0,2.5901615352013287
+Chile,2012,Developing,diphtheria,-82.0,-3.9425204851936857
+Chile,2011,Developing,diphtheria,85.0,3.921180265294331
+Colombia,2014,Developing,diphtheria,-82.0,-4.034325601335261
+Colombia,2013,Developing,diphtheria,82.0,4.068755607822329
+Colombia,2001,Developing,diphtheria,-73.0,-2.806382340139757
+Colombia,2000,Developing,diphtheria,71.0,2.515002145174594
+Comoros,2003,Developing,diphtheria,-68.0,-3.0017805509511555
+Comoros,2002,Developing,diphtheria,81.0,3.159657391084388
+Comoros,2001,Developing,diphtheria,-82.0,-3.1654534318170087
+Congo,2013,Developing,diphtheria,76.0,3.7628899771645936
+Congo,2003,Developing,diphtheria,-62.0,-2.7343389953250616
+Costa Rica,2008,Developing,diphtheria,-77.0,-3.5567410188807425
+Costa Rica,2007,Developing,diphtheria,80.0,3.538402055400807
+Costa Rica,2004,Developing,diphtheria,-82.0,-3.02830964596391
+Costa Rica,2003,Developing,diphtheria,79.0,3.55053756188814
+Democratic Republic of the Congo,2014,Developing,diphtheria,-73.0,-3.590494265448058
+Democratic Republic of the Congo,2013,Developing,diphtheria,66.0,3.2531139260683672
+Democratic Republic of the Congo,2010,Developing,diphtheria,-68.0,-2.623917183887334
+Democratic Republic of the Congo,2009,Developing,diphtheria,66.0,2.6505596054828966
+Democratic Republic of the Congo,2007,Developing,diphtheria,-58.0,-2.518212206997913
+Democratic Republic of the Congo,2006,Developing,diphtheria,55.0,2.5141478841282754
+Democratic Republic of the Congo,2005,Developing,diphtheria,-56.0,-3.0409110080796533
+Denmark,2010,Developed,diphtheria,-82.0,-5.300003799714927
+Denmark,2009,Developed,diphtheria,80.0,5.461344443823281
+Denmark,2006,Developed,diphtheria,6.0,2.334901227395308
+El Salvador,2004,Developing,diphtheria,-80.0,-2.9518678611861517
+El Salvador,2003,Developing,diphtheria,85.0,3.8179791175142337
+Eritrea,2010,Developing,diphtheria,-87.0,-3.4132658680199497
+Eritrea,2009,Developing,diphtheria,83.0,3.3577611965102943
+Eritrea,2002,Developing,diphtheria,-84.0,-3.287751609641863
+Eritrea,2001,Developing,diphtheria,77.0,3.1781358544811056
+Ethiopia,2007,Developing,diphtheria,-49.0,-2.1232156246675618
+Fiji,2000,Developing,diphtheria,-82.0,-2.766708113889913
+Gabon,2013,Developing,diphtheria,72.0,3.558979556726103
+Gambia,2000,Developing,diphtheria,-79.0,-2.663145167633746
+Georgia,2000,Developing,diphtheria,-79.0,-2.663145167633746
+Germany,2002,Developed,diphtheria,-4.0,-2.3581055457094964
+Germany,2000,Developed,diphtheria,-84.0,-3.0853812483904
+Ghana,2013,Developing,diphtheria,-89.0,-4.648414865923137
+Ghana,2012,Developing,diphtheria,83.0,4.045435755238995
+Ghana,2004,Developing,diphtheria,-76.0,-2.798984291630635
+Ghana,2002,Developing,diphtheria,70.0,2.729830124369305
+Guinea,2008,Developing,diphtheria,-51.0,-2.352033466458536
+Guinea,2007,Developing,diphtheria,57.0,2.5289663450010202
+Guinea,2003,Developing,diphtheria,51.0,2.3024769689663698
+Guinea-Bissau,2009,Developing,diphtheria,-75.0,-3.215053590685522
+Guinea-Bissau,2008,Developing,diphtheria,69.0,3.20815523702857
+Guinea-Bissau,2003,Developing,diphtheria,-58.0,-2.556044624907666
+Guyana,2003,Developing,diphtheria,-82.0,-3.625810847412041
+Guyana,2002,Developing,diphtheria,82.0,3.198732597149396
+Haiti,2014,Developing,diphtheria,42.0,2.08068391533287
+Haiti,2006,Developing,diphtheria,-57.0,-2.3736862366186378
+Iceland,2014,Developed,diphtheria,-83.0,-5.44416388939068
+Iceland,2013,Developed,diphtheria,82.0,5.448213633346533
+Iceland,2011,Developed,diphtheria,6.0,3.8307950010449408
+Iceland,2001,Developed,diphtheria,-3.0,-2.795457625029099
+India,2008,Developing,diphtheria,-67.0,-3.093391960256817
+India,2007,Developing,diphtheria,57.0,2.5289663450010202
+Indonesia,2002,Developing,diphtheria,-64.0,-2.506247488341711
+Indonesia,2001,Developing,diphtheria,69.0,2.858961550767993
+Iraq,2000,Developing,diphtheria,-70.0,-2.352456328865246
+Ireland,2005,Developed,diphtheria,-82.0,-5.433951584317452
+Ireland,2004,Developed,diphtheria,80.0,5.453378772988224
+Israel,2002,Developing,diphtheria,-84.0,-3.287751609641863
+Israel,2001,Developing,diphtheria,83.0,3.4175165822659404
+Jamaica,2009,Developing,diphtheria,-85.0,-3.6310545265839913
+Jamaica,2008,Developing,diphtheria,82.0,3.8105090132396735
+Kenya,2010,Developing,diphtheria,-87.0,-3.4132658680199497
+Kenya,2009,Developing,diphtheria,79.0,3.1913608221509064
+Kenya,2006,Developing,diphtheria,-73.0,-3.0719482538681966
+Kenya,2005,Developing,diphtheria,68.0,3.6989111646574946
+Kenya,2001,Developing,diphtheria,-76.0,-2.9260727040321743
+Kenya,2000,Developing,diphtheria,74.0,2.618565091430761
+Kiribati,2003,Developing,diphtheria,-55.0,-2.422323847094619
+Kiribati,2002,Developing,diphtheria,70.0,2.729830124369305
+Kiribati,2000,Developing,diphtheria,-76.0,-2.5595822213775796
+Lao People's Democratic Republic,2007,Developing,diphtheria,-56.0,-2.4304351887022797
+Lao People's Democratic Republic,2006,Developing,diphtheria,52.0,2.383223755893983
+Latvia,2012,Developed,diphtheria,-3.0,-2.8787452423957407
+Lebanon,2007,Developing,diphtheria,-73.0,-3.1765398442151653
+Lebanon,2006,Developing,diphtheria,70.0,3.168768525299737
+Lebanon,2001,Developing,diphtheria,-69.0,-2.6467951882832006
+Lebanon,2000,Developing,diphtheria,75.0,2.6530860735161497
+Lesotho,2004,Developing,diphtheria,-80.0,-2.9518678611861517
+Lesotho,2002,Developing,diphtheria,75.0,2.9252061546943424
+Liberia,2014,Developing,diphtheria,-47.0,-2.3083148506628044
+Liberia,2013,Developing,diphtheria,71.0,3.5080019516164804
+Liberia,2012,Developing,diphtheria,-68.0,-3.2647545011569736
+Liberia,2011,Developing,diphtheria,69.0,3.1700844497903984
+Liberia,2010,Developing,diphtheria,-70.0,-2.707006519059188
+Liberia,2009,Developing,diphtheria,74.0,2.983360354201672
+Liberia,2006,Developing,diphtheria,-59.0,-2.4609689887748325
+Madagascar,2012,Developing,diphtheria,-67.0,-3.2163426451543513
+Madagascar,2011,Developing,diphtheria,66.0,3.029253984383411
+Madagascar,2010,Developing,diphtheria,-66.0,-2.5408278487154794
+Madagascar,2009,Developing,diphtheria,70.0,2.8169599798422844
+Madagascar,2001,Developing,diphtheria,-56.0,-2.1281369447493925
+Malawi,2001,Developing,diphtheria,-55.0,-2.088240156785253
+Malawi,2000,Developing,diphtheria,66.0,2.3423972347476494
+Malta,2007,Developed,diphtheria,2.0,2.828269284006943
+Malta,2006,Developed,diphtheria,11.0,4.4455464047018
+Mauritania,2013,Developing,diphtheria,-76.0,-3.985705999498043
+Mauritania,2011,Developing,diphtheria,67.0,3.0761974728524066
+Mauritania,2004,Developing,diphtheria,-64.0,-2.3403335829640852
+Mauritania,2003,Developing,diphtheria,69.0,3.1048016358446504
+Montenegro,2006,Developing,diphtheria,-83.0,-3.508362014649171
+Montenegro,2005,Developing,diphtheria,84.0,4.568565638559062
+Mozambique,2014,Developing,diphtheria,71.0,3.5108071087471906
+Mozambique,2005,Developing,diphtheria,-70.0,-3.8018586727435246
+Mozambique,2004,Developing,diphtheria,75.0,2.9723704590901208
+Mozambique,2000,Developing,diphtheria,-66.0,-2.21437240052369
+Myanmar,2010,Developing,diphtheria,-75.0,-2.914729856988824
+Myanmar,2008,Developing,diphtheria,76.0,3.5324995780653183
+Nepal,2012,Developing,diphtheria,-83.0,-3.990932341196308
+Nepal,2011,Developing,diphtheria,83.0,3.8272932883563398
+Nepal,2004,Developing,diphtheria,-67.0,-2.4549962601307227
+Nepal,2003,Developing,diphtheria,70.0,3.1493752284489993
+New Zealand,2008,Developed,diphtheria,-3.0,-2.8787452423957407
+New Zealand,2003,Developed,diphtheria,-80.0,-5.446592467996558
+Niger,2010,Developing,diphtheria,-68.0,-2.623917183887334
+Niger,2009,Developing,diphtheria,64.0,2.567359418303203
+Norway,2000,Developed,diphtheria,-82.0,-3.0038517686641466
+Panama,2014,Developing,diphtheria,-65.0,-3.1959775224372104
+Panama,2012,Developing,diphtheria,77.0,3.7549646192232613
+Peru,2014,Developing,diphtheria,79.0,3.905323851758038
+Peru,2001,Developing,diphtheria,-86.0,-3.325040583673565
+Peru,2000,Developing,diphtheria,89.0,3.1363798227115947
+Philippines,2014,Developing,diphtheria,61.0,3.0176611799836324
+Qatar,2000,Developing,diphtheria,-85.0,-2.87027106014608
+Republic of Moldova,2014,Developing,diphtheria,-78.0,-3.837067229829837
+Republic of Moldova,2012,Developing,diphtheria,83.0,4.045435755238995
+Republic of Moldova,2010,Developing,diphtheria,-84.0,-3.288631865262168
+Republic of Moldova,2009,Developing,diphtheria,76.0,3.066560541381366
+Republic of Moldova,2008,Developing,diphtheria,-76.0,-3.51040611301835
+Republic of Moldova,2007,Developing,diphtheria,83.0,3.6700675828442573
+Rwanda,2000,Developing,diphtheria,-68.0,-2.283414364694468
+Saint Lucia,2003,Developing,diphtheria,-82.0,-3.625810847412041
+Saint Lucia,2002,Developing,diphtheria,65.0,2.534454094044267
+Saint Lucia,2000,Developing,diphtheria,-92.0,-3.1119179347438024
+Senegal,2002,Developing,diphtheria,-67.0,-2.6234731065367343
+Singapore,2001,Developed,diphtheria,2.0,2.2871926022965354
+Solomon Islands,2010,Developing,diphtheria,-90.0,-3.537899870777731
+Solomon Islands,2009,Developing,diphtheria,83.0,3.3577611965102943
+Solomon Islands,2007,Developing,diphtheria,-80.0,-3.4837594082498833
+Solomon Islands,2006,Developing,diphtheria,90.0,4.041596046861686
+Solomon Islands,2004,Developing,diphtheria,-80.0,-2.9518678611861517
+Solomon Islands,2003,Developing,diphtheria,75.0,3.3722431914707443
+South Africa,2002,Developing,diphtheria,-62.0,-2.4280970762116962
+South Africa,2001,Developing,diphtheria,64.0,2.6594776109472975
+Sudan,2010,Developing,diphtheria,-84.0,-3.288631865262168
+Sudan,2009,Developing,diphtheria,72.0,2.900160167021978
+Sudan,2002,Developing,diphtheria,-63.0,-2.467172282276704
+Sudan,2001,Developing,diphtheria,60.0,2.4998904590907416
+Swaziland,2014,Developing,diphtheria,89.0,4.398469780521597
+Syrian Arab Republic,2010,Developing,diphtheria,-64.0,-2.4577385135436254
+Syrian Arab Republic,2008,Developing,diphtheria,71.0,3.3008250487533553
+Syrian Arab Republic,2007,Developing,diphtheria,-71.0,-3.088762825919532
+Syrian Arab Republic,2004,Developing,diphtheria,73.0,2.895928674312362
+Timor-Leste,2007,Developing,diphtheria,-72.0,-3.1326513350673486
+Timor-Leste,2006,Developing,diphtheria,56.0,2.557789260206373
+Togo,2001,Developing,diphtheria,-54.0,-2.048343368821114
+Togo,2000,Developing,diphtheria,59.0,2.1007503601499264
+Tonga,2014,Developing,diphtheria,-70.0,-3.4425504868189902
+Tonga,2013,Developing,diphtheria,74.0,3.6609347669453483
+Tonga,2004,Developing,diphtheria,-80.0,-2.9518678611861517
+Tonga,2002,Developing,diphtheria,75.0,2.9252061546943424
+Trinidad and Tobago,2011,Developing,diphtheria,-83.0,-3.965325797496963
+Trinidad and Tobago,2007,Developing,diphtheria,79.0,3.4945135462529904
+Trinidad and Tobago,2000,Developing,diphtheria,-82.0,-2.766708113889913
+Turkey,2006,Developing,diphtheria,-87.0,-3.6829275189615607
+Turkey,2004,Developing,diphtheria,76.0,3.010591351479
+Uganda,2010,Developing,diphtheria,-74.0,-2.873185189402897
+Uganda,2009,Developing,diphtheria,71.0,2.8585600734321313
+Ukraine,2013,Developing,diphtheria,53.0,2.590405059643273
+Ukraine,2011,Developing,diphtheria,-71.0,-3.4020039358690135
+Ukraine,2010,Developing,diphtheria,47.0,2.1537195884942903
+Ukraine,2008,Developing,diphtheria,-62.0,-2.861717430944854
+Ukraine,2007,Developing,diphtheria,89.0,3.9333986377311585
+United Republic of Tanzania,2011,Developing,diphtheria,-83.0,-3.965325797496963
+United Republic of Tanzania,2010,Developing,diphtheria,82.0,3.6077829540017414
+United Republic of Tanzania,2006,Developing,diphtheria,-74.0,-3.115589629946294
+United Republic of Tanzania,2004,Developing,diphtheria,86.0,3.3928002753677915
+Uruguay,2000,Developing,diphtheria,-85.0,-2.87027106014608
+Vanuatu,2002,Developing,diphtheria,-62.0,-2.4280970762116962
+Vanuatu,2000,Developing,diphtheria,64.0,2.2733552705768716
+Venezuela (Bolivarian Republic of),2008,Developing,diphtheria,-79.0,-3.649410830605528
+Venezuela (Bolivarian Republic of),2007,Developing,diphtheria,57.0,2.5289663450010202
+Venezuela (Bolivarian Republic of),2001,Developing,diphtheria,-58.0,-2.2079305206776705
+Venezuela (Bolivarian Republic of),2000,Developing,diphtheria,70.0,2.480481163089205
+Zambia,2014,Developing,diphtheria,77.0,3.8066946660053262
+Zambia,2007,Developing,diphtheria,-79.0,-3.439870899102066
+Zambia,2006,Developing,diphtheria,73.0,3.2996926535340294
+Zimbabwe,2006,Developing,diphtheria,-66.0,-2.7664586213215148
+Zimbabwe,2005,Developing,diphtheria,61.0,3.318437332325559
+Albania,2012,Developing,gdp_per_capita,1429.04,3.244457318317564
+Albania,2011,Developing,gdp_per_capita,-1429.25,-4.045654740217649
+Belgium,2014,Developed,gdp_per_capita,419.59000000000003,2.7670431088277785
+Canada,2005,Developing,gdp_per_capita,1106.53,3.6185433202558337
+Croatia,2006,Developed,gdp_per_capita,22539.469999999998,3.4680478417919987
+Croatia,2005,Developed,gdp_per_capita,-25317.67,-5.147859519257963
+Croatia,2001,Developed,gdp_per_capita,10341.68,5.448806786130282
+Croatia,2000,Developed,gdp_per_capita,-10702.48,-3.861849413425783
+Cyprus,2004,Developed,gdp_per_capita,20776.629999999997,5.104996239869998
+Cyprus,2003,Developed,gdp_per_capita,-20972.699999999997,-5.458139911116119
+Georgia,2008,Developing,gdp_per_capita,73766.5,11.535745127141526
+Georgia,2007,Developing,gdp_per_capita,-68665.64,-11.185979353074533
+Georgia,2006,Developing,gdp_per_capita,-4717.610000000001,-4.154412559999622
+Hungary,2010,Developed,gdp_per_capita,10776.550000000001,5.203427093113241
+Hungary,2009,Developed,gdp_per_capita,-9719.45,-5.136597832352411
+Iceland,2012,Developed,gdp_per_capita,1340.34,3.271751046582997
+Iceland,2011,Developed,gdp_per_capita,-1353.6599999999999,-4.962651240103413
+Israel,2011,Developing,gdp_per_capita,-3681.52,-10.575755574942491
+Israel,2004,Developing,gdp_per_capita,28488.53,11.021770250374908
+Israel,2003,Developing,gdp_per_capita,-28582.04,-3.7488646206683605
+Israel,2002,Developing,gdp_per_capita,27770.28,3.313908988763053
+Israel,2001,Developing,gdp_per_capita,-28016.829999999998,-12.182753349137224
+Japan,2008,Developed,gdp_per_capita,2680.41,3.903271826170187
+Japan,2007,Developed,gdp_per_capita,24478.93,5.409658383987294
+Japan,2006,Developed,gdp_per_capita,-27260.12,-4.2616827322582
+Lithuania,2014,Developed,gdp_per_capita,-477.63,-3.219921495201933
+Luxembourg,2013,Developed,gdp_per_capita,1879.2699999999998,5.2719822573857185
+Luxembourg,2012,Developed,gdp_per_capita,-1783.0099999999998,-4.374625887691843
+Luxembourg,2008,Developed,gdp_per_capita,2312.4599999999996,3.336464829355814
+Luxembourg,2002,Developed,gdp_per_capita,-1437.24,-5.099270924442161
+Luxembourg,2000,Developed,gdp_per_capita,11061.17,3.978271534156434
+Maldives,2014,Developing,gdp_per_capita,188030.24000000002,12.203577313125583
+Maldives,2013,Developing,gdp_per_capita,-170103.46000000002,-12.198814609429203
+Maldives,2012,Developing,gdp_per_capita,-1106.0,-2.434350748564483
+Maldives,2010,Developing,gdp_per_capita,-15507.93,-12.068759543616867
+Maldives,2009,Developing,gdp_per_capita,14860.98,12.07324861812037
+Maldives,2007,Developing,gdp_per_capita,-15949.69,-2.5039706669564605
+Maldives,2006,Developing,gdp_per_capita,13147.400000000001,11.418730408882965
+Maldives,2005,Developing,gdp_per_capita,-2431.290000000001,-7.865865495976645
+Maldives,2003,Developing,gdp_per_capita,88598.04000000001,11.459522063223067
+Maldives,2002,Developing,gdp_per_capita,-100839.47,-11.766308323886653
+Maldives,2000,Developing,gdp_per_capita,6610.0,12.0433536763203
+Montenegro,2012,Developing,gdp_per_capita,936.35,2.140769823653924
+Netherlands,2014,Developed,gdp_per_capita,306.64,2.0133509797789877
+Seychelles,2012,Developing,gdp_per_capita,1279.83,2.910208173665223
+Seychelles,2011,Developing,gdp_per_capita,-1314.82,-3.7138830438768173
+Seychelles,2005,Developing,gdp_per_capita,-1421.07,-4.586507169568184
+Sri Lanka,2005,Developing,gdp_per_capita,-677.1600000000001,-2.17163966288794
+Tonga,2008,Developing,gdp_per_capita,25102.97,3.8542324674362765
+Tonga,2007,Developing,gdp_per_capita,-24893.420000000002,-3.9769506957009826
+Tonga,2005,Developing,gdp_per_capita,2026.6399999999999,6.6053881557487815
+Tonga,2004,Developing,gdp_per_capita,13372.33,5.11198236151547
+Tonga,2003,Developing,gdp_per_capita,-15644.130000000001,-2.06969920141463
+Uruguay,2012,Developing,gdp_per_capita,-4843.509999999999,-10.806842676917613
+Vanuatu,2005,Developing,gdp_per_capita,641.14,2.1078025197101775
+Australia,2013,Developed,population,20770659.0,3.3746509362375825
+Australia,2011,Developed,population,-22504830.0,-2.3756046340753487
+Bangladesh,2012,Developing,population,-141998539.0,-4.75086927261794
+Bangladesh,2011,Developing,population,138339163.0,4.118589712329728
+Bangladesh,2010,Developing,population,-138697004.0,-3.9733436402730633
+Bangladesh,2006,Developing,population,-145685507.0,-5.689890138551557
+Bangladesh,2000,Developing,population,130239527.0,4.2671005699500295
+Brazil,2011,Developing,population,198429705.0,5.893549942378558
+Brazil,2008,Developing,population,-175598067.0,-6.364854718324245
+Brazil,2005,Developing,population,168004949.0,7.3353335510072775
+Brazil,2002,Developing,population,-180667028.0,-6.7301838181721205
+Brazil,2000,Developing,population,173510020.0,5.678596290612684
+Ethiopia,2011,Developing,population,-91497427.0,-2.670345668882817
+Ethiopia,2009,Developing,population,84538986.0,3.0513494672816144
+Ethiopia,2002,Developing,population,-65047952.0,-2.343623660050196
+Ethiopia,2001,Developing,population,60995065.0,2.424798223769134
+France,2006,Developing,population,57205147.0,2.4409712276895643
+France,2004,Developing,population,-56904459.0,-2.5557309611639387
+France,2002,Developing,population,-56059617.0,-2.0026083746585983
+France,2001,Developing,population,55172164.0,2.1781304635031953
+Germany,2014,Developed,population,-81596786.0,-4.270987474224013
+Germany,2007,Developed,population,81445175.0,4.376470596564554
+Germany,2004,Developed,population,-74217796.0,-5.391143625919582
+Germany,2003,Developed,population,74282550.0,4.161981246692732
+Germany,2000,Developed,population,-74128767.0,-4.76829144851058
+Hungary,2010,Developed,population,-9971604.0,-2.444926905390818
+India,2014,Developing,population,1292463896.0,11.784887180477412
+India,2013,Developing,population,-1166003067.0,-11.663254911029995
+India,2010,Developing,population,-112324938.0,-3.2205708628966767
+India,2009,Developing,population,109028441.0,3.9133749278062964
+India,2007,Developing,population,1059966543.0,11.931693084900706
+India,2003,Developing,population,-1114307929.0,-11.78701722019954
+India,2001,Developing,population,152490743.0,6.300707150655146
+India,2000,Developing,population,-169941943.0,-5.524903887388251
+Indonesia,2013,Developing,population,-229898853.0,-2.2331829530961724
+Indonesia,2012,Developing,population,223650969.0,7.524343407453208
+Indonesia,2011,Developing,population,-224305721.0,-6.593249876846735
+Indonesia,2010,Developing,population,217946612.0,6.206807029374043
+Indonesia,2009,Developing,population,-218589645.0,-7.618736810097424
+Indonesia,2008,Developing,population,212224798.0,7.698850555615165
+Indonesia,2006,Developing,population,-210005319.0,-8.267512439846382
+Indonesia,2004,Developing,population,200943376.0,9.182069790316916
+Indonesia,2003,Developing,population,-201069435.0,-2.0725227124157177
+Italy,2012,Developed,population,53305769.0,4.754166280740073
+Italy,2009,Developed,population,-53282052.0,-5.075201742393023
+Italy,2008,Developed,population,52831366.0,3.707349284661238
+Italy,2007,Developed,population,-52982900.0,-2.7797272627222744
+Italy,2006,Developed,population,52300148.0,3.6156836834545305
+Italy,2003,Developed,population,-51954004.0,-2.865208986248624
+Mexico,2012,Developing,population,-121253132.0,-4.054425608704582
+Mexico,2010,Developing,population,117199024.0,3.331035308162213
+Mexico,2009,Developing,population,-105763713.0,-3.6472794627850202
+Mexico,2006,Developing,population,-110643968.0,-4.285597283993892
+Myanmar,2004,Developing,population,-47995237.0,-2.1501635741555902
+Netherlands,2010,Developed,population,14946020.0,3.6992713225537317
+Netherlands,2005,Developed,population,14685257.0,2.997142558337636
+Netherlands,2002,Developed,population,14526397.0,2.974246757167531
+Nigeria,2012,Developing,population,150114351.0,5.055647002908482
+Nigeria,2011,Developing,population,-151009508.0,-4.428219262075645
+Nigeria,2010,Developing,population,142290485.0,4.047254082428943
+Nigeria,2009,Developing,population,-143136080.0,-4.9627816605298225
+Nigeria,2005,Developing,population,124677984.0,5.415643685239734
+Nigeria,2002,Developing,population,-119105862.0,-4.394567867884384
+Nigeria,2001,Developing,population,112596763.0,4.610731879790308
+Nigeria,2000,Developing,population,-124239905.0,-4.034090481066257
+Pakistan,2010,Developing,population,-172428083.0,-4.936174463718308
+Pakistan,2002,Developing,population,143176802.0,5.556373826793056
+Pakistan,2001,Developing,population,-130492706.0,-5.686941884964795
+Pakistan,2000,Developing,population,124361848.0,4.075369018476171
+Philippines,2012,Developing,population,87018510.0,2.937457724494484
+Philippines,2011,Developing,population,-87338848.0,-2.54750916095922
+Philippines,2010,Developing,population,84198830.0,2.389067102435002
+Philippines,2009,Developing,population,-84503745.0,-2.898931502165235
+Philippines,2005,Developing,population,77484818.0,3.3246538708438846
+Philippines,2001,Developing,population,78851789.0,3.181238718767594
+Poland,2008,Developed,population,34310596.0,2.3574450338637982
+Poland,2006,Developed,population,37760011.0,2.5423934887745574
+Poland,2003,Developed,population,-37799765.0,-2.0772872084130407
+Poland,2000,Developed,population,34433753.0,2.226062936303566
+Romania,2013,Developed,population,17984714.0,2.9014799107452154
+Romania,2012,Developed,population,-19957858.0,-2.06742265400668
+Romania,2005,Developed,population,19200309.0,4.021880382828228
+Romania,2002,Developed,population,-19400830.0,-3.814454965637005
+Russian Federation,2010,Developing,population,128552581.0,3.655114909509757
+Russian Federation,2008,Developing,population,-128511107.0,-4.657330001632324
+Russian Federation,2005,Developing,population,129168995.0,5.614627119776414
+Russian Federation,2004,Developing,population,-142071769.0,-6.432734292681548
+Russian Federation,2002,Developing,population,-143194611.0,-5.308489257659193
+Russian Federation,2000,Developing,population,131998874.0,4.32449096671904
+Spain,2014,Developed,population,-41798815.0,-2.0030404111678606
+Spain,2011,Developed,population,42065342.0,4.440046269348978
+Spain,2008,Developed,population,-41767530.0,-3.187582828374284
+Spain,2006,Developed,population,39874636.0,2.6984859848717497
+Spain,2001,Developed,population,-40946146.0,-4.949189940219537
+Thailand,2012,Developing,population,61029614.0,2.064984991069528
+Thailand,2009,Developing,population,66208979.0,2.4061357324069244
+Thailand,2008,Developing,population,-60227291.0,-2.18113906532972
+Thailand,2005,Developing,population,-59281617.0,-2.735062964772354
+Thailand,2002,Developing,population,-58081788.0,-2.079329059932969
+Thailand,2001,Developing,population,57070158.0,2.258532642585098
+Turkey,2008,Developing,population,-71264753.0,-2.5813929609846493
+Turkey,2006,Developing,population,-62720936.0,-2.3650774287918037
+Turkey,2001,Developing,population,57677120.0,2.2842445612844773
+Afghanistan,2001,Developing,thinness_1_19_years,-17.799999999999997,-7.647496282772252
+Angola,2005,Developing,thinness_1_19_years,-8.8,-5.88873226974881
+Austria,2014,Developed,thinness_1_19_years,-0.09999999999999987,-2.4197415917963574
+Austria,2011,Developed,thinness_1_19_years,-0.10000000000000009,-2.1080674592380615
+Bangladesh,2004,Developing,thinness_1_19_years,-17.799999999999997,-9.217388090864562
+Belgium,2012,Developed,thinness_1_19_years,-0.09999999999999998,-2.273030282830976
+Belgium,2008,Developed,thinness_1_19_years,-0.09999999999999998,-2.34938759957212
+Botswana,2005,Developing,thinness_1_19_years,-8.6,-5.754554123871025
+Botswana,2002,Developing,thinness_1_19_years,9.5,5.577950110559705
+Burkina Faso,2006,Developing,thinness_1_19_years,-8.8,-4.993166143211107
+Burkina Faso,2002,Developing,thinness_1_19_years,9.3,5.456925544614664
+Cambodia,2013,Developing,thinness_1_19_years,9.1,7.033663772160865
+Central African Republic,2003,Developing,thinness_1_19_years,-8.9,-8.739061106758378
+Chad,2007,Developing,thinness_1_19_years,-8.8,-6.953869813348605
+Chad,2002,Developing,thinness_1_19_years,9.2,5.3964132616421425
+Croatia,2009,Developed,thinness_1_19_years,0.09999999999999987,2.651650429449555
+Cyprus,2014,Developed,thinness_1_19_years,-0.09999999999999998,-2.41974159179636
+Czechia,2005,Developed,thinness_1_19_years,0.10000000000000009,2.2871926022965403
+Czechia,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Democratic Republic of the Congo,2012,Developing,thinness_1_19_years,-8.9,-8.553905267587163
+Democratic Republic of the Congo,2007,Developing,thinness_1_19_years,9.299999999999999,7.109783869397488
+Denmark,2001,Developed,thinness_1_19_years,0.10000000000000009,2.2871926022965416
+Equatorial Guinea,2004,Developing,thinness_1_19_years,-8.8,-4.5037736353669375
+Eritrea,2001,Developing,thinness_1_19_years,-8.9,-3.7684737296801107
+Ethiopia,2010,Developing,thinness_1_19_years,9.1,8.828810669475224
+Gambia,2001,Developing,thinness_1_19_years,-8.8,-3.72488920661166
+Guinea,2001,Developing,thinness_1_19_years,-8.8,-3.72488920661166
+Guinea-Bissau,2001,Developing,thinness_1_19_years,-8.8,-3.72488920661166
+Hungary,2014,Developed,thinness_1_19_years,0.09999999999999987,2.5758539525574133
+Iceland,2011,Developed,thinness_1_19_years,-0.09999999999999998,-2.1080674592380593
+Indonesia,2002,Developing,thinness_1_19_years,9.1,5.335900978669622
+Japan,2014,Developed,thinness_1_19_years,-0.10000000000000009,-2.419741591796363
+Japan,2012,Developed,thinness_1_19_years,-0.10000000000000009,-2.273030282830978
+Japan,2009,Developed,thinness_1_19_years,-0.09999999999999987,-3.0052038200428286
+Japan,2006,Developed,thinness_1_19_years,-0.10000000000000009,-2.5216111372042946
+Japan,2000,Developed,thinness_1_19_years,-0.09999999999999987,-2.204790408693908
+Lao People's Democratic Republic,2005,Developing,thinness_1_19_years,-8.9,-5.955821342687701
+Latvia,2009,Developed,thinness_1_19_years,0.09999999999999964,2.651650429449549
+Latvia,2005,Developed,thinness_1_19_years,0.10000000000000009,2.2871926022965403
+Latvia,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Latvia,2001,Developed,thinness_1_19_years,0.09999999999999964,2.287192602296529
+Lesotho,2003,Developing,thinness_1_19_years,-8.5,-8.345474281877156
+Lesotho,2001,Developing,thinness_1_19_years,9.5,4.251078514914879
+Lithuania,2013,Developed,thinness_1_19_years,0.10000000000000009,2.108067459238061
+Lithuania,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Luxembourg,2005,Developed,thinness_1_19_years,0.09999999999999998,2.287192602296537
+Mali,2004,Developing,thinness_1_19_years,-8.8,-4.5037736353669375
+Mali,2000,Developing,thinness_1_19_years,9.2,8.455965372480293
+Malta,2008,Developed,thinness_1_19_years,-0.10000000000000009,-2.3493875995721227
+Mauritania,2004,Developing,thinness_1_19_years,-8.8,-4.5037736353669375
+Namibia,2010,Developing,thinness_1_19_years,-8.5,-8.387013848242404
+Namibia,2008,Developing,thinness_1_19_years,9.6,12.080965483895326
+Netherlands,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Niger,2013,Developing,thinness_1_19_years,-8.8,-6.981293699106073
+Niger,2009,Developing,thinness_1_19_years,9.3,12.05281039937676
+Nigeria,2014,Developing,thinness_1_19_years,-8.700000000000001,-12.072084562311678
+Nigeria,2011,Developing,thinness_1_19_years,9.3,5.648172297801352
+Norway,2012,Developed,thinness_1_19_years,-0.10000000000000009,-2.273030282830978
+Pakistan,2011,Developing,thinness_1_19_years,-17.8,-10.829253994230381
+Pakistan,2006,Developing,thinness_1_19_years,18.2,10.167050095895002
+Poland,2013,Developed,thinness_1_19_years,0.10000000000000009,2.108067459238061
+Romania,2014,Developed,thinness_1_19_years,0.10000000000000009,2.5758539525574187
+Romania,2013,Developed,thinness_1_19_years,0.10000000000000009,2.108067459238061
+Romania,2012,Developed,thinness_1_19_years,0.09999999999999964,2.2730302828309688
+Romania,2005,Developed,thinness_1_19_years,0.09999999999999964,2.2871926022965283
+Romania,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Romania,2002,Developed,thinness_1_19_years,0.20000000000000018,2.935434604243379
+Romania,2001,Developed,thinness_1_19_years,0.09999999999999964,2.287192602296529
+Romania,2000,Developed,thinness_1_19_years,0.20000000000000018,2.9576456701991503
+Senegal,2012,Developing,thinness_1_19_years,-8.9,-8.553905267587163
+Senegal,2007,Developing,thinness_1_19_years,9.2,7.0320841252939195
+Sierra Leone,2001,Developing,thinness_1_19_years,-8.8,-3.72488920661166
+Singapore,2011,Developed,thinness_1_19_years,-0.10000000000000009,-2.1080674592380615
+Slovakia,2003,Developed,thinness_1_19_years,0.10000000000000009,2.0488818088573746
+Slovenia,2012,Developed,thinness_1_19_years,0.10000000000000009,2.273030282830979
+Slovenia,2009,Developed,thinness_1_19_years,0.09999999999999987,2.651650429449555
+Slovenia,2005,Developed,thinness_1_19_years,0.09999999999999987,2.287192602296534
+Slovenia,2001,Developed,thinness_1_19_years,0.10000000000000009,2.2871926022965416
+South Africa,2006,Developing,thinness_1_19_years,-8.1,-4.600123499975022
+South Africa,2005,Developing,thinness_1_19_years,10.0,6.724013442762825
+Sweden,2010,Developed,thinness_1_19_years,-0.09999999999999987,-2.581552987863258
+Switzerland,2012,Developed,thinness_1_19_years,0.09999999999999998,2.2730302828309763
+Switzerland,2001,Developed,thinness_1_19_years,0.09999999999999998,2.2871926022965385
+Timor-Leste,2013,Developing,thinness_1_19_years,9.2,7.111959623955651
+United Kingdom of Great Britain and Northern Ireland,2007,Developed,thinness_1_19_years,-0.10000000000000009,-2.5815529878632613
+Zimbabwe,2002,Developing,thinness_1_19_years,-8.600000000000001,-5.37477310746654
+Zimbabwe,2000,Developing,thinness_1_19_years,9.4,8.64433311921549
+Afghanistan,2009,Developing,income_composition_of_resources,-0.014000000000000012,-2.0109816981440685
+Afghanistan,2007,Developing,income_composition_of_resources,-0.018000000000000016,-2.1132089783066994
+Afghanistan,2002,Developing,income_composition_of_resources,-0.03199999999999997,-4.630051649088295
+Angola,2012,Developing,income_composition_of_resources,-0.015000000000000013,-2.127060718880586
+Antigua and Barbuda,2005,Developing,income_composition_of_resources,-0.773,-5.217116396312854
+Austria,2002,Developed,income_composition_of_resources,0.010000000000000009,3.1308762654802456
+Azerbaijan,2006,Developing,income_composition_of_resources,-0.025999999999999912,-3.6393918589587413
+Bahamas,2000,Developing,income_composition_of_resources,-0.779,-4.208950547308085
+Belgium,2004,Developed,income_composition_of_resources,0.019000000000000017,4.0374194493811695
+Bhutan,2010,Developing,income_composition_of_resources,-0.572,-5.617179765078177
+Bosnia and Herzegovina,2005,Developing,income_composition_of_resources,-0.697,-4.676251073590386
+Botswana,2006,Developing,income_composition_of_resources,-0.020000000000000018,-2.519769100311347
+Burkina Faso,2005,Developing,income_composition_of_resources,-0.325,-2.0288576518435693
+Burundi,2009,Developing,income_composition_of_resources,-0.024999999999999967,-4.258788293445065
+Burundi,2008,Developing,income_composition_of_resources,-0.017000000000000015,-2.118120925654407
+Burundi,2006,Developing,income_composition_of_resources,-0.019000000000000017,-2.333165307203444
+Cabo Verde,2000,Developing,income_composition_of_resources,-0.562,-2.9437826934277265
+Cambodia,2002,Developing,income_composition_of_resources,-0.018000000000000016,-2.306231804317964
+Cambodia,2001,Developing,income_composition_of_resources,-0.015000000000000013,-2.2495556747886827
+Cameroon,2001,Developing,income_composition_of_resources,-0.015000000000000013,-2.2495556747886827
+Central African Republic,2013,Developing,income_composition_of_resources,0.025000000000000022,4.13240036444744
+Chad,2009,Developing,income_composition_of_resources,-0.01699999999999996,-2.624019860498877
+Chad,2007,Developing,income_composition_of_resources,-0.03200000000000003,-4.7226270741830785
+Chad,2002,Developing,income_composition_of_resources,0.019000000000000017,3.8352920711465064
+Comoros,2004,Developing,income_composition_of_resources,-0.434,-6.526298349096531
+Congo,2012,Developing,income_composition_of_resources,-0.018999999999999906,-2.9957183755430856
+Congo,2008,Developing,income_composition_of_resources,-0.018000000000000016,-2.3084996517102496
+Cuba,2012,Developing,income_composition_of_resources,0.0050000000000000044,2.216227564432034
+Cuba,2006,Developing,income_composition_of_resources,-0.02200000000000002,-2.892976686527152
+Cyprus,2010,Developed,income_composition_of_resources,0.006000000000000005,2.056955125639746
+Denmark,2014,Developed,income_composition_of_resources,0.0030000000000000027,2.248840309087223
+Denmark,2011,Developed,income_composition_of_resources,-0.01200000000000001,-2.0481439051522283
+Equatorial Guinea,2006,Developing,income_composition_of_resources,-0.018000000000000016,-2.146561514095542
+Equatorial Guinea,2001,Developing,income_composition_of_resources,-0.015000000000000013,-2.2495556747886827
+Equatorial Guinea,2000,Developing,income_composition_of_resources,-0.527,-2.7397233621567008
+Eritrea,2005,Developing,income_composition_of_resources,-0.405,-2.598189570498799
+Ethiopia,2001,Developing,income_composition_of_resources,-0.015000000000000013,-2.2495556747886827
+Georgia,2000,Developing,income_composition_of_resources,-0.673,-3.590942286887265
+Grenada,2010,Developing,income_composition_of_resources,-0.741,-7.340902834162232
+Guatemala,2014,Developing,income_composition_of_resources,-0.02300000000000002,-4.4005234689905
+Guatemala,2012,Developing,income_composition_of_resources,0.0050000000000000044,2.216227564432034
+Guinea-Bissau,2005,Developing,income_composition_of_resources,-0.388,-2.477206537784563
+Iraq,2014,Developing,income_composition_of_resources,0.009000000000000008,2.7324283599803465
+Ireland,2014,Developed,income_composition_of_resources,-0.010000000000000009,-2.863277552007232
+Ireland,2012,Developed,income_composition_of_resources,-0.007000000000000006,-2.1277343065713183
+Ireland,2011,Developed,income_composition_of_resources,0.014000000000000012,3.6701639105747965
+Kazakhstan,2001,Developing,income_composition_of_resources,-0.014999999999999902,-2.2495556747886587
+Kiribati,2014,Developing,income_composition_of_resources,0.01100000000000001,3.178237849291025
+Kiribati,2005,Developing,income_composition_of_resources,-0.576,-3.8151365466243514
+Latvia,2009,Developed,income_composition_of_resources,0.006000000000000005,2.8001947536517107
+Latvia,2005,Developed,income_composition_of_resources,-0.016000000000000014,-2.6583990917657996
+Latvia,2004,Developed,income_composition_of_resources,-0.015000000000000013,-2.0131485408760104
+Latvia,2003,Developed,income_composition_of_resources,-0.015000000000000013,-2.5543748371081576
+Latvia,2002,Developed,income_composition_of_resources,-0.015000000000000013,-2.3141259353549657
+Latvia,2001,Developed,income_composition_of_resources,-0.018000000000000016,-2.7784753229504955
+Latvia,2000,Developed,income_composition_of_resources,-0.01200000000000001,-2.114175707941668
+Lebanon,2005,Developing,income_composition_of_resources,-0.733,-4.932450436985239
+Liberia,2001,Developing,income_composition_of_resources,0.010000000000000009,3.152526177836809
+Libya,2014,Developing,income_composition_of_resources,0.01100000000000001,3.178237849291025
+Libya,2012,Developing,income_composition_of_resources,-0.029000000000000026,-5.167362517199419
+Libya,2011,Developing,income_composition_of_resources,0.050000000000000044,8.887353060951089
+Lithuania,2000,Developed,income_composition_of_resources,-0.01200000000000001,-2.114175707941668
+Madagascar,2000,Developing,income_composition_of_resources,-0.456,-2.325774433006906
+Malawi,2009,Developing,income_composition_of_resources,-0.015000000000000013,-2.2153277522623416
+Malawi,2002,Developing,income_composition_of_resources,0.026000000000000023,4.997201993531676
+Mali,2008,Developing,income_composition_of_resources,-0.025000000000000022,-3.641150734101146
+Malta,2013,Developed,income_composition_of_resources,-0.019000000000000017,-3.3312541458286278
+Malta,2012,Developed,income_composition_of_resources,-0.007000000000000006,-2.1277343065713183
+Micronesia (Federated States of),2000,Developing,income_composition_of_resources,-0.604,-3.188653890952957
+Montenegro,2003,Developing,income_composition_of_resources,-0.74,-10.421046221617232
+Nigeria,2003,Developing,income_composition_of_resources,-0.445,-6.19642591472214
+Oman,2009,Developing,income_composition_of_resources,-0.015000000000000013,-2.2153277522623416
+Oman,2008,Developing,income_composition_of_resources,-0.017000000000000015,-2.118120925654407
+Oman,2000,Developing,income_composition_of_resources,-0.705,-3.777510818335059
+Qatar,2007,Developing,income_composition_of_resources,0.0050000000000000044,2.1736921792044948
+Qatar,2006,Developing,income_composition_of_resources,0.0050000000000000044,2.145325727386216
+Romania,2012,Developed,income_composition_of_resources,0.0030000000000000027,2.381371508679154
+Romania,2008,Developed,income_composition_of_resources,-0.015000000000000013,-3.8300433673583534
+Romania,2007,Developed,income_composition_of_resources,-0.014000000000000012,-2.91631460180006
+Rwanda,2006,Developing,income_composition_of_resources,-0.019999999999999962,-2.5197691003113363
+Saint Lucia,2013,Developing,income_composition_of_resources,0.01100000000000001,2.1017415149723377
+Saint Lucia,2000,Developing,income_composition_of_resources,-0.684,-3.6550752195724443
+Saint Vincent and the Grenadines,2000,Developing,income_composition_of_resources,-0.673,-3.590942286887265
+Senegal,2001,Developing,income_composition_of_resources,-0.016000000000000014,-2.4656389488937025
+Seychelles,2014,Developing,income_composition_of_resources,-0.015000000000000013,-2.617285511747789
+Seychelles,2000,Developing,income_composition_of_resources,-0.714,-3.8299832178047515
+Singapore,2010,Developed,income_composition_of_resources,-0.02200000000000002,-3.5449652165280745
+Singapore,2006,Developed,income_composition_of_resources,-0.03400000000000003,-4.695616877833791
+Singapore,2005,Developed,income_composition_of_resources,-0.018000000000000016,-3.167792929708947
+South Africa,2001,Developing,income_composition_of_resources,0.009000000000000008,2.93644290373179
+South Sudan,2011,Developing,income_composition_of_resources,0.010000000000000009,2.444768748883808
+South Sudan,2010,Developing,income_composition_of_resources,-0.429,-4.158644860468593
+Suriname,2004,Developing,income_composition_of_resources,-0.672,-10.218246939794039
+Swaziland,2002,Developing,income_composition_of_resources,0.009000000000000008,2.1754207534534062
+Syrian Arab Republic,2014,Developing,income_composition_of_resources,0.02199999999999991,5.63019004049973
+Syrian Arab Republic,2013,Developing,income_composition_of_resources,0.06000000000000005,9.209047488135194
+Syrian Arab Republic,2012,Developing,income_composition_of_resources,0.010000000000000009,3.3020496352601887
+The former Yugoslav republic of Macedonia,2005,Developing,income_composition_of_resources,-0.703,-4.718950967489528
+Timor-Leste,2014,Developing,income_composition_of_resources,0.009000000000000008,2.7324283599803465
+Timor-Leste,2008,Developing,income_composition_of_resources,-0.03300000000000003,-5.164180542547886
+Timor-Leste,2007,Developing,income_composition_of_resources,-0.02499999999999991,-3.417918026244868
+Timor-Leste,2006,Developing,income_composition_of_resources,-0.030000000000000027,-4.385807031390372
+Timor-Leste,2000,Developing,income_composition_of_resources,-0.47,-2.4073981655153163
+Turkmenistan,2010,Developing,income_composition_of_resources,-0.665,-6.565737430313782
+Ukraine,2009,Developing,income_composition_of_resources,0.006000000000000005,2.075939384221399
+Uzbekistan,2000,Developing,income_composition_of_resources,-0.594,-3.130351224875521
+Vanuatu,2005,Developing,income_composition_of_resources,-0.572,-3.78666995069159
+Zambia,2009,Developing,income_composition_of_resources,-0.015000000000000013,-2.2153277522623416
+Zimbabwe,2012,Developing,income_composition_of_resources,-0.023999999999999966,-4.081540446371252
+Zimbabwe,2009,Developing,income_composition_of_resources,-0.017000000000000015,-2.6240198604988882
+Zimbabwe,2002,Developing,income_composition_of_resources,0.009000000000000008,2.1754207534534062
+Afghanistan,2004,Developing,schooling,-1.1000000000000005,-3.215795542687399
+Albania,2011,Developing,schooling,-0.8999999999999986,-3.1452972618652435
+Angola,2012,Developing,schooling,-1.0999999999999996,-4.2784739674563115
+Angola,2011,Developing,schooling,-0.9000000000000004,-3.145297261865251
+Antigua and Barbuda,2005,Developing,schooling,-14.7,-11.957654824777228
+Argentina,2001,Developing,schooling,-0.7000000000000011,-2.081343493386056
+Armenia,2008,Developing,schooling,0.40000000000000036,2.2537987796419925
+Australia,2006,Developed,schooling,1.3000000000000007,4.697568594516845
+Australia,2001,Developed,schooling,0.3999999999999986,2.0495276345026787
+Austria,2002,Developed,schooling,1.4000000000000021,3.9236039322487426
+Azerbaijan,2014,Developing,schooling,-0.5,-3.4423683999591264
+Azerbaijan,2006,Developing,schooling,-0.9000000000000004,-2.7849171855106376
+Belgium,2014,Developed,schooling,-0.3000000000000007,-2.0510507990731663
+Belgium,2004,Developed,schooling,3.1000000000000014,4.832360644269021
+Benin,2001,Developing,schooling,-0.7000000000000002,-2.0813434933860524
+Bosnia and Herzegovina,2000,Developing,schooling,-11.6,-6.217265242729642
+Brazil,2013,Developing,schooling,-1.0,-2.601664571866789
+Burundi,2009,Developing,schooling,-0.7000000000000011,-2.636466286757775
+Burundi,2008,Developing,schooling,-0.6999999999999993,-2.3338970205851473
+Burundi,2007,Developing,schooling,-0.7000000000000002,-2.1347199287954095
+Burundi,2006,Developing,schooling,-1.2999999999999998,-4.237499206277842
+Cambodia,2002,Developing,schooling,-1.1000000000000014,-4.181711162449043
+Cameroon,2007,Developing,schooling,-0.8000000000000007,-2.5126129056396165
+Cameroon,2002,Developing,schooling,0.3000000000000007,2.1146829952555697
+Cameroon,2001,Developing,schooling,-1.3000000000000007,-4.4865695201816695
+Canada,2014,Developing,schooling,-0.40000000000000036,-2.694458143277362
+China,2014,Developing,schooling,-0.40000000000000036,-2.694458143277362
+China,2011,Developing,schooling,0.40000000000000036,2.122807281685507
+Congo,2012,Developing,schooling,-0.9000000000000004,-3.4130358307035973
+Congo,2011,Developing,schooling,0.5,2.5280460927278714
+Cuba,2012,Developing,schooling,1.0,4.8086264684472155
+Cuba,2011,Developing,schooling,0.8000000000000007,3.7437625258549714
+Cuba,2010,Developing,schooling,1.1000000000000014,2.829334872921926
+Cuba,2007,Developing,schooling,-1.1000000000000014,-3.646291836172234
+Cuba,2006,Developing,schooling,-1.3000000000000007,-4.237499206277844
+Cuba,2004,Developing,schooling,-1.0,-2.874074834069665
+Cyprus,2014,Developed,schooling,-0.3000000000000007,-2.0510507990731663
+Cyprus,2010,Developed,schooling,0.7999999999999989,3.2715568077599375
+Denmark,2011,Developed,schooling,-1.5,-3.8984315290529468
+Denmark,2000,Developed,schooling,0.3000000000000007,2.247685280900853
+El Salvador,2008,Developing,schooling,0.5999999999999996,3.0879252887741973
+Equatorial Guinea,2000,Developing,schooling,-8.0,-4.205535846332122
+Finland,2004,Developing,schooling,1.1999999999999993,4.643780755520433
+Georgia,2014,Developing,schooling,-0.40000000000000036,-2.694458143277362
+Ghana,2014,Developing,schooling,0.29999999999999893,2.540913653495003
+Ghana,2007,Developing,schooling,-0.7000000000000011,-2.134719928795413
+Ghana,2001,Developing,schooling,0.40000000000000036,2.328237555739245
+Greece,2007,Developing,schooling,0.4999999999999982,2.3999957933350426
+Guinea,2004,Developing,schooling,-1.5,-4.582678377158325
+Guyana,2007,Developing,schooling,0.5,2.3999957933350493
+Guyana,2006,Developing,schooling,0.5,2.299119887174584
+Iceland,2003,Developed,schooling,-0.6999999999999993,-2.5070954192914043
+Indonesia,2007,Developing,schooling,-0.6999999999999993,-2.1347199287954064
+Iran (Islamic Republic of),2012,Developing,schooling,-1.4000000000000004,-5.576631172585389
+Iran (Islamic Republic of),2008,Developing,schooling,-0.7000000000000011,-2.333897020585155
+Israel,2002,Developing,schooling,-0.6999999999999993,-2.3827414031048604
+Jamaica,2004,Developing,schooling,-1.3000000000000007,-3.8992369599228636
+Jamaica,2001,Developing,schooling,-0.7999999999999989,-2.482214497851983
+Jordan,2009,Developing,schooling,0.40000000000000036,2.455592436852297
+Kenya,2002,Developing,schooling,0.3000000000000007,2.1146829952555697
+Kiribati,2001,Developing,schooling,-1.299999999999999,-4.486569520181662
+Latvia,2009,Developed,schooling,0.3999999999999986,2.2914541660530605
+Lebanon,2004,Developing,schooling,0.5,2.251735795196313
+Lebanon,2002,Developing,schooling,0.3999999999999986,2.564425435091603
+Lithuania,2000,Developed,schooling,-0.6999999999999993,-3.0023825285025927
+Mali,2008,Developing,schooling,-1.2999999999999998,-4.836276547981772
+Mali,2007,Developing,schooling,0.6000000000000005,2.7778887701792563
+Malta,2014,Developed,schooling,-0.29999999999999893,-2.051050799073153
+Malta,2011,Developed,schooling,0.7000000000000011,2.0678636806280886
+Mauritius,2014,Developing,schooling,-0.5,-3.4423683999591264
+Micronesia (Federated States of),2000,Developing,schooling,-10.1,-5.379044660897342
+Mongolia,2001,Developing,schooling,-0.6999999999999993,-2.081343493386049
+Montenegro,2003,Developing,schooling,-12.6,-11.811862244494572
+Nepal,2009,Developing,schooling,-0.5999999999999996,-2.1735518573386714
+Nepal,2001,Developing,schooling,0.40000000000000036,2.328237555739245
+Netherlands,2011,Developed,schooling,-0.9000000000000021,-2.271260108230853
+New Zealand,2010,Developed,schooling,0.6000000000000014,2.5495580639784423
+New Zealand,2009,Developed,schooling,-1.0,-3.8927112941383446
+Norway,2001,Developed,schooling,0.3999999999999986,2.0495276345026787
+Oman,2009,Developing,schooling,-1.0999999999999996,-4.488124004434155
+Peru,2002,Developing,schooling,0.5999999999999996,3.463910314763694
+Poland,2013,Developed,schooling,-0.9999999999999982,-3.128343442718923
+Qatar,2011,Developing,schooling,-1.0,-3.550536072907615
+Qatar,2007,Developing,schooling,0.9000000000000004,3.9115677007118697
+Qatar,2006,Developing,schooling,1.0999999999999996,4.477992918325391
+Qatar,2001,Developing,schooling,0.40000000000000036,2.328237555739245
+Romania,2012,Developed,schooling,0.6000000000000014,3.7095354707956236
+Romania,2008,Developed,schooling,-0.7000000000000011,-3.6981527730549115
+Romania,2007,Developed,schooling,-0.5999999999999996,-3.1602083926383253
+Rwanda,2006,Developing,schooling,-0.7999999999999989,-2.4217716803188307
+Saudi Arabia,2012,Developing,schooling,-0.6999999999999993,-2.547597693950876
+Senegal,2014,Developing,schooling,-0.40000000000000036,-2.694458143277362
+Seychelles,2014,Developing,schooling,-0.9000000000000004,-6.434009426686198
+Singapore,2010,Developed,schooling,-0.6999999999999993,-2.1434337706013373
+Singapore,2005,Developed,schooling,-1.3000000000000007,-4.599843838391448
+Slovenia,2014,Developed,schooling,0.3000000000000007,2.4754061368124405
+Slovenia,2013,Developed,schooling,-0.8000000000000007,-2.3756593061249043
+Slovenia,2001,Developed,schooling,-0.9000000000000004,-2.5841870174164248
+Solomon Islands,2002,Developing,schooling,-0.7000000000000002,-2.3827414031048644
+Solomon Islands,2001,Developing,schooling,-0.7000000000000002,-2.0813434933860524
+South Sudan,2010,Developing,schooling,-4.9,-10.662125100063669
+Syrian Arab Republic,2013,Developing,schooling,4.0,10.870603958719117
+The former Yugoslav republic of Macedonia,2008,Developing,schooling,-0.8000000000000007,-2.750960275151257
+Timor-Leste,2000,Developing,schooling,-9.8,-5.211400544530883
+Togo,2007,Developing,schooling,0.5,2.3999957933350493
+Turkmenistan,2000,Developing,schooling,-10.2,-5.434926033019495
+Uganda,2011,Developing,schooling,0.6999999999999993,3.3385237148125997
+Uganda,2004,Developing,schooling,0.6999999999999993,2.935177212431774
+Ukraine,2001,Developing,schooling,-0.7000000000000011,-2.081343493386056
+Zimbabwe,2012,Developing,schooling,-0.5999999999999996,-2.114878625574519
+Zimbabwe,2002,Developing,schooling,0.5,3.0141678749276526
